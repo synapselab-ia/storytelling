@@ -6,36 +6,28 @@
 
 **Infraestrutura:** projeto migrado e consolidado no repositório `storytelling`. Este arquivo é o ponto de retomada entre chats.
 
-Nenhum capítulo definitivo deve ser escrito ainda. A premissa, o conflito central e a direção editorial geral já existem, mas ainda há decisões estruturais importantes em aberto antes do outline detalhado.
+Nenhum capítulo definitivo deve ser escrito ainda. A premissa, o conflito central, a cadeia causal do futuro sombrio e o gatilho temporal dos sonhos já possuem direção aprovada, mas ainda há decisões estruturais importantes em aberto antes do outline detalhado.
 
 ## Progresso da sessão mais recente
 
-A cadeia causal do futuro sombrio foi **aprovada pelo usuário e incorporada em `story/CURRENT_OUTLINE.md`**.
+O motivo pelo qual os sonhos começam exatamente no período inicial do romance foi **aprovado pelo usuário e consolidado na branch `story/supernatural-foundation`**, seguindo o novo fluxo por pull request.
 
-Ficou estabelecido que a protagonista recebe uma residência coreográfica de aproximadamente três meses em outra cidade, voltada ao desenvolvimento e apresentação de uma peça original. A oportunidade representa avanço real na carreira atual de ensino/coreografia, não tentativa de recuperar integralmente a trajetória de performance anterior ao acidente.
+Ficou estabelecido que um futuro emocionalmente extremo pode começar a ecoar para trás quando deixa de ser mera possibilidade abstrata e se torna uma trajetória causal concretamente alcançável. No romance, esse ponto ocorre quando a protagonista **envia a candidatura para a residência coreográfica**. O primeiro sonho relevante do protagonista acontece na mesma noite ou imediatamente em torno desse ponto.
 
-O tornozelo lesionado volta a apresentar dor e limitação por aumento de carga, mas ela pode continuar a residência com tratamento, administração de carga e adaptações. Por associar vulnerabilidade à perda de autonomia, ela tende a esconder a extensão do problema.
+A candidatura não condena a protagonista e a residência não é a causa direta da crise. Ela apenas torna alcançável uma linha específica de futuro cuja cadeia depende de várias escolhas posteriores.
 
-Nesse estágio, ela já conhece os sonhos e estabeleceu explicitamente que eles não dão ao protagonista autoridade sobre suas decisões. Quando elementos da residência começam a aparecer nos sonhos fragmentários, ele conclui por conta própria que a viagem conduz ao futuro sombrio. A inferência é incompleta: a residência não é a causa única nem direta da crise.
+O que reverbera não é um alerta genérico de perigo entre almas gêmeas. O futuro ecoa porque, naquela linha possível, a relação entre os protagonistas já adquiriu enorme intensidade emocional e a perda dela se torna um dos eventos definidores da vida dele. Isso explica por que os sonhos carregam intimidade, apego e luto muito antes de ele reconhecer conscientemente a mulher.
 
-A grande ruptura acontece quando ele quebra a fronteira de confiança e envolve o irmão para tentar intervir na decisão dela. O irmão, assustado, tenta convencê-la a interromper a residência ou voltar. Para ela, o gesto repete emocionalmente a ferida do hospital: novamente outras pessoas tratam o medo como autorização para restringir sua autonomia.
+Também ficou estabelecido que pequenas decisões não atualizam mecanicamente os sonhos. Mudanças perceptíveis exigem alteração relevante da cadeia causal. Intervenções superficiais podem deixar os fragmentos intactos ou até aproximar a realidade do futuro visto; mudanças estruturais nos padrões dos protagonistas podem fazer o futuro onírico divergir.
 
-Depois da ruptura, ela continua a residência, esconde dor e exaustão, reduz contato com a rede de apoio e tenta compensar trabalhando mais. A sobrecarga leva a adaptações profissionais que atingem seu senso de controle e identidade. A verdade completa do acidente emerge quando ela já está fisicamente e emocionalmente fragilizada, desmontando a crença de que absorver culpa e sofrimento em silêncio protege as pessoas ao redor.
+`story/CURRENT_OUTLINE.md` foi ajustado para ancorar o início do romance nesse gatilho e preservar a interpretação equivocada posterior do protagonista de que a residência, por ter coincidido com o começo dos sonhos, seria a causa do futuro sombrio.
 
-A crise suicida aguda vista nos sonhos não possui uma causa simples. Ela resulta da convergência de dor física, privação de sono, exaustão, isolamento autoimposto, perda temporária de capacidade/controle profissional, ruptura afetiva, quebra de confiança com o irmão, vergonha de admitir dificuldade e sensação de que escolhas importantes de sua vida são continuamente julgadas ou apropriadas por outras pessoas.
+### Fluxo de colaboração e GitHub
 
-A cadeia causal aprovada pode ser resumida como:
-
-**medo de vulnerabilidade → ocultação → medo do protagonista → controle/intervenção → mais ocultação → isolamento → sobrecarga → rupturas → crise.**
-
-A quebra do futuro exige mudança dos dois: ela mantém a autoridade sobre suas decisões, mas aceita ajuda, tratamento, adaptação, delegação e apoio; ele aprende a oferecer cuidado sem usar o medo ou os sonhos como justificativa para assumir controle. Impedir a residência não é a solução e pode, em algumas linhas possíveis, contribuir para construir o próprio futuro que ele tenta evitar.
-
-**Preferência de colaboração do usuário:** novas propostas narrativas, de canon ou estrutura devem ser apresentadas no chat antes de serem consolidadas no repositório. Brainstorm não deve ser versionado como decisão aprovada sem essa etapa.
-
-Commits desta consolidação:
-
-- `526a482bb569f053a63d5bca2395a8f51e1c11d2` — cadeia causal aprovada incorporada ao outline macro;
-- `f9fbfe1d6c1c3bf962df1890f71af9e977d2e143` — avanço das decisões pendentes após fechamento da cadeia causal.
+- novas propostas narrativas, de canon ou estrutura devem ser apresentadas no chat antes de serem consolidadas;
+- brainstorm não deve ser versionado como decisão aprovada sem essa etapa;
+- a partir desta etapa, blocos estruturais relevantes devem ser desenvolvidos em **branches e pull requests**, evitando commits diretos na `main`;
+- a branch atual é `story/supernatural-foundation`, destinada ao bloco de fundação sobrenatural.
 
 ## O que já está definido
 
@@ -53,13 +45,18 @@ Commits desta consolidação:
 - O protagonista cometeu a ferida central ao retirar dela o direito de visitar o irmão enquanto ele estava incapaz de decidir por si mesmo.
 - O protagonista tem sonhos recorrentes com uma mulher que tenta tirar a própria vida.
 - Ele não identifica claramente o rosto ou o nome da mulher nos sonhos.
-- Apesar disso, sente por ela uma intimidade, apego e perda profundos e inexplicáveis.
+- Apesar disso, sente por ela intimidade, apego e perda profundos e inexplicáveis.
 - A mulher dos sonhos é a professora de dança.
 - A descoberta deve ocorrer relativamente cedo, não como twist final.
 - Um reconhecimento ligado ao movimento/dança é o mecanismo preferido para a confirmação da identidade.
-- Os sonhos são ecos/fragmentos de um futuro possível, não necessariamente destino inevitável.
-- O fenômeno é associado a uma ideia de fio vermelho/soulmates, mas não deve retirar livre-arbítrio.
+- Os sonhos são ecos/fragmentos de um futuro possível, não destino inevitável.
+- O fenômeno é associado a uma ideia de fio vermelho/soulmates, mas não retira livre-arbítrio.
 - A protagonista recebe uma residência coreográfica de aproximadamente três meses em outra cidade para desenvolver uma peça original.
+- O envio da candidatura para essa residência é o ponto em que a linha de futuro sombrio se torna causalmente alcançável e começa a ecoar para trás.
+- O primeiro sonho relevante ocorre na mesma noite ou imediatamente em torno da candidatura.
+- O vínculo não funciona como alerta genérico de perigo; o futuro ecoa pela intensidade emocional adquirida pela relação naquela linha possível e pelo peso que a perda dela teria na vida dele.
+- Informação emocional atravessa os sonhos com mais clareza do que identidade, cronologia ou explicação factual.
+- Pequenas escolhas não alteram mecanicamente os sonhos; mudanças perceptíveis exigem alteração relevante da cadeia causal.
 - O tornozelo lesionado volta a impor limitações, mas não a impede automaticamente de realizar a residência.
 - Ela já sabe dos sonhos antes da grande ruptura e definiu uma fronteira explícita: os sonhos não dão ao protagonista autoridade sobre suas decisões.
 - A grande ruptura ocorre quando ele quebra essa confiança e envolve o irmão para tentar intervir na residência.
@@ -78,8 +75,8 @@ Commits desta consolidação:
 ## O que NÃO está fechado
 
 - Nomes, idades, cidade e demais detalhes biográficos dos três personagens.
-- Por que os sonhos começaram naquele momento específico.
-- Mecânica final do fio vermelho e quanto deve ser explicado ao leitor.
+- Quanto da mecânica do fio vermelho será explicitamente compreendido ou explicado aos personagens e ao leitor.
+- Se haverá apenas moldura simbólica/lendária, confirmação sobrenatural parcial ou alguma história familiar/cultural associada ao fenômeno.
 - Quantidade e ordem dos sonhos.
 - Detalhamento dos elementos oníricos que correspondem à residência, ruptura e crise.
 - Natureza específica da instituição/companhia/festival e cidade da residência.
@@ -96,18 +93,17 @@ Commits desta consolidação:
 
 ## Próximo passo recomendado
 
-1. decidir por que os sonhos começam naquele momento específico;
-2. fechar as regras finais do fenômeno sobrenatural e o grau de explicação do fio vermelho;
-3. construir o mapa dos sonhos de trás para frente a partir da cadeia causal aprovada;
-4. desenvolver fichas profundas dos três personagens centrais;
-5. fechar a dinâmica romântica detalhada e as ações de reconciliação;
-6. definir POV, pessoa verbal e distância narrativa;
-7. calibrar amostras originais de estilo e congelar `STYLE_EXAMPLES.md`;
-8. construir mapa de conhecimento e revelações;
-9. revisar o outline macro;
-10. produzir outline por capítulos;
-11. somente então iniciar prosa definitiva.
+1. fechar o grau de explicação do fio vermelho e distinguir funcionamento canônico de crenças/inferências dos personagens;
+2. construir o mapa dos sonhos de trás para frente a partir da cadeia causal e do gatilho temporal aprovados;
+3. desenvolver fichas profundas dos três personagens centrais;
+4. fechar a dinâmica romântica detalhada e as ações de reconciliação;
+5. definir POV, pessoa verbal e distância narrativa;
+6. calibrar amostras originais de estilo e congelar `STYLE_EXAMPLES.md`;
+7. construir mapa de conhecimento e revelações;
+8. revisar o outline macro;
+9. produzir outline por capítulos;
+10. somente então iniciar prosa definitiva.
 
 ## Regra para retomada em outro chat
 
-Ao continuar este projeto, não recomece da premissa. Leia os arquivos essenciais indicados em `PROJECT.md`, identifique a próxima decisão ainda aberta e avance a partir dela. Ao formular uma nova proposta narrativa, apresente-a ao usuário no chat antes de consolidá-la. Ao terminar uma sessão que altere o projeto, atualize este `STATUS.md`.
+Ao continuar este projeto, não recomece da premissa. Leia os arquivos essenciais indicados em `PROJECT.md`, identifique a próxima decisão ainda aberta e avance a partir dela. Ao formular uma nova proposta narrativa, apresente-a ao usuário no chat antes de consolidá-la. Para blocos estruturais relevantes, trabalhe em branch e PR em vez de commitar diretamente na `main`. Ao terminar uma sessão que altere o projeto, atualize este `STATUS.md`.

@@ -1,8 +1,23 @@
 # Regras editoriais específicas do projeto
 
+## Leitura obrigatória antes de escrever prosa
+
+Antes de escrever, revisar ou expandir qualquer cena do manuscrito, carregar também:
+
+1. `STYLE_TARGET.md`
+2. `PROSE_STYLE.md`
+3. `DIALOGUE_STYLE.md`
+4. `ROMANCE_STYLE.md`
+5. `DREAM_STYLE.md` quando houver sonho, eco ou reconhecimento ligado aos sonhos
+6. `FORBIDDEN_PATTERNS.md`
+
+Esses arquivos fazem parte da especificação do projeto. Não são sugestões opcionais.
+
 ## Tom pretendido
 
-Romance emocionalmente intenso, contemporâneo e acessível, com componente sobrenatural tratado com seriedade e mistério. Evitar melodrama automático, exposição metafísica excessiva e linguagem genérica de romance produzida por IA.
+Romance emocionalmente intenso, contemporâneo e acessível, com componente sobrenatural tratado com seriedade e mistério. A experiência de leitura deve ser muito fluida e viciante, com humor, banter, competência profissional, slow burn e alta proximidade emocional, sem imitar deliberadamente a voz de uma autora específica.
+
+Evitar melodrama automático, exposição metafísica excessiva e linguagem genérica de romance produzida por IA.
 
 ## Relação central
 

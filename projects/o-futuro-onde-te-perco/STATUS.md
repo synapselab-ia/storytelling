@@ -4,6 +4,8 @@
 
 **Fase:** pré-produção / arquitetura narrativa.
 
+**Infraestrutura:** projeto migrado e consolidado no repositório `storytelling`. Este arquivo é o ponto de retomada entre chats.
+
 Nenhum capítulo definitivo deve ser escrito ainda. A premissa e o conflito central já existem, mas há decisões causais importantes em aberto que precisam ser resolvidas antes do outline detalhado.
 
 ## O que já está definido

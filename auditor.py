@@ -2,6 +2,7 @@ import os
 from pathlib import Path
 
 from google import genai
+from google.genai import errors
 
 PROJECT_ROOT = Path("projects/o-futuro-onde-te-perco")
 
@@ -17,6 +18,8 @@ PROJECT_CONTEXT = [
     PROJECT_ROOT / "PROJECT.md",
     PROJECT_ROOT / "STATUS.md",
 ]
+
+DEFAULT_AUDIT_MODELS = ("gemini-3.7-flash", "gemini-3.6-flash")
 
 
 def existing_markdown_files(directory: Path) -> list[Path]:
@@ -49,11 +52,39 @@ def build_context() -> str:
     paths.extend(existing_markdown_files(PROJECT_ROOT / "canon"))
     paths.extend(existing_markdown_files(PROJECT_ROOT / "story"))
     paths.extend(existing_markdown_files(PROJECT_ROOT / "editorial"))
-
-    manuscript_files = existing_markdown_files(PROJECT_ROOT / "manuscript")
-    paths.extend(manuscript_files)
-
+    paths.extend(existing_markdown_files(PROJECT_ROOT / "manuscript"))
     return read_context(paths)
+
+
+def audit_models() -> tuple[str, ...]:
+    configured = os.environ.get("GEMINI_AUDITOR_MODEL")
+    if configured:
+        return (configured, *DEFAULT_AUDIT_MODELS)
+    return DEFAULT_AUDIT_MODELS
+
+
+def generate_report(client: genai.Client, prompt: str) -> tuple[str, str]:
+    last_server_error: errors.ServerError | None = None
+    attempted: set[str] = set()
+
+    for model in audit_models():
+        if model in attempted:
+            continue
+        attempted.add(model)
+
+        try:
+            response = client.models.generate_content(model=model, contents=prompt)
+            text = response.text or ""
+            if not text.strip():
+                raise RuntimeError(f"Modelo {model} retornou resposta vazia")
+            return model, text
+        except errors.ServerError as exc:
+            last_server_error = exc
+            print(f"WARNING: {model} indisponível no momento; tentando fallback.")
+
+    if last_server_error is not None:
+        raise last_server_error
+    raise RuntimeError("Nenhum modelo de auditoria disponível")
 
 
 def main() -> None:
@@ -90,13 +121,10 @@ CONTEXTO VERSIONADO:
 """
 
     client = genai.Client(api_key=api_key)
-    response = client.models.generate_content(
-        model="gemini-3.8-flash",
-        contents=prompt,
-    )
+    model, report = generate_report(client, prompt)
 
-    print("--- RELATÓRIO DE AUDITORIA NARRATIVA ---")
-    print(response.text)
+    print(f"--- RELATÓRIO DE AUDITORIA NARRATIVA ({model}) ---")
+    print(report)
 
 
 if __name__ == "__main__":

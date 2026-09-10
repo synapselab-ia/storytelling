@@ -1,5 +1,7 @@
 # Mapa de revelações — estrutura inicial
 
+> **Estado:** template de planejamento em preenchimento. Os campos `null` e listas vazias do modelo abaixo são placeholders deliberados, não decisões validadas nem dados canônicos.
+>
 > Ainda não há capítulos numerados nem ordem fechada. Este arquivo será preenchido à medida que fatos e outline forem formalizados.
 
 ## Revelações centrais já conhecidas

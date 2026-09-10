@@ -8,6 +8,16 @@
 
 Nenhum capítulo definitivo deve ser escrito ainda. A premissa, o conflito central e a direção editorial geral já existem, mas há decisões causais importantes em aberto que precisam ser resolvidas antes do outline detalhado.
 
+## Progresso da sessão mais recente
+
+A prioridade 1 — verdade completa do acidente — foi desenvolvida até uma **proposta líder coerente e causalmente detalhada**, registrada em `story/DECISIONS_PENDING.md`.
+
+A proposta recomenda responsabilidade compartilhada: a protagonista dirige de forma inadequada para pista molhada enquanto emocionalmente alterada; o irmão, em pânico, interfere fisicamente no volante; a combinação provoca a perda de controle e o impacto principal ocorre no lado do passageiro. Ela omite a interferência para protegê-lo e por sentir responsabilidade como motorista; ele posteriormente permite que a versão incompleta permaneça. O protagonista recebe evidências suficientes para acreditar de boa-fé que ela foi a responsável integral e agrava a ruptura ao tentar afastá-la do irmão no hospital.
+
+**Importante:** essa solução ainda está classificada como proposta, não como canon. Conforme a regra do projeto, ela só deve ser transferida para `canon/ACCIDENT.md` após decisão explícita de adoção. Enquanto isso, a prioridade 2 não deve ser consolidada como se a causa do acidente já estivesse fechada.
+
+Commit da proposta: `127991459d693bfcd65c44626945c7595e55ece1`.
+
 ## O que já está definido
 
 - O protagonista é médico.
@@ -36,10 +46,9 @@ Nenhum capítulo definitivo deve ser escrito ainda. A premissa, o conflito centr
 
 ## O que NÃO está fechado
 
-- Nomes, idades, cidade e detalhes biográficos dos três personagens.
-- Natureza exata e causa do acidente.
-- Grau de culpa real de cada pessoa no acidente.
-- Frase/ato exato que tornou a relação entre os protagonistas realmente hostil.
+- Adoção ou rejeição da proposta líder do acidente registrada em `story/DECISIONS_PENDING.md`.
+- Dentro dessa proposta: intervalo exato desde o acidente, mecanismo definitivo de interferência no volante, sequelas atuais do irmão, extensão da consequência profissional para a protagonista e formulação final da ferida no hospital.
+- Nomes, idades, cidade e demais detalhes biográficos dos três personagens.
 - Por que os sonhos começaram naquele momento específico.
 - Mecânica final do fio vermelho e quanto deve ser explicado ao leitor.
 - Cadeia causal completa que leva ao futuro sombrio visto nos sonhos.
@@ -55,19 +64,18 @@ Nenhum capítulo definitivo deve ser escrito ainda. A premissa, o conflito centr
 
 ## Próximo passo recomendado
 
-Resolver, nesta ordem:
-
-1. verdade completa do acidente;
-2. cadeia causal do futuro visto nos sonhos;
-3. regras finais do fenômeno sobrenatural;
-4. fichas profundas dos três personagens centrais;
-5. POV, pessoa verbal e distância narrativa;
-6. calibrar amostras originais de estilo e congelar `STYLE_EXAMPLES.md`;
-7. mapa de conhecimento e revelações;
-8. mapa dos sonhos;
-9. outline macro;
-10. outline por capítulos;
-11. somente então iniciar prosa definitiva.
+1. decidir explicitamente se a proposta líder do acidente em `story/DECISIONS_PENDING.md` será adotada, ajustada ou rejeitada;
+2. se adotada, consolidá-la em `canon/ACCIDENT.md` e remover da lista os pontos efetivamente fechados;
+3. construir a cadeia causal do futuro visto nos sonhos;
+4. fechar as regras finais do fenômeno sobrenatural;
+5. desenvolver fichas profundas dos três personagens centrais;
+6. definir POV, pessoa verbal e distância narrativa;
+7. calibrar amostras originais de estilo e congelar `STYLE_EXAMPLES.md`;
+8. construir mapa de conhecimento e revelações;
+9. construir mapa dos sonhos;
+10. revisar o outline macro;
+11. produzir outline por capítulos;
+12. somente então iniciar prosa definitiva.
 
 ## Regra para retomada em outro chat
 

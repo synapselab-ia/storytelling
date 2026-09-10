@@ -2,36 +2,33 @@
 
 > Este arquivo é a zona segura de brainstorm. Nada aqui é canon até ser escolhido explicitamente e movido para o arquivo correspondente.
 
-## Prioridade 1 — por que os sonhos começam agora
+## Prioridade 1 — grau de explicação do fio vermelho
 
-A cadeia causal do futuro sombrio foi aprovada e incorporada em `story/CURRENT_OUTLINE.md`.
+O gatilho temporal dos sonhos foi aprovado e incorporado em `canon/SUPERNATURAL_RULES.md`.
 
-Ainda precisamos decidir por que o protagonista começa a receber os sonhos exatamente no período inicial do romance.
+Está fechado que:
 
-Possibilidades ainda não escolhidas:
+- um futuro emocionalmente extremo pode ecoar para trás quando se torna uma trajetória causal concretamente alcançável;
+- no romance, esse ponto ocorre quando a protagonista envia a candidatura para a residência coreográfica;
+- o primeiro sonho acontece na mesma noite ou imediatamente em torno desse ponto;
+- o que reverbera é um futuro em que a relação dos dois já adquiriu enorme intensidade emocional e a perda dela se tornou um evento definidor da vida dele, não um sistema genérico de alerta de perigo;
+- pequenas escolhas não atualizam mecanicamente os sonhos; mudanças perceptíveis exigem alteração relevante da cadeia causal.
 
-- proximidade temporal de um ponto de bifurcação importante;
-- mudança recente na relação entre os dois;
-- evento futuro particularmente intenso reverberando para trás;
-- regra própria do vínculo que ainda precisa ser formulada.
+Ainda precisamos decidir **quanto disso será compreendido ou explicado pelos personagens e pelo leitor**.
 
-A solução deve ser compatível com as regras já aprovadas: futuro possível, livre-arbítrio preservado, informação onírica fragmentária e explicação sobrenatural limitada. Não adicionar explicação científica apenas para preencher lacuna.
+Possibilidades ainda abertas:
 
-## Prioridade 2 — grau de explicação do fio vermelho
+- apenas uma moldura simbólica/lendária que oferece linguagem para o fenômeno sem comprovar sua mecânica;
+- confirmação sobrenatural parcial, suficiente para sustentar a leitura de fio vermelho sem explicar origem, mecanismo ou finalidade;
+- alguma história familiar/cultural relacionada ao fenômeno, desde que não transforme o vínculo em sistema de magia detalhado.
 
-Decidir se o leitor terá:
+Preferência atual do projeto: explicação limitada e consistente, preservando mistério.
 
-- apenas uma moldura simbólica/lendária;
-- confirmação sobrenatural parcial;
-- alguma história familiar/cultural relacionada ao fenômeno.
+Também precisamos distinguir o que será **canon de funcionamento** do que os personagens apenas **acreditam** estar acontecendo. O protagonista pode inferir regras incorretas a partir dos sonhos; essas inferências não devem ser tratadas automaticamente como verdade metafísica.
 
-Preferência atual: explicação limitada e consistente, preservando mistério.
+## Prioridade 2 — mapa dos sonhos
 
-Também falta fechar se existe alguma regra adicional estritamente necessária para explicar o início, intensidade ou alteração dos sonhos. Não criar capacidades novas apenas para resolver problemas de roteiro.
-
-## Prioridade 3 — mapa dos sonhos
-
-A cadeia causal aprovada permite agora construir os sonhos de trás para frente.
+A cadeia causal e o gatilho temporal aprovados permitem construir os sonhos de trás para frente.
 
 Precisamos decidir:
 
@@ -45,7 +42,7 @@ Precisamos decidir:
 
 Cada sonho relevante deve acrescentar uma peça nova e permanecer compatível com `canon/SUPERNATURAL_RULES.md` e `editorial/DREAM_STYLE.md`.
 
-## Prioridade 4 — romance
+## Prioridade 3 — romance
 
 Alguns pontos estruturais já foram parcialmente fechados pela cadeia causal:
 
@@ -65,7 +62,7 @@ Ainda precisamos decidir:
 - quando o relacionamento deixa de ser ambíguo;
 - que ações específicas justificam a reconciliação e retomada da confiança.
 
-## Prioridade 5 — personagem feminina fora do romance
+## Prioridade 4 — personagem feminina fora do romance
 
 A direção profissional já ganhou um eixo aprovado: ela atua em ensino/coreografia e recebe uma residência coreográfica de aproximadamente três meses em outra cidade para desenvolver uma peça original.
 
@@ -80,7 +77,7 @@ Ainda precisamos definir:
 - o que ela deseja no início do livro independentemente do protagonista;
 - natureza concreta da instituição/companhia/festival e cidade da residência.
 
-## Prioridade 6 — protagonista médico
+## Prioridade 5 — protagonista médico
 
 Definir:
 
@@ -90,7 +87,7 @@ Definir:
 - relação entre profissão e necessidade de controle;
 - limites éticos para impedir que o papel de médico seja usado como atalho narrativo.
 
-## Prioridade 7 — POV e forma
+## Prioridade 6 — POV e forma
 
 Ainda aberto:
 

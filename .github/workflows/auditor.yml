@@ -1,0 +1,24 @@
+name: Auditoria Gemini
+on:
+  pull_request:
+    branches: [ main ] # Roda sempre que houver um Pull Request para a main
+
+jobs:
+  auditar:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Baixar o repositório
+      uses: actions/checkout@v4
+      
+    - name: Configurar o Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+        
+    - name: Instalar a minha biblioteca
+      run: pip install google-generativeai
+      
+    - name: Rodar a Auditoria Implacável
+      env:
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      run: python auditor.py

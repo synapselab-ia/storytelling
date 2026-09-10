@@ -1,5 +1,7 @@
 # Mapa dos sonhos — estrutura de planejamento
 
+> **Estado:** template de planejamento ainda não preenchido. Os campos `null` e listas vazias abaixo são placeholders deliberados, não decisões validadas nem dados canônicos.
+>
 > Ainda não existe sequência fechada. Este arquivo define como cada sonho deverá ser registrado para evitar pistas inconsistentes ou informação precoce.
 
 ## Regras de design

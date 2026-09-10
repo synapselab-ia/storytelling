@@ -2,22 +2,7 @@
 
 > Este arquivo é a zona segura de brainstorm. Nada aqui é canon até ser escolhido explicitamente e movido para o arquivo correspondente.
 
-## Prioridade 1 — detalhes residuais do acidente
-
-O núcleo causal do acidente foi aprovado e transferido para `canon/ACCIDENT.md`: responsabilidade compartilhada, pista molhada, condução rápida demais para as condições, interferência física do irmão no volante e omissão posterior dessa participação.
-
-Ainda precisamos decidir:
-
-- intervalo exato entre o acidente e o presente;
-- formulação oficial precisa do laudo/registro e quanto detalhe a família recebeu;
-- sequelas atuais específicas do irmão;
-- ferimentos específicos da protagonista;
-- se a lesão apenas interrompeu ou também redirecionou a carreira de dança;
-- ato e/ou frase exata do protagonista no hospital que tornou o conflito irreparável por anos.
-
-Esses detalhes devem preservar a lógica já canonizada e não podem alterar silenciosamente a distribuição de responsabilidade do acidente.
-
-## Prioridade 2 — cadeia causal do futuro sombrio
+## Prioridade 1 — cadeia causal do futuro sombrio
 
 Precisamos construir uma sequência específica de eventos que leve a protagonista do presente ao estado visto nos sonhos.
 
@@ -30,7 +15,7 @@ Evitar:
 
 A cadeia deve combinar fatores internos, relacionais e concretos, com sinais que possam ser plantados e reinterpretados.
 
-## Prioridade 3 — por que os sonhos começam agora
+## Prioridade 2 — por que os sonhos começam agora
 
 Possibilidades ainda não escolhidas:
 
@@ -41,7 +26,7 @@ Possibilidades ainda não escolhidas:
 
 Não adicionar explicação científica apenas para preencher lacuna.
 
-## Prioridade 4 — grau de explicação do fio vermelho
+## Prioridade 3 — grau de explicação do fio vermelho
 
 Decidir se o leitor terá:
 
@@ -51,7 +36,7 @@ Decidir se o leitor terá:
 
 Preferência atual: explicação limitada e consistente, preservando mistério.
 
-## Prioridade 5 — romance
+## Prioridade 4 — romance
 
 Precisamos decidir:
 
@@ -64,7 +49,7 @@ Precisamos decidir:
 - qual evento causa a grande ruptura;
 - que ações, e não apenas declarações, justificam a reconciliação.
 
-## Prioridade 6 — personagem feminina fora do romance
+## Prioridade 5 — personagem feminina fora do romance
 
 Definir:
 
@@ -75,7 +60,7 @@ Definir:
 - rede de apoio;
 - o que ela deseja no início do livro independentemente do protagonista.
 
-## Prioridade 7 — protagonista médico
+## Prioridade 6 — protagonista médico
 
 Definir:
 
@@ -85,7 +70,7 @@ Definir:
 - relação entre profissão e necessidade de controle;
 - limites éticos para impedir que o papel de médico seja usado como atalho narrativo.
 
-## Prioridade 8 — POV e forma
+## Prioridade 7 — POV e forma
 
 Ainda aberto:
 

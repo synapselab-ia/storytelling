@@ -10,13 +10,20 @@ Nenhum capítulo definitivo deve ser escrito ainda. A premissa, o conflito centr
 
 ## Progresso da sessão mais recente
 
-A prioridade 1 — verdade completa do acidente — foi desenvolvida até uma **proposta líder coerente e causalmente detalhada**, registrada em `story/DECISIONS_PENDING.md`.
+O núcleo causal da prioridade 1 — verdade completa do acidente — foi **aprovado pelo usuário e consolidado em canon** em `canon/ACCIDENT.md`.
 
-A proposta recomenda responsabilidade compartilhada: a protagonista dirige de forma inadequada para pista molhada enquanto emocionalmente alterada; o irmão, em pânico, interfere fisicamente no volante; a combinação provoca a perda de controle e o impacto principal ocorre no lado do passageiro. Ela omite a interferência para protegê-lo e por sentir responsabilidade como motorista; ele posteriormente permite que a versão incompleta permaneça. O protagonista recebe evidências suficientes para acreditar de boa-fé que ela foi a responsável integral e agrava a ruptura ao tentar afastá-la do irmão no hospital.
+Está estabelecido que a protagonista dirigia à noite em pista molhada, emocionalmente alterada e rápido demais para as condições. Quando o carro começou a sair da trajetória ideal, o irmão entrou em pânico e agarrou o volante para tentar corrigir a direção. Ela tentou recuperar o controle e freou; a combinação levou à perda de aderência e ao acidente. A responsabilidade é compartilhada: ela criou a situação de risco e ele teve participação causal decisiva ao interferir fisicamente na direção.
 
-**Importante:** essa solução ainda está classificada como proposta, não como canon. Conforme a regra do projeto, ela só deve ser transferida para `canon/ACCIDENT.md` após decisão explícita de adoção. Enquanto isso, a prioridade 2 não deve ser consolidada como se a causa do acidente já estivesse fechada.
+Também está estabelecido que ela omitiu a interferência dele ao relatar o acidente, em parte por assumir responsabilidade como motorista e em parte para protegê-lo. Quando ele recuperou memória suficiente para compreender sua participação, permitiu que a versão incompleta permanecesse. O protagonista, sem conhecer essa parte, teve evidências plausíveis para acreditar que ela era integralmente responsável.
 
-Commit da proposta: `127991459d693bfcd65c44626945c7595e55ece1`.
+Detalhes residuais permanecem abertos: tempo exato desde o acidente, laudo/registro preciso, sequelas específicas do irmão, ferimentos e impacto profissional exatos dela e ato/frase definitivo do protagonista no hospital.
+
+**Preferência de colaboração do usuário:** novas propostas narrativas, de canon ou estrutura devem ser apresentadas no chat antes de serem consolidadas no repositório. Brainstorm não deve ser versionado como decisão aprovada sem essa etapa.
+
+Commits desta consolidação:
+
+- `4e19df0ef5eb95bbdf053637062282029e413dbc` — núcleo causal do acidente em canon;
+- `5123d8213856c7fa8563ca5de2a8278fa1e3ef92` — limpeza da proposta já aprovada em `DECISIONS_PENDING.md`.
 
 ## O que já está definido
 
@@ -24,9 +31,12 @@ Commit da proposta: `127991459d693bfcd65c44626945c7595e55ece1`.
 - A protagonista feminina é professora de dança e melhor amiga do irmão mais velho dele desde a infância.
 - Os dois se conhecem há muitos anos e mantêm uma relação hostil no presente.
 - A hostilidade adulta está ligada a um acidente grave do passado envolvendo ela e o irmão.
-- Ela estava dirigindo no acidente; o protagonista acredita que ela foi responsável por quase matar seu irmão.
+- A protagonista dirigia rápido demais para as condições de uma pista molhada e tinha responsabilidade real pelo risco.
+- O irmão interferiu fisicamente no volante em pânico e teve participação causal decisiva na perda de controle.
+- Ela omitiu essa participação para protegê-lo e por assumir responsabilidade como motorista.
+- Ele posteriormente permitiu que a versão incompleta continuasse.
+- O protagonista acredita no início que ela foi responsável por quase matar seu irmão e não conhece a verdade completa.
 - O irmão continuou sendo melhor amigo dela depois do acidente.
-- A versão atual prevê que a verdade do acidente é incompleta: o irmão teve participação relevante e ela assumiu mais culpa do que deveria para protegê-lo.
 - O protagonista tem sonhos recorrentes com uma mulher que tenta tirar a própria vida.
 - Ele não identifica claramente o rosto ou o nome da mulher nos sonhos.
 - Apesar disso, sente por ela uma intimidade, apego e perda profundos e inexplicáveis.
@@ -46,8 +56,11 @@ Commit da proposta: `127991459d693bfcd65c44626945c7595e55ece1`.
 
 ## O que NÃO está fechado
 
-- Adoção ou rejeição da proposta líder do acidente registrada em `story/DECISIONS_PENDING.md`.
-- Dentro dessa proposta: intervalo exato desde o acidente, mecanismo definitivo de interferência no volante, sequelas atuais do irmão, extensão da consequência profissional para a protagonista e formulação final da ferida no hospital.
+- Intervalo exato desde o acidente.
+- Formulação oficial precisa do laudo/registro do acidente.
+- Sequelas atuais específicas do irmão.
+- Ferimentos exatos da protagonista e extensão da consequência profissional na dança.
+- Ato/frase definitiva do protagonista no hospital que tornou o conflito irreparável por anos.
 - Nomes, idades, cidade e demais detalhes biográficos dos três personagens.
 - Por que os sonhos começaram naquele momento específico.
 - Mecânica final do fio vermelho e quanto deve ser explicado ao leitor.
@@ -64,19 +77,18 @@ Commit da proposta: `127991459d693bfcd65c44626945c7595e55ece1`.
 
 ## Próximo passo recomendado
 
-1. decidir explicitamente se a proposta líder do acidente em `story/DECISIONS_PENDING.md` será adotada, ajustada ou rejeitada;
-2. se adotada, consolidá-la em `canon/ACCIDENT.md` e remover da lista os pontos efetivamente fechados;
-3. construir a cadeia causal do futuro visto nos sonhos;
-4. fechar as regras finais do fenômeno sobrenatural;
-5. desenvolver fichas profundas dos três personagens centrais;
-6. definir POV, pessoa verbal e distância narrativa;
-7. calibrar amostras originais de estilo e congelar `STYLE_EXAMPLES.md`;
-8. construir mapa de conhecimento e revelações;
-9. construir mapa dos sonhos;
-10. revisar o outline macro;
-11. produzir outline por capítulos;
-12. somente então iniciar prosa definitiva.
+1. resolver os detalhes residuais do acidente que afetem diretamente personagem e continuidade;
+2. construir a cadeia causal do futuro visto nos sonhos;
+3. fechar as regras finais do fenômeno sobrenatural;
+4. desenvolver fichas profundas dos três personagens centrais;
+5. definir POV, pessoa verbal e distância narrativa;
+6. calibrar amostras originais de estilo e congelar `STYLE_EXAMPLES.md`;
+7. construir mapa de conhecimento e revelações;
+8. construir mapa dos sonhos;
+9. revisar o outline macro;
+10. produzir outline por capítulos;
+11. somente então iniciar prosa definitiva.
 
 ## Regra para retomada em outro chat
 
-Ao continuar este projeto, não recomece da premissa. Leia os arquivos essenciais indicados em `PROJECT.md`, identifique a próxima decisão ainda aberta e avance a partir dela. Ao terminar uma sessão que altere o projeto, atualize este `STATUS.md`.
+Ao continuar este projeto, não recomece da premissa. Leia os arquivos essenciais indicados em `PROJECT.md`, identifique a próxima decisão ainda aberta e avance a partir dela. Ao formular uma nova proposta narrativa, apresente-a ao usuário no chat antes de consolidá-la. Ao terminar uma sessão que altere o projeto, atualize este `STATUS.md`.

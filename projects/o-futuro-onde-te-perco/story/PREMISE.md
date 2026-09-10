@@ -2,6 +2,8 @@
 
 Um médico começa a ter sonhos recorrentes com uma mulher desconhecida que tenta tirar a própria vida. Ele nunca consegue identificá-la claramente, mas sente por ela um vínculo emocional profundo, como se carregasse lembranças de um amor que ainda não viveu.
 
+Os sonhos começam no mesmo período em que, sem que ele saiba, a protagonista envia a candidatura para uma residência coreográfica importante. Esse ato torna concretamente alcançável a linha de futuro sombrio que reverbera para trás; não significa que a candidatura ou a residência sejam uma causa fatal ou um destino inevitável.
+
 Na vida desperta, ele convive com a melhor amiga de seu irmão mais velho, uma professora de dança que conhece desde a infância e por quem guarda ressentimento real. Anos antes, ela dirigia o carro em um acidente que quase matou o irmão. Ele nunca a perdoou; ela nunca o perdoou pela forma cruel como ele a tratou depois.
 
 A verdade é mais complexa do que ele acredita: o irmão teve participação importante no acidente e ela assumiu mais culpa do que deveria para protegê-lo.

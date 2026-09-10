@@ -4,8 +4,10 @@
 
 ## Ato 1 — A mulher sem rosto
 
-- O protagonista já sofre com sonhos recorrentes.
-- Ele tenta racionalizar o fenômeno por sua formação médica.
+- Pouco antes ou no início do romance, a protagonista envia a candidatura para a residência coreográfica que mais tarde será importante para sua trajetória profissional.
+- Na mesma noite da candidatura, ou imediatamente em torno desse ponto, o protagonista tem o primeiro sonho relevante com a mulher sem rosto. Nenhum dos dois sabe que esses acontecimentos estão conectados.
+- O gatilho sobrenatural não significa que a candidatura condene a protagonista: ela apenas torna concretamente alcançável uma linha de futuro emocionalmente extrema que passa a ecoar para trás.
+- O protagonista passa a sofrer com sonhos recorrentes e tenta racionalizar o fenômeno por sua formação médica.
 - A relação hostil com a melhor amiga do irmão é estabelecida no presente.
 - O acidente antigo é conhecido apenas pela versão parcial do protagonista.
 - Os sonhos começam a trazer detalhes novos e repetíveis.
@@ -18,6 +20,7 @@
 - Ele percebe que a mulher que vê morrer é justamente a pessoa por quem guarda ressentimento.
 - A identidade não é o mistério final; ela deve ser descoberta relativamente cedo, aproximadamente entre 25% e 35% do romance.
 - A pergunta passa a ser: por que ele vê esse futuro e o que leva até ele?
+- Quando mais tarde surgir a informação de que a candidatura ocorreu praticamente no mesmo momento em que os sonhos começaram, o protagonista pode interpretar isso como prova de que a residência é a causa do futuro sombrio. Essa conclusão é apenas parcialmente correta: a candidatura abriu uma trajetória causal possível, mas a residência não é a causa única nem direta da crise.
 
 ## Ato 3 — Aproximação, confiança e ameaça percebida
 
@@ -45,6 +48,7 @@
 - Em vez de pedir ajuda, ela esconde dor, exaustão e dificuldades profissionais, reduz contato com sua rede de apoio e tenta compensar trabalhando mais.
 - A carga torna-se insustentável. Ela precisa reduzir participação física, delegar partes do processo e adaptar o projeto.
 - Essa adaptação não destrói sua carreira, mas atinge um ponto vulnerável: ela sente que o corpo está novamente alterando um caminho que havia escolhido.
+- Muitas tentativas menores do protagonista de alterar o que vê podem falhar em modificar os sonhos de forma perceptível. Isso reforça temporariamente a impressão de destino inevitável, embora a regra real seja que só mudanças significativas na cadeia causal alteram o futuro onírico.
 
 ## Ato 5 — Verdade do acidente e colapso da estratégia de silêncio
 
@@ -71,6 +75,7 @@
 - O protagonista precisa apoiar uma escolha dela mesmo sem garantia de segurança e sem usar os sonhos como justificativa para assumir controle.
 - O movimento complementar dos dois é: ela aprende que autonomia não exige isolamento; ele aprende que cuidado não concede autoridade.
 - A cadeia causal que conduzia ao futuro visto nos sonhos é quebrada por escolhas reais e mudanças de comportamento, não por uma exceção metafísica.
+- A mudança do futuro onírico deve ocorrer apenas quando essas escolhas alterarem de fato a cadeia causal, não como resposta mecânica a cada pequena decisão do presente.
 
 ## Resolução
 

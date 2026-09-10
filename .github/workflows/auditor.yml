@@ -1,7 +1,7 @@
 name: Auditoria Gemini
 on:
-  pull_request:
-    branches: [ main ] # Roda sempre que houver um Pull Request para a main
+  push:
+    branches: [ main ] # Dispara a cada commit feito direto na main
 
 jobs:
   auditar:
@@ -15,7 +15,7 @@ jobs:
       with:
         python-version: '3.10'
         
-    - name: Instalar a minha biblioteca
+    - name: Instalar a biblioteca do Gemini
       run: pip install google-generativeai
       
     - name: Rodar a Auditoria Implacável

@@ -6,7 +6,7 @@
 
 **Infraestrutura:** projeto migrado e consolidado no repositório `storytelling`. Este arquivo é o ponto de retomada entre chats.
 
-Nenhum capítulo definitivo deve ser escrito ainda. A premissa e o conflito central já existem, mas há decisões causais importantes em aberto que precisam ser resolvidas antes do outline detalhado.
+Nenhum capítulo definitivo deve ser escrito ainda. A premissa, o conflito central e a direção editorial geral já existem, mas há decisões causais importantes em aberto que precisam ser resolvidas antes do outline detalhado.
 
 ## O que já está definido
 
@@ -30,6 +30,9 @@ Nenhum capítulo definitivo deve ser escrito ainda. A premissa e o conflito cent
 - O arco dela envolve permitir vulnerabilidade e ajuda sem perder autonomia.
 - O irmão deve ter função estrutural, não apenas servir de ponte entre o casal.
 - O final atualmente preferido envolve um sonho que finalmente continua além do ponto em que costumava terminar, mostrando-a viva e mais velha.
+- A direção editorial está definida como romance contemporâneo de alta legibilidade: leitura fluida e viciante, banter forte, química alta, protagonistas profissionalmente competentes, slow burn, proximidade emocional e humor em contraste com uma camada sobrenatural mais sombria.
+- A referência de gosto associada a Ali Hazelwood deve ser traduzida apenas em características abstratas de experiência de leitura; não imitar a voz específica da autora.
+- Prosa, diálogo, romance, sonhos e padrões proibidos têm especificações próprias em `editorial/` e são leitura obrigatória antes de produzir manuscrito.
 
 ## O que NÃO está fechado
 
@@ -44,8 +47,11 @@ Nenhum capítulo definitivo deve ser escrito ainda. A premissa e o conflito cent
 - Decisão profissional/pessoal que participa do clímax.
 - Quantidade e ordem dos sonhos.
 - POV definitivo, pessoa verbal e tempo narrativo.
+- Grau de explicitude sexual.
+- Comprimento médio dos capítulos.
 - Estrutura final de atos e número de capítulos.
 - Título definitivo.
+- Exemplos positivos/negativos de voz do próprio livro; só devem ser congelados depois de definir POV e testar amostras originais.
 
 ## Próximo passo recomendado
 
@@ -55,11 +61,13 @@ Resolver, nesta ordem:
 2. cadeia causal do futuro visto nos sonhos;
 3. regras finais do fenômeno sobrenatural;
 4. fichas profundas dos três personagens centrais;
-5. mapa de conhecimento e revelações;
-6. mapa dos sonhos;
-7. outline macro;
-8. outline por capítulos;
-9. somente então iniciar prosa definitiva.
+5. POV, pessoa verbal e distância narrativa;
+6. calibrar amostras originais de estilo e congelar `STYLE_EXAMPLES.md`;
+7. mapa de conhecimento e revelações;
+8. mapa dos sonhos;
+9. outline macro;
+10. outline por capítulos;
+11. somente então iniciar prosa definitiva.
 
 ## Regra para retomada em outro chat
 

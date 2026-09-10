@@ -1,4 +1,4 @@
-name: Auditoria Gemini
+name: Auditoria narrativa
 on:
   pull_request:
     branches: [ main ]
@@ -7,18 +7,18 @@ jobs:
   auditar:
     runs-on: ubuntu-latest
     steps:
-    - name: Baixar o repositório
-      uses: actions/checkout@v4
-      
-    - name: Configurar o Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.10'
-        
-    - name: Instalar a biblioteca do Gemini
-      run: pip install google-generativeai
-      
-    - name: Rodar a Auditoria Implacável
-      env:
-        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-      run: python auditor.py
+      - name: Baixar o repositório
+        uses: actions/checkout@v7
+
+      - name: Configurar o Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+
+      - name: Instalar Google GenAI SDK
+        run: pip install --disable-pip-version-check google-genai
+
+      - name: Rodar auditoria narrativa
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python auditor.py

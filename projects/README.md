@@ -2,6 +2,10 @@
 
 Cada subdiretório representa um livro independente.
 
+## Projetos ativos
+
+- `o-futuro-onde-te-perco/` — **O Futuro Onde Te Perco** *(título provisório)*. Romance contemporâneo/sobrenatural em pré-produção.
+
 ## Regras
 
 - Use um slug estável e curto para cada projeto.

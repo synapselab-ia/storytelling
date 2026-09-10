@@ -10,7 +10,7 @@ Nenhum capítulo definitivo deve ser escrito ainda. A premissa, o conflito centr
 
 ## Progresso da sessão mais recente
 
-O motivo pelo qual os sonhos começam exatamente no período inicial do romance foi **aprovado pelo usuário e consolidado em branch de trabalho**, seguindo o fluxo por pull request.
+O motivo pelo qual os sonhos começam exatamente no período inicial do romance foi **aprovado pelo usuário e incorporado aos arquivos do projeto pelo fluxo de branch e pull request**.
 
 Ficou estabelecido que um futuro emocionalmente extremo pode começar a ecoar para trás quando deixa de ser mera possibilidade abstrata e se torna uma trajetória causal concretamente alcançável. No romance, esse ponto ocorre quando a protagonista **envia a candidatura para a residência coreográfica**. O primeiro sonho relevante do protagonista acontece na mesma noite ou imediatamente em torno desse ponto.
 
@@ -27,7 +27,7 @@ Também ficou estabelecido que pequenas decisões não atualizam mecanicamente o
 - novas propostas narrativas, de canon ou estrutura devem ser apresentadas no chat antes de serem consolidadas;
 - brainstorm não deve ser versionado como decisão aprovada sem essa etapa;
 - blocos estruturais relevantes devem ser desenvolvidos em **branches e pull requests**, evitando commits diretos na `main`;
-- a branch atual de revisão é `story/supernatural-foundation-v2`, recriada a partir da `main` atual para evitar carregar histórico técnico desatualizado.
+- o PR é a unidade de revisão antes de uma mudança estrutural chegar à `main`; nomes de branches são transitórios e não fazem parte do estado narrativo persistente.
 
 ## O que já está definido
 

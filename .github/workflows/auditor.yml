@@ -1,7 +1,7 @@
 name: Auditoria Gemini
 on:
-  push:
-    branches: [ main ] # Dispara a cada commit feito direto na main
+  pull_request:
+    branches: [ main ]
 
 jobs:
   auditar:

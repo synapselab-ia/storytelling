@@ -2,33 +2,11 @@
 
 > Este arquivo é a zona segura de brainstorm. Nada aqui é canon até ser escolhido explicitamente e movido para o arquivo correspondente.
 
-## Prioridade 1 — grau de explicação do fio vermelho
+O grau de explicação do fio vermelho foi fechado e consolidado em `canon/SUPERNATURAL_RULES.md`: confirmação sobrenatural parcial, fio vermelho como moldura simbólica/cultural, ausência de autoridade explicadora ou linhagem familiar expositiva e distinção obrigatória entre canon de funcionamento e crenças dos personagens.
 
-O gatilho temporal dos sonhos foi aprovado e incorporado em `canon/SUPERNATURAL_RULES.md`.
+## Prioridade 1 — mapa dos sonhos
 
-Está fechado que:
-
-- um futuro emocionalmente extremo pode ecoar para trás quando se torna uma trajetória causal concretamente alcançável;
-- no romance, esse ponto ocorre quando a protagonista envia a candidatura para a residência coreográfica;
-- o primeiro sonho acontece na mesma noite ou imediatamente em torno desse ponto;
-- o que reverbera é um futuro em que a relação dos dois já adquiriu enorme intensidade emocional e a perda dela se tornou um evento definidor da vida dele, não um sistema genérico de alerta de perigo;
-- pequenas escolhas não atualizam mecanicamente os sonhos; mudanças perceptíveis exigem alteração relevante da cadeia causal.
-
-Ainda precisamos decidir **quanto disso será compreendido ou explicado pelos personagens e pelo leitor**.
-
-Possibilidades ainda abertas:
-
-- apenas uma moldura simbólica/lendária que oferece linguagem para o fenômeno sem comprovar sua mecânica;
-- confirmação sobrenatural parcial, suficiente para sustentar a leitura de fio vermelho sem explicar origem, mecanismo ou finalidade;
-- alguma história familiar/cultural relacionada ao fenômeno, desde que não transforme o vínculo em sistema de magia detalhado.
-
-Preferência atual do projeto: explicação limitada e consistente, preservando mistério.
-
-Também precisamos distinguir o que será **canon de funcionamento** do que os personagens apenas **acreditam** estar acontecendo. O protagonista pode inferir regras incorretas a partir dos sonhos; essas inferências não devem ser tratadas automaticamente como verdade metafísica.
-
-## Prioridade 2 — mapa dos sonhos
-
-A cadeia causal e o gatilho temporal aprovados permitem construir os sonhos de trás para frente.
+A cadeia causal, o gatilho temporal e o grau de explicação sobrenatural aprovados permitem construir os sonhos de trás para frente.
 
 Precisamos decidir:
 
@@ -42,7 +20,15 @@ Precisamos decidir:
 
 Cada sonho relevante deve acrescentar uma peça nova e permanecer compatível com `canon/SUPERNATURAL_RULES.md` e `editorial/DREAM_STYLE.md`.
 
-## Prioridade 3 — romance
+Ao mapear os sonhos, separar sempre:
+
+- o que o sonho realmente entrega;
+- o que o protagonista infere;
+- o que o leitor pode suspeitar;
+- o que é canon de funcionamento;
+- quais interpretações estão deliberadamente erradas ou incompletas naquele estágio.
+
+## Prioridade 2 — romance
 
 Alguns pontos estruturais já foram parcialmente fechados pela cadeia causal:
 
@@ -62,7 +48,7 @@ Ainda precisamos decidir:
 - quando o relacionamento deixa de ser ambíguo;
 - que ações específicas justificam a reconciliação e retomada da confiança.
 
-## Prioridade 4 — personagem feminina fora do romance
+## Prioridade 3 — personagem feminina fora do romance
 
 A direção profissional já ganhou um eixo aprovado: ela atua em ensino/coreografia e recebe uma residência coreográfica de aproximadamente três meses em outra cidade para desenvolver uma peça original.
 
@@ -77,7 +63,7 @@ Ainda precisamos definir:
 - o que ela deseja no início do livro independentemente do protagonista;
 - natureza concreta da instituição/companhia/festival e cidade da residência.
 
-## Prioridade 5 — protagonista médico
+## Prioridade 4 — protagonista médico
 
 Definir:
 
@@ -87,7 +73,7 @@ Definir:
 - relação entre profissão e necessidade de controle;
 - limites éticos para impedir que o papel de médico seja usado como atalho narrativo.
 
-## Prioridade 6 — POV e forma
+## Prioridade 5 — POV e forma
 
 Ainda aberto:
 

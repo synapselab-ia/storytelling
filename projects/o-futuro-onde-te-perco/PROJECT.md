@@ -37,6 +37,7 @@ Antes de trabalhar neste projeto, leia:
 4. `canon/SETTING.md`
 5. `story/PREMISE.md`
 6. `story/CURRENT_OUTLINE.md`
-7. `story/DECISIONS_PENDING.md`
+7. `story/ROMANCE_ARC.md`
+8. `story/DECISIONS_PENDING.md`
 
 Quando personagens e fatos forem formalizados em dados estruturados, esses arquivos terão precedência conforme as regras globais do repositório.

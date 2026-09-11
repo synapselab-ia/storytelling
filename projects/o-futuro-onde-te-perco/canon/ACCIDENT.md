@@ -10,7 +10,7 @@
 ## Sequência causal
 
 - A protagonista não estava alcoolizada nem sob efeito de drogas.
-- Ela estava emocionalmente alterada depois de uma discussão com o irmão e dirigia rápido demais para as condições da pista. Esse erro é responsabilidade real dela.
+- Ela estava emocionalmente alterada depois de uma discussão com o irmão mais novo do protagonista e dirigia rápido demais para as condições da pista. Esse erro é responsabilidade real dela.
 - Ao perceber que o carro entrava rápido demais em uma curva e começava a sair da trajetória ideal, o irmão entrou em pânico e agarrou o volante para tentar corrigir a direção.
 - Ela reagiu tentando recuperar o controle e freando.
 - A combinação de velocidade inadequada para a pista molhada, movimento brusco do volante, contracorreção e frenagem levou à perda de aderência e de controle do carro.

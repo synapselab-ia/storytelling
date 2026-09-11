@@ -1,17 +1,17 @@
-# Irmão mais velho — ficha provisória
+# Irmão mais novo — ficha provisória
 
 > Nome, idade, profissão e detalhes biográficos ainda não definidos.
 
 ## Função
 
-Irmão mais velho do protagonista e melhor amigo da protagonista feminina. É a ponte histórica entre os dois e parte estrutural do conflito do acidente.
+Irmão mais novo do protagonista e melhor amigo da protagonista feminina. É a ponte histórica entre os dois e parte estrutural do conflito do acidente.
 
 ## Traços já definidos
 
 - mantém amizade profunda com a protagonista feminina mesmo depois do acidente;
 - sabe mais sobre o acidente do que o protagonista;
 - teve participação relevante no que aconteceu;
-- permitiu, por medo, culpa, lealdade mal direcionada ou covardia, que o irmão mais novo mantivesse uma versão incompleta dos fatos;
+- permitiu, por medo, culpa, lealdade mal direcionada ou covardia, que o irmão mais velho mantivesse uma versão incompleta dos fatos;
 - ama os dois e deseja preservar vínculos, mas seu silêncio contribuiu para deteriorá-los.
 
 ## Crença disfuncional sugerida

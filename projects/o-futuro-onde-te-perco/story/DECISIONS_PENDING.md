@@ -4,29 +4,62 @@
 
 O grau de explicação do fio vermelho foi fechado e consolidado em `canon/SUPERNATURAL_RULES.md`: confirmação sobrenatural parcial, fio vermelho como moldura simbólica/cultural, ausência de autoridade explicadora ou linhagem familiar expositiva e distinção obrigatória entre canon de funcionamento e crenças dos personagens.
 
-## Prioridade 1 — mapa dos sonhos
+O `story/DREAM_MAP.md` agora contém um **esboço estrutural provisório aprovado** com oito sonhos relevantes e progressão funcional `terror → intimidade → identidade → investigação → erro causal → profecia autorrealizável → divergência → possibilidade`.
 
-A cadeia causal, o gatilho temporal e o grau de explicação sobrenatural aprovados permitem construir os sonhos de trás para frente.
+Esse mapa não está congelado em nível de capítulo. Continuam adaptáveis durante o desenvolvimento:
 
-Precisamos decidir:
+- posição exata dos sonhos;
+- detalhe corporal usado no reconhecimento;
+- objetos e sinais específicos da residência;
+- elementos exatos mostrados na ruptura;
+- forma concreta da primeira divergência;
+- cenário do sonho final;
+- presença ou ausência de capítulos-sonho separados.
 
-- quantidade aproximada de sonhos relevantes;
-- progressão de informação entre eles;
-- quais detalhes da residência, do corpo, da ruptura e da crise aparecem em cada estágio;
-- quais pistas permitem reconhecer a protagonista pela dança/movimento;
-- quando os sonhos começam a mudar em resposta às escolhas do presente;
-- como evitar repetição do mesmo suicídio em loop;
-- qual sonho final continua além do ponto antes recorrente.
+Esses ajustes não exigem reabrir a arquitetura inteira desde que preservem as funções e regras já aprovadas. Mudanças de função, quantidade estrutural ou lógica sobrenatural devem voltar para proposta antes de consolidação.
 
-Cada sonho relevante deve acrescentar uma peça nova e permanecer compatível com `canon/SUPERNATURAL_RULES.md` e `editorial/DREAM_STYLE.md`.
+## Prioridade 1 — personagens centrais
 
-Ao mapear os sonhos, separar sempre:
+Precisamos desenvolver fichas profundas dos três personagens centrais antes de fechar detalhes de romance e POV.
 
-- o que o sonho realmente entrega;
-- o que o protagonista infere;
-- o que o leitor pode suspeitar;
-- o que é canon de funcionamento;
-- quais interpretações estão deliberadamente erradas ou incompletas naquele estágio.
+### Protagonista feminina
+
+A direção profissional já ganhou um eixo aprovado: ela atua em ensino/coreografia e recebe uma residência coreográfica de aproximadamente três meses em outra cidade para desenvolver uma peça original.
+
+Ainda precisamos definir:
+
+- nome e idade;
+- ambição profissional mais específica;
+- tipo de dança/coreografia predominante;
+- situação atual de trabalho antes da residência;
+- relação cotidiana com o próprio corpo e a lesão;
+- conflitos familiares e sociais;
+- rede de apoio além dos dois irmãos;
+- o que ela deseja no início do livro independentemente do protagonista;
+- natureza concreta da instituição/companhia/festival e cidade da residência.
+
+### Protagonista médico
+
+Definir:
+
+- nome e idade;
+- especialidade;
+- estágio de carreira;
+- rotina;
+- relação entre profissão e necessidade de controle;
+- vida própria fora do romance e do irmão;
+- limites éticos para impedir que o papel de médico seja usado como atalho narrativo.
+
+### Irmão mais velho
+
+Definir:
+
+- nome e idade;
+- profissão/vida atual;
+- personalidade fora da função de melhor amigo/irmão;
+- relação atual com sequelas do acidente;
+- motivos e mecanismos que sustentaram seu silêncio durante seis anos;
+- arco próprio de responsabilização e reparação.
 
 ## Prioridade 2 — romance
 
@@ -48,32 +81,7 @@ Ainda precisamos decidir:
 - quando o relacionamento deixa de ser ambíguo;
 - que ações específicas justificam a reconciliação e retomada da confiança.
 
-## Prioridade 3 — personagem feminina fora do romance
-
-A direção profissional já ganhou um eixo aprovado: ela atua em ensino/coreografia e recebe uma residência coreográfica de aproximadamente três meses em outra cidade para desenvolver uma peça original.
-
-Ainda precisamos definir:
-
-- ambição profissional mais específica;
-- tipo de dança/coreografia predominante;
-- situação atual de trabalho antes da residência;
-- relação cotidiana com o próprio corpo e a lesão;
-- conflitos familiares e sociais;
-- rede de apoio além dos dois irmãos;
-- o que ela deseja no início do livro independentemente do protagonista;
-- natureza concreta da instituição/companhia/festival e cidade da residência.
-
-## Prioridade 4 — protagonista médico
-
-Definir:
-
-- especialidade;
-- estágio de carreira;
-- rotina;
-- relação entre profissão e necessidade de controle;
-- limites éticos para impedir que o papel de médico seja usado como atalho narrativo.
-
-## Prioridade 5 — POV e forma
+## Prioridade 3 — POV e forma
 
 Ainda aberto:
 
@@ -84,3 +92,13 @@ Ainda aberto:
 - presença ou ausência de capítulos-sonho separados.
 
 A escolha deve preservar o mistério sem empobrecer a agência dela.
+
+## Prioridade 4 — refinamento dos mapas
+
+Depois de personagens, romance e POV estarem mais concretos:
+
+- ajustar detalhes sensoriais e corporais de cada sonho;
+- preencher o cronograma de `story/REVEAL_MAP.md`;
+- validar conhecimento de personagem versus canon em cada marco;
+- revisar a posição percentual dos oito sonhos;
+- só então levar a sequência para outline por capítulos.

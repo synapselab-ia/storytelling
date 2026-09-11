@@ -21,6 +21,7 @@
 - A identidade não é o mistério final; ela deve ser descoberta relativamente cedo, aproximadamente entre 25% e 35% do romance.
 - A pergunta passa a ser: por que ele vê esse futuro e o que leva até ele?
 - Quando mais tarde surgir a informação de que a candidatura ocorreu praticamente no mesmo momento em que os sonhos começaram, o protagonista pode interpretar isso como prova de que a residência é a causa do futuro sombrio. Essa conclusão é apenas parcialmente correta: a candidatura abriu uma trajetória causal possível, mas a residência não é a causa única nem direta da crise.
+- Essa leitura deve permanecer claramente como **inferência imperfeita do protagonista**, não como afirmação metafísica do narrador ou regra canônica do vínculo.
 
 ## Ato 3 — Aproximação, confiança e ameaça percebida
 
@@ -76,6 +77,7 @@
 - O movimento complementar dos dois é: ela aprende que autonomia não exige isolamento; ele aprende que cuidado não concede autoridade.
 - A cadeia causal que conduzia ao futuro visto nos sonhos é quebrada por escolhas reais e mudanças de comportamento, não por uma exceção metafísica.
 - A mudança do futuro onírico deve ocorrer apenas quando essas escolhas alterarem de fato a cadeia causal, não como resposta mecânica a cada pequena decisão do presente.
+- O aprendizado dele sobre o vínculo permanece **prático, não totalizante**: ele entende que os sonhos mostram uma possibilidade alterável, mas não recebe explicação definitiva de origem, propósito ou destino.
 
 ## Resolução
 

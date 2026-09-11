@@ -6,21 +6,21 @@
 
 **Infraestrutura:** projeto migrado e consolidado no repositório `storytelling`. Este arquivo é o ponto de retomada entre chats.
 
-Nenhum capítulo definitivo deve ser escrito ainda. A premissa, o conflito central, a cadeia causal do futuro sombrio e o gatilho temporal dos sonhos já possuem direção aprovada, mas ainda há decisões estruturais importantes em aberto antes do outline detalhado.
+Nenhum capítulo definitivo deve ser escrito ainda. A premissa, o conflito central, a cadeia causal do futuro sombrio, o gatilho temporal dos sonhos e o grau de explicação do fenômeno sobrenatural já possuem direção aprovada, mas ainda há decisões estruturais importantes em aberto antes do outline detalhado.
 
 ## Progresso da sessão mais recente
 
-O motivo pelo qual os sonhos começam exatamente no período inicial do romance foi **aprovado pelo usuário e incorporado aos arquivos do projeto pelo fluxo de branch e pull request**.
+O grau de explicação do fio vermelho foi **aprovado pelo usuário e incorporado aos arquivos do projeto pelo fluxo de branch e pull request**.
 
-Ficou estabelecido que um futuro emocionalmente extremo pode começar a ecoar para trás quando deixa de ser mera possibilidade abstrata e se torna uma trajetória causal concretamente alcançável. No romance, esse ponto ocorre quando a protagonista **envia a candidatura para a residência coreográfica**. O primeiro sonho relevante do protagonista acontece na mesma noite ou imediatamente em torno desse ponto.
+Ficou estabelecido que o romance terá **confirmação sobrenatural parcial**: o leitor deve receber evidência narrativa suficiente para concluir que existe um vínculo sobrenatural real entre os protagonistas, mas não receberá uma explicação total de origem, finalidade, frequência ou metafísica.
 
-A candidatura não condena a protagonista e a residência não é a causa direta da crise. Ela apenas torna alcançável uma linha específica de futuro cuja cadeia depende de várias escolhas posteriores.
+A imagem do **fio vermelho** funciona como moldura simbólica, cultural ou lendária para dar linguagem ao fenômeno. Ela não funciona como manual técnico do universo. Não haverá autoridade explicadora, especialista sobrenatural, texto secreto ou linhagem familiar usada para esclarecer integralmente a mecânica.
 
-O que reverbera não é um alerta genérico de perigo entre almas gêmeas. O futuro ecoa porque, naquela linha possível, a relação entre os protagonistas já adquiriu enorme intensidade emocional e a perda dela se torna um dos eventos definidores da vida dele. Isso explica por que os sonhos carregam intimidade, apego e luto muito antes de ele reconhecer conscientemente a mulher.
+A confirmação virá pela própria experiência narrativa: sonhos com informação impossível de conhecer por vias ordinárias, reconhecimento corporal por elementos já vistos, correspondências futuras e divergências perceptíveis quando a cadeia causal realmente muda.
 
-Também ficou estabelecido que pequenas decisões não atualizam mecanicamente os sonhos. Mudanças perceptíveis exigem alteração relevante da cadeia causal. Intervenções superficiais podem deixar os fragmentos intactos ou até aproximar a realidade do futuro visto; mudanças estruturais nos padrões dos protagonistas podem fazer o futuro onírico divergir.
+Também foi fechada uma regra epistemológica importante: **canon de funcionamento não é igual a crença de personagem**. O protagonista pode racionalizar os sonhos, suspeitar de premonição, acreditar que vê uma morte inevitável e concluir temporariamente que a residência causa o futuro sombrio. Essas leituras podem ser emocionalmente convincentes e narrativamente úteis sem se tornarem verdade metafísica.
 
-`story/CURRENT_OUTLINE.md` foi ajustado para ancorar o início do romance nesse gatilho e preservar a interpretação equivocada posterior do protagonista de que a residência, por ter coincidido com o começo dos sonhos, seria a causa do futuro sombrio.
+A leitura correta é que a candidatura torna uma linha específica de futuro causalmente alcançável; a leitura de que a residência colocou a protagonista no caminho da morte é uma inferência temporária e incorreta do protagonista.
 
 ### Fluxo de colaboração e GitHub
 
@@ -57,6 +57,10 @@ Também ficou estabelecido que pequenas decisões não atualizam mecanicamente o
 - O vínculo não funciona como alerta genérico de perigo; o futuro ecoa pela intensidade emocional adquirida pela relação naquela linha possível e pelo peso que a perda dela teria na vida dele.
 - Informação emocional atravessa os sonhos com mais clareza do que identidade, cronologia ou explicação factual.
 - Pequenas escolhas não alteram mecanicamente os sonhos; mudanças perceptíveis exigem alteração relevante da cadeia causal.
+- O leitor recebe confirmação sobrenatural parcial de que o vínculo existe, sem explicação completa de origem, propósito ou prevalência.
+- O fio vermelho funciona como moldura simbólica/cultural, não como sistema de magia explicado.
+- Não haverá autoridade explicadora nem linhagem familiar sobrenatural usada como chave expositiva do fenômeno.
+- Canon de funcionamento e crença de personagem devem permanecer separados: inferências do protagonista podem estar erradas sem alterar as regras reais do vínculo.
 - O tornozelo lesionado volta a impor limitações, mas não a impede automaticamente de realizar a residência.
 - Ela já sabe dos sonhos antes da grande ruptura e definiu uma fronteira explícita: os sonhos não dão ao protagonista autoridade sobre suas decisões.
 - A grande ruptura ocorre quando ele quebra essa confiança e envolve o irmão para tentar intervir na residência.
@@ -75,8 +79,6 @@ Também ficou estabelecido que pequenas decisões não atualizam mecanicamente o
 ## O que NÃO está fechado
 
 - Nomes, idades, cidade e demais detalhes biográficos dos três personagens.
-- Quanto da mecânica do fio vermelho será explicitamente compreendido ou explicado aos personagens e ao leitor.
-- Se haverá apenas moldura simbólica/lendária, confirmação sobrenatural parcial ou alguma história familiar/cultural associada ao fenômeno.
 - Quantidade e ordem dos sonhos.
 - Detalhamento dos elementos oníricos que correspondem à residência, ruptura e crise.
 - Natureza específica da instituição/companhia/festival e cidade da residência.
@@ -93,16 +95,15 @@ Também ficou estabelecido que pequenas decisões não atualizam mecanicamente o
 
 ## Próximo passo recomendado
 
-1. fechar o grau de explicação do fio vermelho e distinguir funcionamento canônico de crenças/inferências dos personagens;
-2. construir o mapa dos sonhos de trás para frente a partir da cadeia causal e do gatilho temporal aprovados;
-3. desenvolver fichas profundas dos três personagens centrais;
-4. fechar a dinâmica romântica detalhada e as ações de reconciliação;
-5. definir POV, pessoa verbal e distância narrativa;
-6. calibrar amostras originais de estilo e congelar `STYLE_EXAMPLES.md`;
-7. construir mapa de conhecimento e revelações;
-8. revisar o outline macro;
-9. produzir outline por capítulos;
-10. somente então iniciar prosa definitiva.
+1. construir o mapa dos sonhos de trás para frente a partir da cadeia causal, do gatilho temporal e do grau de explicação aprovados;
+2. desenvolver fichas profundas dos três personagens centrais;
+3. fechar a dinâmica romântica detalhada e as ações de reconciliação;
+4. definir POV, pessoa verbal e distância narrativa;
+5. calibrar amostras originais de estilo e congelar `STYLE_EXAMPLES.md`;
+6. construir mapa de conhecimento e revelações;
+7. revisar o outline macro;
+8. produzir outline por capítulos;
+9. somente então iniciar prosa definitiva.
 
 ## Regra para retomada em outro chat
 

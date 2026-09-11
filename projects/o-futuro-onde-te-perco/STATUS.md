@@ -6,17 +6,51 @@
 
 **Infraestrutura:** projeto migrado e consolidado no repositório `storytelling`. Este arquivo é o ponto de retomada entre chats.
 
-Nenhum capítulo definitivo deve ser escrito ainda. A premissa, o conflito central, a cadeia causal do futuro sombrio, o gatilho temporal dos sonhos, o grau de explicação do fenômeno sobrenatural e um primeiro mapa estrutural dos sonhos já possuem direção aprovada, mas ainda há decisões importantes em aberto antes do outline detalhado.
+Nenhum capítulo definitivo deve ser escrito ainda. A premissa, o conflito central, a cadeia causal do futuro sombrio, o gatilho temporal dos sonhos, o grau de explicação do fenômeno sobrenatural, um primeiro mapa estrutural dos sonhos e uma primeira camada biográfica dos três personagens centrais já possuem direção aprovada, mas ainda há decisões importantes em aberto antes do outline detalhado.
 
 ## Progresso da sessão mais recente
 
-Foi aprovada uma **mudança explícita de hierarquia entre os irmãos**: o protagonista médico é o irmão mais velho; o personagem que sofreu o acidente é o irmão mais novo e melhor amigo da protagonista feminina.
+Foi aprovada uma primeira camada biográfica concreta dos três personagens centrais.
 
-Essa escolha reforça um traço já existente do protagonista sem justificá-lo moralmente: antes do acidente ele já estava habituado a assumir responsabilidade e tomar a frente em situações difíceis dentro da família. A crise do hospital radicaliza esse padrão e ajuda a explicar por que ele se arroga autoridade para impedir a visita da protagonista feminina, mas sua posição de irmão mais velho não lhe concede direito legítimo de decidir relações ou escolhas de outros adultos.
+### Protagonista médico
 
-Nomes, idades exatas, especialidade médica e profissão do irmão mais novo continuam abertos.
+- 37 anos;
+- irmão mais velho;
+- médico de emergência experiente;
+- possui autonomia profissional e função de referência/preceptoria, sem necessidade de ser chefe máximo do hospital;
+- já era médico aos 31, quando ocorreu o acidente;
+- medicina de emergência reforça capacidades que já existiam nele: leitura de risco, ação rápida, assunção de responsabilidade e funcionamento sob pressão;
+- não é emocionalmente frio: tende a converter emoção em tarefa, plano ou intervenção;
+- tolera mal impotência;
+- sua profissão e posição familiar explicam parte do padrão de controle, mas não lhe concedem autoridade pessoal sobre outros adultos.
 
-Também está aprovado um **esboço estrutural provisório de oito sonhos relevantes**. Esse número e a progressão funcional servem como arquitetura de desenvolvimento, não como sequência imutável por capítulo.
+### Protagonista feminina
+
+- 34 anos;
+- professora de dança contemporânea e composição coreográfica;
+- coreógrafa freelancer;
+- antes do acidente, sua trajetória era mais orientada para performance;
+- o acidente não destruiu sua carreira: ela construiu uma trajetória posterior que valoriza genuinamente;
+- quer consolidar-se como coreógrafa autoral reconhecida, em vez de ser vista principalmente como professora que também coreografa;
+- a residência de aproximadamente três meses representa uma oportunidade importante de desenvolver obra completa sob sua própria assinatura;
+- o tornozelo permite função ampla, mas pode limitar sob carga acumulada/repetitiva;
+- tende a esconder dor quando teme que admitir dificuldade permita que outros decidam por ela;
+- precisa ter pelo menos uma amizade significativa fora do núcleo dos irmãos.
+
+### Irmão mais novo
+
+- 34 anos;
+- arquiteto;
+- trabalha em escritório de porte médio e possui responsabilidade real sobre projetos/equipes;
+- é socialmente conciliador, mas não incapaz de decidir ou confrontar em todas as áreas;
+- seu ponto cego é conflito emocional com pessoas que ama;
+- a relação histórica de confiança/deferência com o irmão mais velho torna mais difícil confrontá-lo sobre o acidente;
+- o silêncio de seis anos não nasce de um único ato: consolida-se por culpa, adiamento, medo de reabrir trauma e dificuldade crescente de admitir tanto a participação no acidente quanto o tempo de omissão;
+- sua reparação precisa envolver aceitar consequências e reações, não apenas contar a verdade.
+
+Nomes, cidade, redes sociais/familiares concretas e rotinas específicas ainda estão abertos.
+
+Também permanece aprovado o **esboço estrutural provisório de oito sonhos relevantes**. Esse número e a progressão funcional servem como arquitetura de desenvolvimento, não como sequência imutável por capítulo.
 
 A progressão aprovada é:
 
@@ -33,11 +67,7 @@ Os oito marcos, em resumo, são:
 7. primeira divergência causada por mudança real de padrão, incluindo uma escolha da protagonista contra o isolamento;
 8. sonho final que ultrapassa o antigo ponto fatal e mostra a protagonista viva e mais velha.
 
-Também ficou definido como direção estética que o fio vermelho **não aparece literalmente nos sonhos**. A metáfora permanece uma linguagem cultural/simbólica para o fenômeno, não uma iconografia visual obrigatória.
-
-A crise suicida não deve ser repetida integralmente em loop. O primeiro sonho pode concentrar o impacto da crise; sonhos posteriores devem avançar por intimidade, pistas, causalidade, ruptura e divergência, preservando as regras de `editorial/DREAM_STYLE.md`.
-
-Continuam adaptáveis sem reabrir toda a arquitetura: posição exata por capítulo, detalhes sensoriais, gesto corporal específico de reconhecimento, objetos da residência, elementos concretos da ruptura, forma da primeira divergência, cenário ordinário do sonho final e presença ou ausência de capítulos-sonho separados.
+A crise suicida não deve ser repetida integralmente em loop. O fio vermelho não aparece literalmente nos sonhos.
 
 ### Fluxo de colaboração e GitHub
 
@@ -48,9 +78,9 @@ Continuam adaptáveis sem reabrir toda a arquitetura: posição exata por capít
 
 ## O que já está definido
 
-- O protagonista é médico e é o irmão mais velho.
-- O irmão que sofreu o acidente é o irmão mais novo do protagonista.
-- A protagonista feminina é professora de dança e melhor amiga do irmão mais novo dele desde a infância.
+- O protagonista é médico de emergência, tem 37 anos e é o irmão mais velho.
+- O irmão que sofreu o acidente tem 34 anos, é arquiteto e é o irmão mais novo do protagonista.
+- A protagonista feminina tem 34 anos, é professora de dança contemporânea/composição e coreógrafa freelancer; é melhor amiga do irmão mais novo desde a infância.
 - O papel familiar do protagonista como irmão mais velho e responsável antecede o acidente e contribui para seu hábito de assumir a frente sob pressão; isso explica parte do padrão, mas não legitima controle.
 - Os dois protagonistas se conhecem há muitos anos e mantêm uma relação hostil no presente.
 - A hostilidade adulta está ligada ao acidente grave ocorrido seis anos antes.
@@ -61,6 +91,9 @@ Continuam adaptáveis sem reabrir toda a arquitetura: posição exata por capít
 - O protagonista acredita no início que ela foi responsável por quase matar seu irmão e não conhece a verdade completa.
 - O irmão continuou sendo melhor amigo dela depois do acidente.
 - O acidente deixou consequências físicas reais nos dois, mas nenhum deles deve ser reduzido às sequelas.
+- A protagonista feminina quer consolidar carreira autoral como coreógrafa; a carreira atual não é prêmio de consolação pela perda da performance.
+- A lesão no tornozelo permite função ampla, mas carga repetitiva/acumulada pode produzir dor e limitação.
+- O irmão mais novo é competente e assertivo profissionalmente; seu evitamento é especificamente emocional/relacional.
 - O protagonista cometeu a ferida central ao retirar dela o direito de visitar o irmão enquanto ele estava incapaz de decidir por si mesmo.
 - O protagonista tem sonhos recorrentes com uma mulher que tenta tirar a própria vida.
 - Ele não identifica claramente o rosto ou o nome da mulher nos sonhos.
@@ -89,7 +122,7 @@ Continuam adaptáveis sem reabrir toda a arquitetura: posição exata por capít
 - A grande ruptura ocorre quando ele quebra essa confiança e envolve o irmão para tentar intervir na residência.
 - A crise futura decorre de uma cadeia multifatorial de dor, exaustão, ocultação, isolamento, rupturas e perda de controle percebida, não de uma causa única nem de destino sobrenatural arbitrário.
 - Impedir a residência não é a solução causal.
-- O protagonista não deve resolver a história simplesmente "salvando" a protagonista.
+- O protagonista não deve resolver a história simplesmente “salvando” a protagonista.
 - O arco dele envolve perceber que amar/cuidar não é controlar a vida de outra pessoa.
 - O arco dela envolve permitir vulnerabilidade e ajuda sem perder autonomia.
 - A quebra do futuro depende de escolhas concretas dos dois e de mudança nos padrões que alimentavam a cadeia causal.
@@ -100,16 +133,16 @@ Continuam adaptáveis sem reabrir toda a arquitetura: posição exata por capít
 
 ## O que NÃO está fechado
 
-- Nomes, idades exatas, cidade e demais detalhes biográficos dos três personagens.
+- Nomes dos três personagens, cidade e detalhes biográficos/social-familiares mais específicos.
+- Hospital, escala/rotina concreta e vida social própria do protagonista médico.
+- Estúdio, arranjo cotidiano de trabalho, família e identidade da principal amizade externa da protagonista feminina.
+- Área específica da arquitetura, escritório/rotina e vida afetiva/social do irmão mais novo.
 - Posição exata por capítulo dos oito sonhos e seus detalhes sensoriais definitivos.
 - Gesto corporal específico usado no reconhecimento, dependente do detalhamento da prática de dança da protagonista.
 - Objetos, sons, espaços e demais pistas concretas da residência.
 - Natureza específica da instituição/companhia/festival e cidade da residência.
 - Dinâmica romântica detalhada antes da ruptura: confiança, primeiro beijo e momento em que a relação deixa de ser ambígua.
 - Ações específicas da reconciliação depois da ruptura.
-- Ambição profissional detalhada, rede de apoio e vida familiar/social da protagonista.
-- Especialidade e estágio de carreira do protagonista médico.
-- Vida/profissão atual e arco detalhado do irmão mais novo.
 - POV definitivo, pessoa verbal e tempo narrativo.
 - Presença ou ausência de capítulos-sonho separados.
 - Grau de explicitude sexual.
@@ -120,7 +153,7 @@ Continuam adaptáveis sem reabrir toda a arquitetura: posição exata por capít
 
 ## Próximo passo recomendado
 
-1. desenvolver fichas profundas dos três personagens centrais;
+1. completar nomes, vida cotidiana e redes sociais/familiares dos três personagens centrais;
 2. fechar a dinâmica romântica detalhada e as ações de reconciliação;
 3. definir POV, pessoa verbal e distância narrativa;
 4. retornar ao mapa dos sonhos para calibrar detalhes corporais/sensoriais com os personagens já definidos;

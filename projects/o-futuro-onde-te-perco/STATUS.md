@@ -6,21 +6,32 @@
 
 **Infraestrutura:** projeto migrado e consolidado no repositório `storytelling`. Este arquivo é o ponto de retomada entre chats.
 
-Nenhum capítulo definitivo deve ser escrito ainda. A premissa, o conflito central, a cadeia causal do futuro sombrio, o gatilho temporal dos sonhos e o grau de explicação do fenômeno sobrenatural já possuem direção aprovada, mas ainda há decisões estruturais importantes em aberto antes do outline detalhado.
+Nenhum capítulo definitivo deve ser escrito ainda. A premissa, o conflito central, a cadeia causal do futuro sombrio, o gatilho temporal dos sonhos, o grau de explicação do fenômeno sobrenatural e um primeiro mapa estrutural dos sonhos já possuem direção aprovada, mas ainda há decisões importantes em aberto antes do outline detalhado.
 
 ## Progresso da sessão mais recente
 
-O grau de explicação do fio vermelho foi **aprovado pelo usuário e incorporado aos arquivos do projeto pelo fluxo de branch e pull request**.
+Foi aprovado um **esboço estrutural provisório de oito sonhos relevantes**. Esse número e a progressão funcional servem como arquitetura de desenvolvimento, não como sequência imutável por capítulo.
 
-Ficou estabelecido que o romance terá **confirmação sobrenatural parcial**: o leitor deve receber evidência narrativa suficiente para concluir que existe um vínculo sobrenatural real entre os protagonistas, mas não receberá uma explicação total de origem, finalidade, frequência ou metafísica.
+A progressão aprovada é:
 
-A imagem do **fio vermelho** funciona como moldura simbólica, cultural ou lendária para dar linguagem ao fenômeno. Ela não funciona como manual técnico do universo. Não haverá autoridade explicadora, especialista sobrenatural, texto secreto ou linhagem familiar usada para esclarecer integralmente a mecânica.
+`terror → intimidade → identidade → investigação → erro causal → profecia autorrealizável → divergência → possibilidade`
 
-A confirmação virá pela própria experiência narrativa: sonhos com informação impossível de conhecer por vias ordinárias, reconhecimento corporal por elementos já vistos, correspondências futuras e divergências perceptíveis quando a cadeia causal realmente muda.
+Os oito marcos, em resumo, são:
 
-Também foi fechada uma regra epistemológica importante: **canon de funcionamento não é igual a crença de personagem**. O protagonista pode racionalizar os sonhos, suspeitar de premonição, acreditar que vê uma morte inevitável e concluir temporariamente que a residência causa o futuro sombrio. Essas leituras podem ser emocionalmente convincentes e narrativamente úteis sem se tornarem verdade metafísica.
+1. primeiro sonho na noite da candidatura, centrado em perda e intimidade impossível;
+2. sonho de intimidade cotidiana com primeira pista corporal;
+3. sonho que completa a pista de movimento e permite o reconhecimento da protagonista;
+4. entrada de elementos da residência no campo onírico;
+5. acúmulo de sinais que faz a leitura causal equivocada do protagonista parecer plausível;
+6. percepção de que suas próprias intervenções estão reproduzindo partes do futuro visto;
+7. primeira divergência causada por mudança real de padrão, incluindo uma escolha da protagonista contra o isolamento;
+8. sonho final que ultrapassa o antigo ponto fatal e mostra a protagonista viva e mais velha.
 
-A leitura correta é que a candidatura torna uma linha específica de futuro causalmente alcançável; a leitura de que a residência colocou a protagonista no caminho da morte é uma inferência temporária e incorreta do protagonista.
+Também ficou definido como direção estética que o fio vermelho **não aparece literalmente nos sonhos**. A metáfora permanece uma linguagem cultural/simbólica para o fenômeno, não uma iconografia visual obrigatória.
+
+A crise suicida não deve ser repetida integralmente em loop. O primeiro sonho pode concentrar o impacto da crise; sonhos posteriores devem avançar por intimidade, pistas, causalidade, ruptura e divergência, preservando as regras de `editorial/DREAM_STYLE.md`.
+
+Continuam adaptáveis sem reabrir toda a arquitetura: posição exata por capítulo, detalhes sensoriais, gesto corporal específico de reconhecimento, objetos da residência, elementos concretos da ruptura, forma da primeira divergência, cenário ordinário do sonho final e presença ou ausência de capítulos-sonho separados.
 
 ### Fluxo de colaboração e GitHub
 
@@ -61,6 +72,10 @@ A leitura correta é que a candidatura torna uma linha específica de futuro cau
 - O fio vermelho funciona como moldura simbólica/cultural, não como sistema de magia explicado.
 - Não haverá autoridade explicadora nem linhagem familiar sobrenatural usada como chave expositiva do fenômeno.
 - Canon de funcionamento e crença de personagem devem permanecer separados: inferências do protagonista podem estar erradas sem alterar as regras reais do vínculo.
+- O mapa atual trabalha com oito sonhos estruturalmente relevantes, de forma provisória, com progressão de terror a possibilidade.
+- O fio vermelho não deve aparecer literalmente nos sonhos como cordão, linha luminosa ou equivalente.
+- O reconhecimento da protagonista ocorre no terceiro grande marco onírico, aproximadamente na faixa de 25–30%, por correspondência corporal/movimento.
+- O sonho final continua além do antigo ponto fatal e mostra a protagonista viva e mais velha, sem servir como garantia de futuro perfeito.
 - O tornozelo lesionado volta a impor limitações, mas não a impede automaticamente de realizar a residência.
 - Ela já sabe dos sonhos antes da grande ruptura e definiu uma fronteira explícita: os sonhos não dão ao protagonista autoridade sobre suas decisões.
 - A grande ruptura ocorre quando ele quebra essa confiança e envolve o irmão para tentar intervir na residência.
@@ -71,7 +86,6 @@ A leitura correta é que a candidatura torna uma linha específica de futuro cau
 - O arco dela envolve permitir vulnerabilidade e ajuda sem perder autonomia.
 - A quebra do futuro depende de escolhas concretas dos dois e de mudança nos padrões que alimentavam a cadeia causal.
 - O irmão deve ter função estrutural, não apenas servir de ponte entre o casal.
-- O final atualmente preferido envolve um sonho que finalmente continua além do ponto em que costumava terminar, mostrando-a viva e mais velha.
 - A direção editorial está definida como romance contemporâneo de alta legibilidade: leitura fluida e viciante, banter forte, química alta, protagonistas profissionalmente competentes, slow burn, proximidade emocional e humor em contraste com uma camada sobrenatural mais sombria.
 - A referência de gosto associada a Ali Hazelwood deve ser traduzida apenas em características abstratas de experiência de leitura; não imitar a voz específica da autora.
 - Prosa, diálogo, romance, sonhos e padrões proibidos têm especificações próprias em `editorial/` e são leitura obrigatória antes de produzir manuscrito.
@@ -79,14 +93,17 @@ A leitura correta é que a candidatura torna uma linha específica de futuro cau
 ## O que NÃO está fechado
 
 - Nomes, idades, cidade e demais detalhes biográficos dos três personagens.
-- Quantidade e ordem dos sonhos.
-- Detalhamento dos elementos oníricos que correspondem à residência, ruptura e crise.
+- Posição exata por capítulo dos oito sonhos e seus detalhes sensoriais definitivos.
+- Gesto corporal específico usado no reconhecimento, dependente do detalhamento da prática de dança da protagonista.
+- Objetos, sons, espaços e demais pistas concretas da residência.
 - Natureza específica da instituição/companhia/festival e cidade da residência.
 - Dinâmica romântica detalhada antes da ruptura: confiança, primeiro beijo e momento em que a relação deixa de ser ambígua.
 - Ações específicas da reconciliação depois da ruptura.
 - Ambição profissional detalhada, rede de apoio e vida familiar/social da protagonista.
 - Especialidade e estágio de carreira do protagonista médico.
+- Vida/profissão atual e arco detalhado do irmão mais velho.
 - POV definitivo, pessoa verbal e tempo narrativo.
+- Presença ou ausência de capítulos-sonho separados.
 - Grau de explicitude sexual.
 - Comprimento médio dos capítulos.
 - Estrutura final de atos e número de capítulos.
@@ -95,12 +112,12 @@ A leitura correta é que a candidatura torna uma linha específica de futuro cau
 
 ## Próximo passo recomendado
 
-1. construir o mapa dos sonhos de trás para frente a partir da cadeia causal, do gatilho temporal e do grau de explicação aprovados;
-2. desenvolver fichas profundas dos três personagens centrais;
-3. fechar a dinâmica romântica detalhada e as ações de reconciliação;
-4. definir POV, pessoa verbal e distância narrativa;
+1. desenvolver fichas profundas dos três personagens centrais;
+2. fechar a dinâmica romântica detalhada e as ações de reconciliação;
+3. definir POV, pessoa verbal e distância narrativa;
+4. retornar ao mapa dos sonhos para calibrar detalhes corporais/sensoriais com os personagens já definidos;
 5. calibrar amostras originais de estilo e congelar `STYLE_EXAMPLES.md`;
-6. construir mapa de conhecimento e revelações;
+6. completar mapa de conhecimento e revelações;
 7. revisar o outline macro;
 8. produzir outline por capítulos;
 9. somente então iniciar prosa definitiva.

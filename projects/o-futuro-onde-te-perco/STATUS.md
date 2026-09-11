@@ -6,34 +6,37 @@
 
 **Infraestrutura:** projeto consolidado no repositório `storytelling`. Este arquivo é o ponto de retomada entre chats.
 
-Nenhum capítulo definitivo deve ser escrito ainda. Premissa, acidente, cadeia causal do futuro sombrio, regras sobrenaturais, mapa estrutural provisório dos sonhos, setting, camada biográfica/social dos personagens centrais e **arco romântico em alto nível** já possuem direção aprovada.
+Nenhum capítulo definitivo deve ser escrito ainda. Premissa, acidente, cadeia causal do futuro sombrio, regras sobrenaturais, mapa estrutural provisório dos sonhos, setting, personagens centrais, arco romântico e **forma narrativa** já possuem direção aprovada.
 
 ## Progresso da sessão mais recente
 
-Foi aprovado e consolidado o arco romântico macro entre Henrique Almeida e Lívia Sampaio. O arquivo de referência é `story/ROMANCE_ARC.md`.
+Foi fechada a forma narrativa do romance.
 
-### Marcos românticos aprovados
+### POV e forma aprovados
 
-- antes do acidente existia implicância real, familiaridade e conflito em torno de responsabilidade/autonomia; não existe paixão juvenil secreta;
-- os sonhos produzem primeiro atenção involuntária em Henrique, não desejo romântico automático;
-- Henrique começa a reclassificar Lívia ao vê-la como profissional competente e pessoa adulta fora da narrativa do acidente;
-- Lívia reclassifica Henrique ao reencontrar aspectos dele fora do papel de juiz do acidente;
-- Henrique reconhece Lívia como a mulher dos sonhos aproximadamente em 25–30%;
-- Lívia descobre os sonhos aproximadamente em 35–40%, no Ato 3;
-- os dois estabelecem pacto explícito: Henrique fala com Lívia sobre informação dos sonhos que diz respeito a ela e não usa Tomás/família/terceiros para administrar suas decisões;
-- antes de saber a verdade completa do acidente, Henrique pede desculpas por ter impedido Lívia de ver Tomás no hospital, reconhecendo que mesmo a culpa que ele acreditava existir não lhe dava autoridade para excluí-la;
-- o primeiro beijo ocorre aproximadamente em 45–50%, em contexto de desejo escolhido e não como descarga de medo/crise;
-- a relação deixa de ser ambígua aproximadamente em 50–60%, antes do início da residência;
-- a primeira reação de Henrique à conquista profissional da residência deve incluir felicidade genuína por Lívia;
-- a ruptura ocorre quando Henrique viola exatamente o pacto de confiança e envolve Tomás para tentar interferir na residência;
-- o término é inequívoco; Henrique não deve perseguir Lívia, invadir São Paulo ou justificar controle com amor;
-- a primeira prova de mudança depois da ruptura é contenção: respeitar espaço, não monitorar por terceiros e não transformar ansiedade em investigação;
-- após a verdade do acidente, Henrique corrige a narrativa dentro da própria família como reparação independente do romance;
-- a reconciliação depende de mudança demonstrada sob pressão real: Henrique sente medo sem transformá-lo em autoridade; Lívia sente vulnerabilidade sem transformá-la em isolamento;
-- a retomada romântica ocorre fora do pico da crise, depois que comportamento novo já foi demonstrado;
-- o sonho final confirma possibilidade sobrenatural, mas não cria nem valida sozinho o casal.
+- **POV único de Henrique Almeida**;
+- **terceira pessoa limitada**;
+- **tempo verbal passado**;
+- distância narrativa próxima, com variação controlada conforme contexto emocional;
+- não haverá capítulos principais em POV de Lívia ou Tomás;
+- a escolha preserva de forma honesta a revelação tardia de que Tomás agarrou o volante, evitando esconder artificialmente de um POV de Lívia algo que ela já sabe;
+- a narração pode acompanhar inferências erradas de Henrique sem validá-las como fatos do universo;
+- a ausência de POV de Lívia exige regra editorial explícita de preservar sua agência, vida própria e autoridade sobre o que ela comunica sobre si.
 
-O `story/CURRENT_OUTLINE.md` foi alinhado a esses marcos. Cenas exatas, diálogos e percentuais finos continuam adaptáveis durante o outline detalhado.
+A referência principal é `story/NARRATIVE_FORM.md`.
+
+### Sonhos e apresentação
+
+- os sonhos permanecem no POV de Henrique, em terceira pessoa limitada e no passado;
+- a distância fica mais próxima e a linguagem mais sensorial, fragmentária e associativa;
+- os sonhos são **integrados aos capítulos**, sem série obrigatória de capítulos-sonho autônomos;
+- podem abrir/fechar capítulos ou aparecer como seções internas;
+- o primeiro capítulo é forte candidato a abrir já dentro do primeiro sonho, sujeito à validação do outline detalhado;
+- na futura revisão editorial/diagramação, as sequências de sonho terão **tratamento visual de página preta**;
+- uma sequência pode começar em nova página ou após quebra de seção e continuar pertencendo ao mesmo capítulo;
+- a prosa não pode depender da página preta para que a transição sonho/vigília seja compreensível em e-book, acessibilidade ou outros formatos.
+
+Detalhes em `story/NARRATIVE_FORM.md` e `editorial/DREAM_STYLE.md`.
 
 ## Núcleo central
 
@@ -49,16 +52,6 @@ O `story/CURRENT_OUTLINE.md` foi alinhado a esses marcos. Cenas exatas, diálogo
 - bairros, endereços e geografia fina de cena continuam abertos.
 
 Detalhes em `canon/SETTING.md`.
-
-## Rede social/familiar aprovada
-
-- os pais de Henrique e Tomás estão vivos e a família é funcional;
-- a família se habituou a olhar para Henrique como referência em situações difíceis; isso explica influência, não legitima controle;
-- Tomás é o principal agregador social do núcleo histórico;
-- **Beatriz “Bia” Faria** é amizade importante de Lívia construída depois do acidente e ligada à produção cultural/dança;
-- **Camila** é amizade profissional importante de Henrique na emergência; sobrenome e detalhes ainda estão abertos;
-- Henrique e Tomás vivem sozinhos em Belo Horizonte;
-- Lívia trabalha a partir de um estúdio independente de dança contemporânea e não é dona do espaço no início.
 
 ## Estrutura já fechada em alto nível
 
@@ -77,6 +70,15 @@ Henrique tende a converter medo em ação, plano e intervenção. Medicina de em
 Lívia construiu carreira genuinamente valiosa em ensino/coreografia depois do acidente e quer consolidar-se como coreógrafa autoral. O tornozelo lesionado permite função ampla, mas carga acumulada pode produzir dor/limitação. Sua autonomia pode degenerar em ocultação e isolamento.
 
 Tomás é profissionalmente competente; seu evitamento é especificamente emocional/relacional. Seu silêncio de seis anos se consolidou gradualmente e sua reparação exige aceitar consequências.
+
+Rede aprovada:
+
+- os pais de Henrique e Tomás estão vivos e a família é funcional;
+- Tomás é o principal agregador social do núcleo histórico;
+- **Beatriz “Bia” Faria** é amizade importante de Lívia construída depois do acidente;
+- **Camila** é amizade profissional importante de Henrique na emergência;
+- Henrique e Tomás vivem sozinhos em Belo Horizonte;
+- Lívia trabalha a partir de um estúdio independente de dança contemporânea e não é dona do espaço no início.
 
 Detalhes em `canon/characters/`.
 
@@ -104,6 +106,24 @@ O terceiro grande marco permite o reconhecimento de Lívia por movimento, aproxi
 
 Detalhes em `story/DREAM_MAP.md`.
 
+### Romance
+
+O arco macro está consolidado em `story/ROMANCE_ARC.md`.
+
+Marcos principais:
+
+- implicância pré-acidente sem paixão juvenil secreta;
+- sonhos produzem primeiro atenção, não desejo automático;
+- Lívia descobre os sonhos aproximadamente em 35–40%;
+- pacto explícito impede Henrique de usar terceiros para administrar as escolhas dela;
+- Henrique pede desculpas pelo hospital antes de conhecer a verdade completa do acidente;
+- primeiro beijo aproximadamente em 45–50%;
+- relação assumida aproximadamente em 50–60%, antes da residência;
+- ruptura ocorre quando Henrique viola o pacto e envolve Tomás;
+- reparação começa com contenção e correção da narrativa familiar;
+- reconciliação exige Henrique sentir medo sem transformar medo em autoridade e Lívia aceitar apoio sem transformar autonomia em isolamento;
+- o sonho final não cria nem valida sozinho o casal.
+
 ### Cadeia causal do futuro sombrio
 
 A residência não é a causa única nem direta da crise futura. A cadeia aprovada é:
@@ -124,11 +144,19 @@ Detalhes em `story/FUTURE_CAUSAL_CHAIN.md`, `story/CURRENT_OUTLINE.md` e `story/
 
 ## O que ainda NÃO está fechado
 
+### Mapas e revelações
+
+- preenchimento final de `story/REVEAL_MAP.md`;
+- gesto corporal específico do reconhecimento;
+- objetos/sinais específicos da residência nos sonhos;
+- detalhes sensoriais definitivos dos oito sonhos;
+- posição exata por capítulo de cada sonho.
+
 ### Personagens/cotidiano
 
-- hospital fictício, rotina de plantões e detalhes cotidianos de Henrique;
+- hospital fictício e rotina concreta de Henrique;
 - sobrenome/idade exata/carreira de Camila;
-- nome/localização do estúdio e rotina doméstica/profissional fina de Lívia;
+- nome/localização do estúdio e rotina fina de Lívia;
 - idade exata/função concreta de Bia e família ampliada de Lívia;
 - nome/formato da instituição fictícia da residência;
 - área específica da arquitetura, escritório e vida social adicional de Tomás;
@@ -149,25 +177,20 @@ O arco funcional está fechado, mas ainda podem ser decididos durante outline:
 - formulação de ruptura/reconciliação;
 - intervalo concreto entre crise, reparação e retomada.
 
-### Forma e mapas
+### Voz, design e manuscrito
 
-- POV definitivo;
-- pessoa verbal, tempo verbal e distância narrativa;
-- presença ou ausência de capítulos-sonho separados;
-- detalhes sensoriais definitivos dos oito sonhos;
-- gesto corporal específico do reconhecimento;
-- objetos/sinais específicos da residência nos sonhos;
-- preenchimento final de `story/REVEAL_MAP.md`;
+- voz fina/cadência definitiva da terceira pessoa próxima de Henrique;
 - grau de explicitude sexual;
 - comprimento médio e número final de capítulos;
-- título definitivo;
-- amostras positivas/negativas de voz do próprio livro.
+- amostras positivas/negativas de voz do próprio livro;
+- detalhes tipográficos das páginas pretas dos sonhos;
+- título definitivo.
 
 ## Próximo passo recomendado
 
-1. **definir POV, pessoa verbal, tempo e distância narrativa**;
-2. refinar mapa de sonhos e `REVEAL_MAP` com os marcos românticos agora fechados;
-3. completar apenas os detalhes cotidianos de personagem necessários às cenas;
+1. **preencher e refinar `story/REVEAL_MAP.md`** com o POV agora fechado;
+2. cruzar mapa de revelações, oito sonhos e arco romântico;
+3. completar apenas detalhes cotidianos de personagem necessários às cenas;
 4. calibrar amostras originais de estilo e congelar `STYLE_EXAMPLES.md`;
 5. revisar outline macro;
 6. produzir outline por capítulos;

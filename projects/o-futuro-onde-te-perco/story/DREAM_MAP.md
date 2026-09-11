@@ -14,6 +14,9 @@
 - Sempre separar o que o sonho realmente entrega da interpretação do protagonista.
 - Não mostrar fio vermelho literal, cordão luminoso ou equivalente nos sonhos. A imagem do fio vermelho pertence à moldura simbólica/cultural do fenômeno, não à iconografia obrigatória da experiência onírica.
 - O terror deve vir da familiaridade, intimidade impossível e impotência, não de descrição gráfica da crise.
+- Os sonhos permanecem no POV de Henrique, em terceira pessoa limitada e no passado, com distância mais próxima e linguagem mais sensorial/fragmentária.
+- Os sonhos são integrados aos capítulos, não tratados como uma série obrigatória de capítulos autônomos.
+- Na futura diagramação, uma sequência pode começar em nova página ou após quebra de seção sem deixar de pertencer ao mesmo capítulo, permitindo o tratamento visual de página preta definido em `story/NARRATIVE_FORM.md` e `editorial/DREAM_STYLE.md`.
 
 ## Progressão funcional
 
@@ -114,7 +117,7 @@
 - quais elementos exatos da ruptura aparecem no DREAM_006;
 - forma concreta da escolha divergente no DREAM_007;
 - cenário ordinário específico do DREAM_008;
-- presença ou ausência de capítulos-sonho separados, dependente da futura decisão de POV e forma.
+- tamanho de cada sequência e ponto exato de quebra de página/seção dentro do capítulo.
 
 ## Validação obrigatória antes do outline por capítulos
 
@@ -127,4 +130,5 @@ Cada sonho deverá ser comparado com:
 - a timeline do futuro mostrado;
 - `canon/SUPERNATURAL_RULES.md`;
 - `story/FUTURE_CAUSAL_CHAIN.md`;
+- `story/NARRATIVE_FORM.md`;
 - `editorial/DREAM_STYLE.md`.

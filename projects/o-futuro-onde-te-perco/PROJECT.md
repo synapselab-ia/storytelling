@@ -38,6 +38,7 @@ Antes de trabalhar neste projeto, leia:
 5. `story/PREMISE.md`
 6. `story/CURRENT_OUTLINE.md`
 7. `story/ROMANCE_ARC.md`
-8. `story/DECISIONS_PENDING.md`
+8. `story/NARRATIVE_FORM.md`
+9. `story/DECISIONS_PENDING.md`
 
 Quando personagens e fatos forem formalizados em dados estruturados, esses arquivos terão precedência conforme as regras globais do repositório.

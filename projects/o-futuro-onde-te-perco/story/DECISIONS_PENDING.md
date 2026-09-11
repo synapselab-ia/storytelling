@@ -65,7 +65,7 @@ Definir:
 
 Alguns pontos estruturais já foram parcialmente fechados pela cadeia causal:
 
-- ela sabe dos sonhos antes da grande ruptura;
+- ela sabe dos sonhos **no Ato 3, antes da grande ruptura do Ato 4**;
 - estabelece que eles não dão a ele autoridade sobre suas decisões;
 - ele quebra essa confiança ao envolver o irmão para tentar intervir na residência;
 - a grande ruptura romântica está ligada a essa violação de autonomia e confiança;
@@ -75,7 +75,7 @@ Ainda precisamos decidir:
 
 - qual foi a dinâmica deles antes do acidente;
 - como a atração adulta começa sem apagar o ressentimento;
-- quando exatamente ela descobre os sonhos;
+- em que cena/capítulo e sob quais circunstâncias dramáticas, **dentro do Ato 3 e antes da ruptura**, ela descobre os sonhos;
 - quando ocorre o primeiro ato claro de confiança;
 - quando ocorre o primeiro beijo;
 - quando o relacionamento deixa de ser ambíguo;

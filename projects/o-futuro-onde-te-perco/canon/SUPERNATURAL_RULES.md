@@ -38,6 +38,32 @@
 - Essa alteração não deve funcionar como painel de previsão temporal nem como prova matemática de que uma decisão foi correta.
 - O sonho final pode ultrapassar o ponto em que antes terminava porque a trajetória causal que levava à crise foi modificada, mostrando a protagonista mais velha e viva sem transformar esse futuro em garantia metafísica.
 
+## Grau de explicação do fenômeno
+
+- O romance terá **confirmação sobrenatural parcial**. A narrativa deve fornecer evidência suficiente para que o leitor possa concluir que existe de fato um vínculo impossível de reduzir apenas a coincidência, sonho comum ou racionalização psicológica.
+- O conceito de **fio vermelho** funciona como moldura simbólica, cultural ou lendária capaz de dar linguagem ao fenômeno; não funciona como exposição técnica definitiva de sua origem ou funcionamento.
+- Uma personagem pode conhecer ou mencionar a imagem do fio vermelho, mas essa referência não deve virar autoridade metafísica capaz de explicar todas as regras do vínculo.
+- Não haverá autoridade explicadora que entregue um manual do fenômeno, especialista sobrenatural que valide cada regra, texto secreto que resolva a metafísica ou mecanismo equivalente.
+- Não haverá linhagem familiar sobrenatural destinada a provar ou explicar o vínculo: evitar avós, pais ou ancestrais com histórico equivalente usado como chave expositiva.
+- A origem do vínculo, sua finalidade, sua frequência e a existência de outros pares semelhantes podem permanecer sem resposta definitiva.
+- A confirmação para o leitor deve vir principalmente da experiência narrativa: informação futura impossível de conhecer por meios ordinários, reconhecimento por detalhes corporais presentes nos sonhos, correspondências posteriores e mudanças perceptíveis no futuro onírico depois de alterações reais na cadeia causal.
+- O final confirma uma **possibilidade sobrenatural alterada**, não uma garantia de destino romântico ou felicidade eterna.
+
+## Canon de funcionamento versus crença dos personagens
+
+- **Canon** é o funcionamento registrado neste arquivo e nas demais fontes de autoridade do projeto. Inferências dos personagens não criam automaticamente novas regras sobrenaturais.
+- O protagonista pode construir explicações incorretas ou incompletas com base em dados reais. O texto pode acompanhar sua convicção sem validar essa convicção como verdade metafísica.
+- A progressão de interpretação aprovada é aproximadamente:
+  1. sonho recorrente explicado como estresse, funcionamento cerebral ou outro fenômeno ordinário;
+  2. suspeita de premonição quando coincidências objetivas se acumulam;
+  3. depois do reconhecimento, crença de que está vendo a morte futura da protagonista;
+  4. ao relacionar o início dos sonhos à candidatura, inferência equivocada de que a residência é a causa do futuro sombrio;
+  5. percepção posterior de que o futuro pode mudar e de que sua leitura causal era simplista;
+  6. compreensão prática de que os sonhos mostram possibilidade, não ordem, autorização ou explicação completa.
+- A afirmação "a candidatura tornou aquela linha futura causalmente alcançável" é canon.
+- A afirmação "a candidatura ou a residência colocou a protagonista no caminho da morte" é uma crença temporária e incorreta do protagonista.
+- Briefs de capítulo, mapa de conhecimento, mapa de revelações e prosa devem preservar essa distinção para impedir que o narrador transforme conhecimento imperfeito de personagem em verdade do universo.
+
 ## Restrições narrativas
 
 - Não usar o vínculo para justificar invasão de autonomia, controle ou direito romântico sobre a outra pessoa.

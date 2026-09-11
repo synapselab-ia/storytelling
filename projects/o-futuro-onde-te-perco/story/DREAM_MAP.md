@@ -92,10 +92,13 @@
 
 - Só ocorre depois de mudança comportamental estrutural, não como recompensa imediata por uma ação pequena.
 - Começa com elementos familiares do futuro anterior, mas apresenta uma diferença causal relevante.
-- A divergência preferida nasce também de uma escolha da protagonista contra seu padrão de isolamento: ela procura ajuda, responde a alguém, permite presença, comunica que não consegue sustentar tudo sozinha ou ação equivalente.
+- A divergência nasce também de uma escolha de Lívia contra seu padrão de isolamento: ela procura ajuda, responde a alguém, permite presença, comunica que não consegue sustentar tudo sozinha, aceita redistribuição de carga ou realiza ação equivalente.
+- **Regra de agência:** essa escolha pode ocorrer sem Henrique presente e antes de ele saber que ela foi feita.
+- Henrique então sonha com a linha alterada sem poder atribuir honestamente a mudança ao próprio controle.
+- A revelação posterior da escolha de Lívia permite que Henrique e leitor compreendam que ela já estava rompendo sua metade da cadeia causal por iniciativa própria.
 - Essa escolha não entrega sua autonomia ao protagonista nem transforma o momento em resgate unilateral.
-- **Interpretação do protagonista:** primeira evidência clara de que a linha futura pode realmente mudar.
-- **Função:** demonstrar, em vez de apenas explicar, que alteração de padrões modifica o futuro onírico.
+- **Interpretação do protagonista:** primeira evidência clara de que a linha futura pode realmente mudar; inicialmente ele pode não saber qual escolha produziu a divergência.
+- **Função:** demonstrar, em vez de apenas explicar, que alteração de padrões modifica o futuro onírico e que a mudança não pertence apenas a Henrique.
 
 ## DREAM_008 — o sonho continua
 
@@ -115,7 +118,8 @@
 - detalhe corporal específico usado no reconhecimento, até fechar prática/coreografia da protagonista;
 - objetos, sons, roupas, espaços e demais pistas da residência;
 - quais elementos exatos da ruptura aparecem no DREAM_006;
-- forma concreta da escolha divergente no DREAM_007;
+- forma concreta da escolha divergente de Lívia no DREAM_007;
+- quando Henrique descobre, depois do sonho, qual escolha dela antecedeu a divergência;
 - cenário ordinário específico do DREAM_008;
 - tamanho de cada sequência e ponto exato de quebra de página/seção dentro do capítulo.
 
@@ -123,8 +127,9 @@
 
 Cada sonho deverá ser comparado com:
 
-- o que o protagonista sabe naquele ponto;
-- o que a protagonista sabe;
+- o que Henrique sabe naquele ponto;
+- o que Lívia sabe;
+- o que Tomás sabe;
 - o que o leitor já pode inferir;
 - `story/REVEAL_MAP.md`;
 - a timeline do futuro mostrado;

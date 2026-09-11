@@ -1,39 +1,47 @@
-# Irmão mais novo — ficha atual
-
-> Nome ainda não definido.
+# Tomás Almeida — ficha atual
 
 ## Identidade básica
 
+- **Nome:** Tomás Almeida.
 - **Idade no início do romance:** 34 anos.
+- **Cidade-base:** Belo Horizonte, Minas Gerais.
 - **Profissão:** arquiteto.
 - **Vida profissional:** trabalha em escritório de porte médio e já possui responsabilidade real sobre projetos/equipes; não deve ser retratado como alguém incapaz de decidir ou liderar em todas as áreas da vida.
-- **Vínculo histórico:** melhor amigo da protagonista feminina desde a infância.
+- **Vínculo histórico:** melhor amigo de Lívia Sampaio desde a infância.
 
 ## Função
 
-Irmão mais novo do protagonista e melhor amigo da protagonista feminina. É a ponte histórica entre os dois e parte estrutural do conflito do acidente.
+Irmão mais novo de Henrique Almeida e melhor amigo de Lívia. É a ponte histórica entre os dois e parte estrutural do conflito do acidente.
 
 Sua função não é ser cupido. Ele possui culpa própria, padrões próprios de proteção e um arco de responsabilização que precisa existir mesmo se o romance for retirado da cena.
 
 ## Traços já definidos
 
-- mantém amizade profunda com a protagonista feminina mesmo depois do acidente;
-- sabe mais sobre o acidente do que o protagonista;
+- mantém amizade profunda com Lívia mesmo depois do acidente;
+- sabe mais sobre o acidente do que Henrique;
 - teve participação causal relevante no que aconteceu ao agarrar o volante;
-- permitiu, por medo, culpa, lealdade mal direcionada e evitamento de conflito, que o irmão mais velho mantivesse uma versão incompleta dos fatos;
+- permitiu, por medo, culpa, lealdade mal direcionada e evitamento de conflito, que Henrique mantivesse uma versão incompleta dos fatos;
 - ama os dois e deseja preservar vínculos, mas seu silêncio contribuiu para deteriorá-los;
 - socialmente tende a ser conciliador, agradável e bom em perceber tensão entre pessoas;
 - sabe reduzir conflito superficial e preservar o clima de uma sala;
 - o defeito não é incapacidade geral de confrontar: profissionalmente pode tomar decisões difíceis, liderar e sustentar posição;
 - seu ponto cego é confronto emocional com pessoas que ama, especialmente quando dizer a verdade ameaça vínculos importantes.
 
-## Relação com o irmão mais velho
+## Relação com Henrique
 
 Cresceu com um irmão mais velho que frequentemente assumia responsabilidade, tomava a frente e se tornava a referência familiar em situações difíceis.
 
-Ele ama e confia no irmão, e essa história pode produzir uma deferência automática em momentos de crise. Isso não significa submissão constante nem relação abusiva; significa que confrontar o irmão mais velho em uma situação carregada de medo, culpa e gratidão exige dele mais do que confrontar um colega ou cliente no trabalho.
+Tomás ama e confia em Henrique, e essa história pode produzir uma deferência automática em momentos de crise. Isso não significa submissão constante nem relação abusiva; significa que confrontar o irmão mais velho em uma situação carregada de medo, culpa e gratidão exige dele mais do que confrontar um colega ou cliente no trabalho.
 
 Essa dinâmica ajuda a tornar seu silêncio depois do acidente psicologicamente específico.
+
+## Família
+
+Henrique e Tomás têm os pais vivos no presente. A família deve ser funcional e afetivamente reconhecível, sem necessidade de pais abusivos usados como explicação totalizante para os defeitos dos irmãos.
+
+Historicamente, Henrique ocupou com frequência o papel de filho mais velho confiável e organizador em momentos difíceis. Tomás desenvolveu uma função social diferente: é mais agregador, espontâneo e propenso a manter vínculos ativos.
+
+No presente, Tomás é a pessoa que efetivamente cria ocasiões de convivência — almoço, jantar, aniversário, encontro informal, convite de última hora. Isso fornece um motivo orgânico para que Lívia e Henrique continuem dividindo espaços sociais apesar de seis anos de hostilidade: nenhum dos dois abandona Tomás para evitar o outro.
 
 ## Acidente e sequelas
 
@@ -46,9 +54,9 @@ No presente, não é definido pelas sequelas. Permanecem a cicatriz abdominal e 
 O silêncio não deve ser explicado por um único momento de covardia. Ele se consolida gradualmente:
 
 1. no imediato pós-acidente, está ferido, confuso e culpado;
-2. quando recupera memória suficiente da própria interferência no volante, percebe que a protagonista não contou esse detalhe;
+2. quando recupera memória suficiente da própria interferência no volante, percebe que Lívia não contou esse detalhe;
 3. adia a correção durante a crise porque teme aumentar culpa, conflito e sofrimento familiar;
-4. percebe o tamanho da hostilidade do irmão mais velho contra ela, o que torna a verdade ainda mais difícil de introduzir;
+4. percebe o tamanho da hostilidade de Henrique contra ela, o que torna a verdade ainda mais difícil de introduzir;
 5. o tempo passa, e cada mês transforma a revelação em admissão não apenas do acidente, mas também do silêncio posterior;
 6. depois de anos, contar significa reconhecer: “eu sabia que você a julgava com informação incompleta e deixei isso continuar”.
 
@@ -78,14 +86,16 @@ A reparação não se encerra ao “contar a verdade”; precisa envolver aceita
 
 ## Vida fora do conflito central
 
-A arquitetura deve dar a ele competência, rotina e identidade próprias. O trabalho pode mostrar um homem capaz de tomar decisões, lidar com pressão e sustentar responsabilidade — reforçando que seu evitamento é relacional, não uma personalidade inteiramente passiva.
+A arquitetura deve dar a Tomás competência, rotina e identidade próprias. O trabalho pode mostrar um homem capaz de tomar decisões, lidar com pressão e sustentar responsabilidade — reforçando que seu evitamento é relacional, não uma personalidade inteiramente passiva.
 
-Detalhes como especialidade arquitetônica, escritório, relações amorosas, moradia e círculo social continuam abertos.
+Tomás vive sozinho em Belo Horizonte. Sua casa é usada com frequência como espaço de convivência entre amigos/família e ajuda a materializar sua função de agregador social. Bairro e tipo de moradia ainda estão abertos.
+
+Área específica dentro da arquitetura, nome do escritório, relações amorosas e círculo social além do núcleo central continuam abertos.
 
 ## Restrições
 
 - Não transformá-lo em cupido funcional.
-- Não criar triângulo amoroso com a melhor amiga.
+- Não criar triângulo amoroso com Lívia.
 - Não transformá-lo em vilão que deliberadamente arruinou a vida dos outros dois.
 - Não tratá-lo como covarde ou indeciso em todas as áreas da vida.
 - A verdade sobre o acidente deve tornar suas escolhas moralmente complicadas e compreensíveis, não simplesmente maliciosas.

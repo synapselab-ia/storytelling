@@ -55,6 +55,16 @@ Henrique realmente se importa, observa, assume responsabilidade, funciona sob pr
 
 O problema não é a existência do cuidado, mas a facilidade com que transforma cuidado em intervenção e, depois, intervenção em controle.
 
+## Arco pretendido
+
+Aprender que amar alguém não lhe dá autoridade sobre as decisões dessa pessoa e que presença, escuta e confiança podem ser formas de cuidado mais difíceis do que intervenção.
+
+Seu movimento final não é tornar-se passivo. É aprender a distinguir com precisão entre:
+
+- situação em que sua ação é necessária;
+- situação em que pode oferecer ajuda;
+- situação em que precisa respeitar uma decisão que não é sua, mesmo sob medo e incerteza.
+
 ## Família
 
 Henrique e Tomás têm os pais vivos no presente. A família não deve ser construída a partir de um pai tirânico, uma mãe manipuladora ou outro trauma doméstico criado apenas para explicar o comportamento de Henrique.

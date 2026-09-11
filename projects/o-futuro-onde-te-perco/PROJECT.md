@@ -13,7 +13,7 @@
 
 ## Premissa curta
 
-Um médico é assombrado por sonhos recorrentes nos quais uma mulher sem rosto tenta tirar a própria vida. Ele não sabe quem ela é, mas sente por ela uma intimidade e uma perda incompatíveis com o fato de nunca tê-la conhecido. Na vida desperta, ele mantém uma relação hostil com a melhor amiga de seu irmão mais velho, hoje professora de dança, a quem culpa há anos por um acidente que quase matou o irmão. Aos poucos, descobre que a mulher dos sonhos é justamente ela.
+Um médico é assombrado por sonhos recorrentes nos quais uma mulher sem rosto tenta tirar a própria vida. Ele não sabe quem ela é, mas sente por ela uma intimidade e uma perda incompatíveis com o fato de nunca tê-la conhecido. Na vida desperta, ele mantém uma relação hostil com a melhor amiga de seu irmão mais novo, hoje professora de dança, a quem culpa há anos por um acidente que quase matou o irmão. Aos poucos, descobre que a mulher dos sonhos é justamente ela.
 
 ## Núcleo dramático
 

@@ -4,7 +4,7 @@
 
 - O acidente aconteceu **seis anos antes** do início do romance.
 - A protagonista feminina dirigia o carro.
-- O irmão mais velho do protagonista estava no banco do passageiro.
+- O irmão mais novo do protagonista estava no banco do passageiro.
 - O acidente aconteceu à noite, com pista molhada.
 
 ## Sequência causal
@@ -55,6 +55,7 @@
 ## Ruptura no hospital
 
 - Enquanto o irmão estava inconsciente ou incapaz de decidir por si mesmo, o protagonista pressionou a família e a equipe para impedir que a protagonista feminina o visitasse.
+- Como irmão mais velho, ele já ocupava antes do acidente um papel familiar de assumir responsabilidade e tomar a frente em situações difíceis; a crise radicaliza esse padrão, mas não lhe concede autoridade legítima sobre as relações ou decisões do irmão.
 - Ela tentou vê-lo e foi barrada.
 - Ao confrontá-la, o protagonista disse: **“Você perdeu o direito de ficar perto dele quando quase matou ele.”**
 - O ato é mais importante do que o insulto isolado: ele decidiu que tinha autoridade para determinar se ela poderia continuar ao lado do melhor amigo justamente quando ela estava culpada, ferida e sem saber se ele sobreviveria.

@@ -18,6 +18,8 @@ Esse mapa não está congelado em nível de capítulo. Continuam adaptáveis dur
 
 Esses ajustes não exigem reabrir a arquitetura inteira desde que preservem as funções e regras já aprovadas. Mudanças de função, quantidade estrutural ou lógica sobrenatural devem voltar para proposta antes de consolidação.
 
+A hierarquia entre os irmãos também foi fechada: **o protagonista médico é o irmão mais velho; o personagem que sofreu o acidente é o irmão mais novo e melhor amigo da protagonista feminina**. Idades exatas continuam abertas.
+
 ## Prioridade 1 — personagens centrais
 
 Precisamos desenvolver fichas profundas dos três personagens centrais antes de fechar detalhes de romance e POV.
@@ -38,7 +40,7 @@ Ainda precisamos definir:
 - o que ela deseja no início do livro independentemente do protagonista;
 - natureza concreta da instituição/companhia/festival e cidade da residência.
 
-### Protagonista médico
+### Protagonista médico — irmão mais velho
 
 Definir:
 
@@ -46,11 +48,11 @@ Definir:
 - especialidade;
 - estágio de carreira;
 - rotina;
-- relação entre profissão e necessidade de controle;
+- relação entre profissão, papel familiar de irmão mais velho e necessidade de controle;
 - vida própria fora do romance e do irmão;
 - limites éticos para impedir que o papel de médico seja usado como atalho narrativo.
 
-### Irmão mais velho
+### Irmão mais novo
 
 Definir:
 
@@ -59,6 +61,7 @@ Definir:
 - personalidade fora da função de melhor amigo/irmão;
 - relação atual com sequelas do acidente;
 - motivos e mecanismos que sustentaram seu silêncio durante seis anos;
+- como sua relação histórica com o irmão mais velho influencia conflito, deferência e eventual confronto;
 - arco próprio de responsabilização e reparação.
 
 ## Prioridade 2 — romance
@@ -73,7 +76,7 @@ Alguns pontos estruturais já foram parcialmente fechados pela cadeia causal:
 
 Ainda precisamos decidir:
 
-- qual foi a dinâmica deles antes do acidente;
+- qual foi a dinâmica deles antes do acidente, agora considerando que ele é o irmão mais velho do melhor amigo dela;
 - como a atração adulta começa sem apagar o ressentimento;
 - em que cena/capítulo e sob quais circunstâncias dramáticas, **dentro do Ato 3 e antes da ruptura**, ela descobre os sonhos;
 - quando ocorre o primeiro ato claro de confiança;

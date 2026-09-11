@@ -1,6 +1,6 @@
 # Premissa atual
 
-Um médico começa a ter sonhos recorrentes com uma mulher desconhecida que tenta tirar a própria vida. Ele nunca consegue identificá-la claramente, mas sente por ela um vínculo emocional profundo, como se carregasse lembranças de um amor que ainda não viveu.
+Um médico começa a ter sonhos recorrentes com uma mulher desconhecida em uma crise futura extrema. Ele nunca consegue identificá-la claramente, nem compreende de imediato o que exatamente está acontecendo com ela, mas sente um vínculo emocional profundo e uma sensação de perda incompatíveis com alguém que não conhece conscientemente.
 
 Os sonhos começam no mesmo período em que, sem que ele saiba, a protagonista envia a candidatura para uma residência coreográfica importante. Esse ato torna concretamente alcançável a linha de futuro sombrio que reverbera para trás; não significa que a candidatura ou a residência sejam uma causa fatal ou um destino inevitável.
 
@@ -10,7 +10,7 @@ A verdade é mais complexa do que ele acredita: o irmão teve participação imp
 
 Com o avanço dos sonhos, o médico começa a reconhecer na professora gestos, detalhes e movimentos que pertencem à mulher sem rosto. A confirmação ocorre por meio da dança: ele reconhece uma sequência corporal que já viu repetidamente nos sonhos.
 
-A descoberta não dissolve a hostilidade. Ela cria um paradoxo emocional: ele odeia conscientemente aquela mulher e, ao mesmo tempo, experimenta nos sonhos a dor de alguém que a ama profundamente.
+A descoberta não dissolve a hostilidade. Ela cria um paradoxo emocional: ele guarda ressentimento consciente daquela mulher e, ao mesmo tempo, experimenta nos sonhos a dor e a intimidade de uma versão futura de si que a ama profundamente.
 
 A partir daí, o mistério deixa de ser "quem é a mulher?" e passa a ser "que futuro é esse, por que ele está vendo isso e o que realmente leva até aquele ponto?".
 

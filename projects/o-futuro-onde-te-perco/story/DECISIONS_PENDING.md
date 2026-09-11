@@ -8,12 +8,23 @@
 
 - regras do vínculo: `canon/SUPERNATURAL_RULES.md`;
 - cadeia causal do futuro sombrio: `story/FUTURE_CAUSAL_CHAIN.md`;
-- oito sonhos estruturais: `story/DREAM_MAP.md`;
+- oito sonhos estruturais e motivos concretos aprovados: `story/DREAM_MAP.md`;
 - cronologia candidatura → seleção/aceite → início da residência: `story/RESIDENCY_TIMELINE.md`.
 
 A progressão funcional aprovada dos sonhos é:
 
 `terror → intimidade → identidade → investigação → erro causal → profecia autorrealizável → divergência → possibilidade`.
+
+Também estão aprovados em alto nível:
+
+- gesto corporal de Lívia: quatro contatos sucessivos do polegar nos outros dedos + transferência de peso + pequena marcação de ombro;
+- três pistas da residência: crachá/cordão amarelo com símbolo abstrato, marca diagonal de fita no piso preto e som de três notas do prédio;
+- DREAM_006 inclui consequência do envolvimento de Tomás, preferencialmente sua voz pedindo que Lívia volte para Belo Horizonte;
+- antes de DREAM_007, Lívia procura Bia, admite a sobrecarga e, por decisão própria, redistribui carga/participação e aceita apoio/tratamento sem abandonar a autoridade sobre a residência;
+- Henrique vê DREAM_007 mudar antes de saber que Lívia tomou essa decisão;
+- DREAM_008 acontece em um estúdio depois de um ensaio, anos mais tarde, devolvendo o mesmo gesto corporal e mostrando Lívia viva e mais velha em continuidade cotidiana.
+
+Microexecução coreográfica, redação de falas, distribuição exata das pistas e detalhes visuais continuam ajustáveis no outline/prosa sem reabrir a função estrutural.
 
 ### Personagens e setting
 
@@ -74,23 +85,11 @@ Decisões aprovadas:
 - o leitor pode suspeitar da identidade de Lívia antes de Henrique, mas a confirmação ocorre aproximadamente em 25–30%;
 - a realidade sobrenatural recebe confirmação prática progressiva sem explicação metafísica total;
 - timing da candidatura + sinais da residência sustentam uma inferência causal compreensível porém errada de Henrique;
-- DREAM_007 pode mudar antes de Henrique saber qual escolha produziu a divergência;
+- DREAM_007 muda antes de Henrique saber qual escolha de Lívia produziu a divergência;
 - a primeira divergência nasce também de uma ação de Lívia contra o isolamento, realizada por agência própria;
 - DREAM_008 confirma possibilidade alterável, não destino garantido.
 
-## Prioridade 1 — refinamento concreto dos sonhos e pistas
-
-Agora que conhecimento e ordem de revelações estão protegidos, falta escolher detalhes concretos que serão úteis no outline por capítulos:
-
-- fechar o gesto corporal específico que Henrique reconhece em Lívia;
-- escolher 2–4 pistas recorrentes da residência que podem aparecer nos sonhos sem denunciar cedo demais São Paulo/instituição;
-- definir quais pistas do DREAM_006 permitem a Henrique perceber a dimensão autorrealizável sem explicar tudo em diálogo;
-- escolher uma versão preferida da ação autônoma de Lívia que antecede DREAM_007;
-- definir o cenário ordinário do DREAM_008 sem transformar o final em certificado de casamento/filhos/futuro perfeito.
-
-Esses detalhes podem ser adaptados durante o outline, mas convém ter versões líderes antes de distribuir capítulos.
-
-## Prioridade 2 — última camada cotidiana dos personagens
+## Prioridade 1 — última camada cotidiana dos personagens
 
 Esses detalhes são úteis para cena, mas não devem bloquear arquitetura se puderem nascer organicamente do outline.
 
@@ -118,7 +117,7 @@ Esses detalhes são úteis para cena, mas não devem bloquear arquitetura se pud
 - moradia;
 - dinâmica cotidiana atual com Henrique e Lívia fora do conflito principal.
 
-## Prioridade 3 — voz e prosa antes do manuscrito
+## Prioridade 2 — voz e prosa antes do manuscrito
 
 Depois do refinamento estrutural:
 
@@ -129,15 +128,29 @@ Depois do refinamento estrutural:
 - definir comprimento médio aproximado dos capítulos;
 - validar como as quebras de página dos sonhos funcionam sem tornar sua chegada previsível.
 
-## Prioridade 4 — outline por capítulos
+## Prioridade 3 — outline por capítulos
 
 Antes de iniciar prosa definitiva:
 
 - revisar o outline macro;
 - transformar os atos em sequência de capítulos e cenas;
 - encaixar sonhos, romance, trabalho, acidente e residência sem função duplicada;
-- validar cada capítulo contra `story/REVEAL_MAP.md`;
+- validar cada capítulo contra `story/REVEAL_MAP.md` e `story/DREAM_MAP.md`;
 - só então iniciar manuscrito definitivo.
+
+## Detalhes dos sonhos ainda adaptáveis
+
+Sem reabrir os motivos aprovados, continuam ajustáveis:
+
+- capítulo/posição exata de cada sonho;
+- microexecução coreográfica do gesto de Lívia;
+- desenho preciso do símbolo institucional e a fonte técnica do som de três notas;
+- distribuição exata das três pistas entre DREAM_004 e DREAM_005;
+- redação exata da fala de Tomás em DREAM_006;
+- redação da conversa de Lívia com Bia e detalhes operacionais da redistribuição de carga;
+- momento exato em que Henrique descobre o que Lívia fez antes de DREAM_007;
+- fala cotidiana e detalhes visuais finos do estúdio em DREAM_008;
+- detalhes sensoriais que não criem nova regra sobrenatural nem antecipem revelações.
 
 ## Detalhes de design ainda abertos
 

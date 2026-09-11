@@ -2,136 +2,92 @@
 
 > Este arquivo é a zona segura de brainstorm. Nada aqui é canon até ser escolhido explicitamente e movido para o arquivo correspondente.
 
-O grau de explicação do fio vermelho foi fechado e consolidado em `canon/SUPERNATURAL_RULES.md`: confirmação sobrenatural parcial, fio vermelho como moldura simbólica/cultural, ausência de autoridade explicadora ou linhagem familiar expositiva e distinção obrigatória entre canon de funcionamento e crenças dos personagens.
+## Blocos já consolidados
+
+O grau de explicação do fio vermelho está consolidado em `canon/SUPERNATURAL_RULES.md`: confirmação sobrenatural parcial, fio vermelho como moldura simbólica/cultural, ausência de autoridade explicadora ou linhagem familiar expositiva e distinção obrigatória entre canon de funcionamento e crenças dos personagens.
 
 O `story/DREAM_MAP.md` contém um **esboço estrutural provisório aprovado** com oito sonhos relevantes e progressão funcional `terror → intimidade → identidade → investigação → erro causal → profecia autorrealizável → divergência → possibilidade`.
 
-Esse mapa não está congelado em nível de capítulo. Continuam adaptáveis durante o desenvolvimento:
+Esse mapa não está congelado em nível de capítulo. Continuam adaptáveis posição exata dos sonhos, detalhe corporal do reconhecimento, objetos/sinais da residência, elementos específicos mostrados na ruptura, forma concreta da primeira divergência, cenário do sonho final e presença ou ausência de capítulos-sonho separados.
 
-- posição exata dos sonhos;
-- detalhe corporal usado no reconhecimento;
-- objetos e sinais específicos da residência;
-- elementos exatos mostrados na ruptura;
-- forma concreta da primeira divergência;
-- cenário do sonho final;
-- presença ou ausência de capítulos-sonho separados.
+A hierarquia, nomes, idades, profissões e setting principal estão fechados:
 
-Esses ajustes não exigem reabrir a arquitetura inteira desde que preservem as funções e regras já aprovadas. Mudanças de função, quantidade estrutural ou lógica sobrenatural devem voltar para proposta antes de consolidação.
-
-A hierarquia entre os irmãos está fechada: **Henrique Almeida é o irmão mais velho; Tomás Almeida sofreu o acidente e é o irmão mais novo e melhor amigo de Lívia Sampaio**.
-
-Também está fechada uma primeira camada biográfica/social concreta:
-
-- **Henrique Almeida**, 37 anos, médico de emergência experiente em Belo Horizonte, com autonomia profissional e função de referência/preceptoria;
-- **Lívia Sampaio**, 34 anos, professora de dança contemporânea/composição e coreógrafa freelancer em Belo Horizonte, buscando consolidar-se como coreógrafa autoral reconhecida;
-- **Tomás Almeida**, 34 anos, arquiteto em Belo Horizonte, competente profissionalmente, socialmente agregador e especificamente evitativo diante de conflitos emocionais com pessoas que ama;
+- **Henrique Almeida**, 37 anos, irmão mais velho, médico de emergência experiente em Belo Horizonte;
+- **Lívia Sampaio**, 34 anos, professora de dança contemporânea/composição e coreógrafa freelancer em Belo Horizonte;
+- **Tomás Almeida**, 34 anos, irmão mais novo, arquiteto e melhor amigo de Lívia desde a infância;
 - Belo Horizonte é a cidade-base;
 - a residência coreográfica de aproximadamente três meses acontece em São Paulo;
-- os locais profissionais centrais devem usar instituições fictícias;
-- os pais de Henrique e Tomás estão vivos e a família é funcional, sem necessidade de pais abusivos como explicação totalizante;
-- Tomás funciona como agregador social e cria ocasiões orgânicas para Henrique e Lívia continuarem compartilhando espaços;
-- **Beatriz “Bia” Faria** é a principal amizade atual de Lívia fora do núcleo dos irmãos, ligada à produção cultural/dança e construída depois do acidente;
-- **Camila** é amizade profissional importante de Henrique na emergência; sobrenome, idade exata e detalhes de carreira ainda estão abertos.
+- Beatriz “Bia” Faria é amizade importante de Lívia construída depois do acidente;
+- Camila é amizade profissional importante de Henrique na emergência;
+- os pais de Henrique e Tomás estão vivos e a família é funcional;
+- Tomás é o principal agregador social do núcleo histórico.
 
-## Prioridade 1 — completar personagens centrais
+O arco romântico em alto nível está consolidado em `story/ROMANCE_ARC.md`.
 
-As fichas profundas já possuem nome, idade, profissão, eixo psicológico, cidade-base e primeiros vínculos secundários. Ainda falta concretizar vida cotidiana, relações adicionais e detalhes profissionais específicos antes de considerar o bloco de personagem suficientemente fechado.
+### Romance — decisões aprovadas
 
-### Lívia Sampaio
+- antes do acidente existia implicância real, familiaridade e assimetria entre o impulso de Henrique de assumir responsabilidade e a resistência de Lívia a ser administrada; não existe paixão juvenil secreta;
+- o acidente radicaliza interpretações negativas que os dois já possuíam um do outro;
+- os sonhos primeiro produzem atenção involuntária em Henrique, não desejo romântico automático;
+- parte da reclassificação dele vem de observar Lívia trabalhando como coreógrafa/professora; parte da reclassificação dela vem de reencontrar Henrique fora do papel de juiz do acidente;
+- Henrique reconhece Lívia como a mulher dos sonhos no terceiro grande marco onírico, aproximadamente em 25–30%;
+- Lívia descobre os sonhos aproximadamente em 35–40%, no Ato 3;
+- os dois estabelecem o pacto de que Henrique fala com Lívia sobre informação dos sonhos que diz respeito à vida dela e não usa Tomás/família/terceiros para administrar suas decisões;
+- Henrique precisa distinguir fato onírico de interpretação própria;
+- antes de saber a verdade completa do acidente, Henrique pede desculpas por ter barrado Lívia do hospital, reconhecendo que mesmo a culpa que ele acreditava existir não lhe dava autoridade para excluí-la;
+- o primeiro beijo ocorre aproximadamente em 45–50%, em contexto de desejo escolhido, não depois de crise/pesadelo/perigo;
+- a relação deixa de ser ambígua aproximadamente em 50–60%, antes do início da residência;
+- Henrique reage inicialmente à conquista da residência com felicidade genuína pela carreira de Lívia;
+- a ruptura ocorre quando Henrique viola exatamente o pacto de confiança e envolve Tomás para tentar intervir na residência;
+- o término é inequívoco e não deve ser seguido de perseguição romântica ou justificativa “fiz porque amo você”;
+- a primeira prova de mudança de Henrique depois da ruptura é contenção: respeitar espaço, não monitorar Lívia por terceiros e não transformar ansiedade em investigação paralela;
+- depois da revelação do acidente, Henrique corrige a narrativa dentro da própria família como ação reparatória independente de reconquistar Lívia;
+- a reconciliação depende de Lívia ver Henrique responder de forma diferente **sob medo real**, apoiando sem sequestrar decisão;
+- o movimento complementar de Lívia é pedir/aceitar apoio sem transformar autonomia em isolamento;
+- a retomada romântica ocorre fora do pico da crise e depois que mudança comportamental já foi demonstrada;
+- o sonho final não cria nem valida sozinho a relação: o casal já precisa ter escolhido o vínculo no presente.
 
-Já definido:
+Cenas, falas e circunstâncias específicas desses marcos continuam adaptáveis durante o outline detalhado sem reabrir o arco inteiro, desde que preservem sua função.
 
-- 34 anos;
-- Belo Horizonte como cidade-base;
-- dança contemporânea e composição coreográfica;
-- professora e coreógrafa freelancer;
-- trabalha a partir de estúdio independente e não é dona do espaço no início;
-- antiga trajetória mais voltada para performance;
-- ambição de consolidar carreira autoral como coreógrafa, não de “recuperar” a carreira pré-acidente;
-- residência de aproximadamente três meses em São Paulo como oportunidade de criar obra completa sob sua assinatura;
-- instituição da residência será fictícia;
-- lesão permite função ampla, mas carga acumulada e repetitiva pode produzir dor/limitação;
-- tendência de esconder dor ligada ao medo de perder autonomia;
-- Bia é amizade significativa da vida pós-acidente e entende a importância profissional da residência sem tentar decidir por ela.
+## Prioridade 1 — última camada cotidiana dos personagens
 
-Ainda precisamos definir:
+As fichas profundas já possuem nome, idade, profissão, eixo psicológico, cidade-base e primeiros vínculos secundários. Ainda existem detalhes úteis para cena que podem ser fechados sem excesso de worldbuilding.
 
-- nome e localização do estúdio fictício e arranjo profissional cotidiano mais detalhado;
+### Lívia
+
+Ainda aberto:
+
+- nome/localização do estúdio fictício e arranjo profissional cotidiano mais detalhado;
 - idade exata, rotina e função concreta de Bia no circuito cultural;
-- família e conflitos sociais relevantes de Lívia;
+- família ampliada e conflitos sociais relevantes de Lívia;
 - moradia e rotina;
 - nome/formato específico da instituição fictícia responsável pela residência.
 
-### Henrique Almeida
+### Henrique
 
-Já definido:
-
-- 37 anos;
-- Belo Horizonte como cidade-base;
-- médico de emergência;
-- experiente, com autonomia e papel de referência/preceptoria sem precisar ser chefe máximo;
-- já era médico aos 31, quando ocorreu o acidente;
-- medicina de emergência recompensa capacidades de agir sob pressão que também aparecem em seu padrão familiar;
-- tende a converter emoção em tarefa/intervenção e tolera mal impotência;
-- competência médica não lhe dá autoridade pessoal sobre Lívia ou familiares capazes;
-- vive sozinho;
-- Camila é amizade profissional importante e conhece Henrique no ambiente em que sua capacidade de assumir controle costuma ser funcional e valorizada.
-
-Ainda precisamos definir:
+Ainda aberto:
 
 - hospital fictício/estrutura concreta de trabalho e rotina de plantões;
 - sobrenome, idade exata e função profissional de Camila;
-- outras amizades, relações e vida própria fora do romance e do irmão;
+- outras amizades/relações fora do romance e do irmão;
 - bairro/moradia e hábitos cotidianos;
 - limites práticos de como a medicina aparece em cena sem virar atalho narrativo.
 
-### Tomás Almeida
+### Tomás
 
-Já definido:
-
-- 34 anos;
-- Belo Horizonte como cidade-base;
-- arquiteto em escritório de porte médio, com responsabilidade real sobre projetos/equipes;
-- conciliador socialmente, mas não incapaz de decidir ou confrontar em todas as áreas;
-- evitamento é especialmente emocional e ligado a pessoas que ama;
-- relação histórica de confiança/deferência com Henrique torna o confronto pós-acidente mais difícil;
-- o silêncio dos seis anos se consolida gradualmente e sua gravidade aumenta com o tempo;
-- reparação exige mais do que confessar: precisa aceitar consequências e reações sem administrá-las;
-- vive sozinho e usa a própria casa como espaço frequente de convivência;
-- é o principal agregador social do núcleo histórico.
-
-Ainda precisamos definir:
+Ainda aberto:
 
 - especialidade/área de atuação dentro da arquitetura;
 - escritório fictício e rotina concreta;
-- vida afetiva e social além do núcleo central;
+- vida afetiva/social além do núcleo central;
 - bairro/tipo de moradia;
 - dinâmica cotidiana atual com Henrique e Lívia fora do conflito principal.
 
-## Prioridade 2 — romance
+Esses detalhes não devem bloquear decisões estruturais maiores quando puderem nascer organicamente do outline.
 
-Alguns pontos estruturais já foram parcialmente fechados pela cadeia causal:
+## Prioridade 2 — POV e forma
 
-- Lívia sabe dos sonhos **no Ato 3, antes da grande ruptura do Ato 4**;
-- estabelece que eles não dão a Henrique autoridade sobre suas decisões;
-- Henrique quebra essa confiança ao envolver Tomás para tentar intervir na residência;
-- a grande ruptura romântica está ligada a essa violação de autonomia e confiança;
-- a reconciliação exige mudança de comportamento, não apenas declaração;
-- antes do acidente já existia uma assimetria histórica: Henrique, como irmão mais velho, tendia a assumir responsabilidade/tomar a frente; Lívia resistia a ser administrada;
-- Tomás funciona como razão social orgânica para Henrique e Lívia continuarem dividindo espaços ao longo dos anos;
-- o acidente radicaliza interpretações antigas dos dois, mas o antagonismo pré-acidente ainda precisa ser dramatizado em detalhes.
-
-Ainda precisamos decidir:
-
-- episódios concretos que definem a dinâmica deles antes do acidente;
-- como a atração adulta começa sem apagar o ressentimento;
-- em que cena/capítulo e sob quais circunstâncias dramáticas, **dentro do Ato 3 e antes da ruptura**, Lívia descobre os sonhos;
-- quando ocorre o primeiro ato claro de confiança;
-- quando ocorre o primeiro beijo;
-- quando o relacionamento deixa de ser ambíguo;
-- que ações específicas justificam a reconciliação e retomada da confiança.
-
-## Prioridade 3 — POV e forma
+Esta é a próxima decisão estrutural recomendada.
 
 Ainda aberto:
 
@@ -139,16 +95,30 @@ Ainda aberto:
 - POV alternado entre Henrique e Lívia;
 - terceira pessoa limitada;
 - primeira pessoa;
+- tempo verbal;
+- distância narrativa;
 - presença ou ausência de capítulos-sonho separados.
 
-A escolha deve preservar o mistério sem empobrecer a agência de Lívia.
+A escolha deve preservar o mistério sobrenatural e o erro causal de Henrique sem empobrecer a agência, interioridade e arco independente de Lívia.
 
-## Prioridade 4 — refinamento dos mapas
+## Prioridade 3 — refinamento dos mapas
 
-Depois de personagens, romance e POV estarem mais concretos:
+Depois de POV/forma estarem definidos:
 
 - ajustar detalhes sensoriais e corporais de cada sonho;
 - preencher o cronograma de `story/REVEAL_MAP.md`;
 - validar conhecimento de personagem versus canon em cada marco;
-- revisar a posição percentual dos oito sonhos;
+- revisar a posição percentual dos oito sonhos em conjunto com o arco romântico;
+- alinhar revelação dos sonhos, pedido de desculpas, beijo, relação, ruptura e verdade do acidente;
 - só então levar a sequência para outline por capítulos.
+
+## Prioridade 4 — voz e prosa antes do manuscrito
+
+Antes de iniciar capítulos definitivos:
+
+- testar amostras originais compatíveis com o POV escolhido;
+- calibrar voz de Henrique e, se houver POV dela, voz de Lívia;
+- fechar exemplos positivos/negativos próprios em `editorial/STYLE_EXAMPLES.md`;
+- definir grau de explicitude sexual;
+- definir comprimento médio aproximado de capítulos;
+- validar outline por capítulos e mapa de revelações.

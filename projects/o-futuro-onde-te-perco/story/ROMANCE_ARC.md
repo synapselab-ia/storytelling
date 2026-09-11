@@ -64,6 +64,8 @@ Henrique deve aprender a separar, ao menos temporariamente:
 
 Essa distinção é parte da confiança construída e torna sua violação posterior mais grave.
 
+**Tomás não sabe dos sonhos neste estágio nem durante a construção inicial da relação.** O conteúdo onírico pertence ao espaço de confiança que Henrique e Lívia criaram entre si.
+
 ## Primeiro grande ato de confiança — pedido de desculpas pelo hospital
 
 Antes de Henrique descobrir a verdade completa sobre o acidente, ele reconhece que ter barrado Lívia do hospital foi errado.
@@ -99,6 +101,8 @@ A relação precisa estar emocionalmente real antes da ruptura para que a perda 
 Durante a residência, dor, ocultação, exaustão e elementos dos sonhos começam a convergir. Henrique tem razões plausíveis para acreditar que existe risco real e crescente.
 
 Mesmo assim, ele escolhe violar a fronteira construída no Ato 3: compartilha com Tomás informação sobre os sonhos e sobre a condição de Lívia e tenta recrutar o irmão para interferir na decisão profissional dela.
+
+**Esse é o primeiro momento em que Tomás descobre a existência dos sonhos.** A gravidade da violação depende disso: Henrique abre para um terceiro um espaço de confiança que Lívia havia permitido entre os dois justamente para que informação sobre a própria vida não fosse usada contra sua autonomia.
 
 A falha não é sentir medo nem buscar apoio emocional para si. A falha é transformar informação confiada por Lívia em instrumento para organizar intervenção sobre ela.
 
@@ -137,6 +141,8 @@ Corrigir a narrativa familiar é ação reparatória independente do romance. He
 
 A reconciliação não acontece apenas porque Henrique diz que mudou. Lívia precisa vê-lo diante de medo real e observar uma resposta diferente.
 
+Antes da bifurcação final, a primeira divergência perceptível nos sonhos deve poder nascer de uma escolha de Lívia contra o próprio padrão de isolamento, feita por iniciativa dela e sem que Henrique necessariamente a presencie. Quando Henrique vê DREAM_007 mudar antes de saber o que ela fez, ele recebe evidência de que não controla nem protagoniza sozinho a alteração do futuro.
+
 No ponto de bifurcação final, Henrique percebe que existe uma situação grave, mas não assume automaticamente o comando da vida de Lívia. A função dramática da resposta dele é perguntar do que ela precisa e conseguir respeitar a resposta, acionando recursos profissionais quando apropriado sem sequestrar a decisão dela.
 
 O movimento de Lívia é complementar: ela reconhece que não consegue sustentar tudo sozinha e pede/aceita apoio concreto sem entregar a Henrique autoridade total sobre a própria vida.
@@ -169,6 +175,7 @@ Sem reabrir este arco inteiro, o outline detalhado pode ajustar:
 - cena e local do primeiro beijo;
 - forma prática como definem a relação antes da residência;
 - formulação verbal exata da ruptura e da reconciliação;
+- forma concreta da escolha de Lívia que antecede DREAM_007;
 - intervalo de tempo entre crise, reparação e retomada romântica.
 
 Mudanças na ordem funcional destes marcos, no pacto de confiança, no motivo da ruptura ou no princípio de reconciliação por comportamento devem voltar para proposta antes de consolidação.

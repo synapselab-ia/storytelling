@@ -34,6 +34,7 @@
 - O romance precisa ser construído por ações e conhecimento real no presente, não pelo destino.
 - Aproximadamente na faixa de 35–40%, Lívia descobre os sonhos ao confrontar Henrique sobre seu comportamento/reação a detalhes que envolvem ela. A circunstância exata continua aberta.
 - Eles constroem um pacto explícito: se os sonhos dizem respeito à vida de Lívia, Henrique fala com ela e não usa Tomás, família ou terceiros para administrar as decisões dela.
+- **Tomás permanece sem saber dos sonhos neste estágio.** A informação onírica passa a fazer parte de um espaço de confiança específico entre Henrique e Lívia.
 - Henrique passa a separar, ao menos temporariamente, o que efetivamente viu nos sonhos do que apenas infere sobre eles.
 - Antes de conhecer a verdade completa do acidente, Henrique pede desculpas por ter barrado Lívia do hospital. Ele reconhece que a responsabilidade dela pelo acidente, mesmo na versão que ainda acredita, não lhe dava direito de decidir quem Tomás podia receber enquanto estava incapaz de decidir.
 - O pedido de desculpas não resolve seis anos de ressentimento nem exige perdão imediato; ele funciona como primeiro grande ato de confiança e responsabilização.
@@ -55,6 +56,7 @@
 - Uma piora de dor durante a residência e a percepção de que Lívia está minimizando o problema intensificam o medo dele.
 - Mesmo tendo razões plausíveis para acreditar que o risco está aumentando, Henrique escolhe violar o pacto construído no Ato 3.
 - Ele compartilha com Tomás informação sobre a evolução dos sonhos e sobre a condição de Lívia e tenta recrutá-lo para interferir na decisão profissional dela.
+- **Essa é a primeira vez que Tomás descobre a existência dos sonhos.** A quebra é mais grave porque Henrique abre a um terceiro informação que Lívia havia aceitado manter dentro do pacto entre os dois.
 - A falha não é sentir medo nem buscar apoio emocional para si; é transformar informação confiada por Lívia em instrumento de intervenção sobre ela.
 - Tomás, assustado, tenta convencê-la a interromper a residência ou voltar para Belo Horizonte.
 - Para Lívia, a quebra de confiança repete emocionalmente a ferida do hospital: mais uma vez alguém decide que o medo lhe concede autoridade sobre escolhas que pertencem a ela.
@@ -74,6 +76,7 @@
 - O mistério do futuro se conecta ao passado não resolvido.
 - A investigação emocional/narrativa força os três a revisitar o acidente.
 - Tomás revela sua participação causal ao agarrar o volante e admite que permitiu que Lívia carregasse culpa excessiva durante seis anos.
+- **Henrique e o leitor descobrem essa informação juntos** por limitação legítima do POV; pistas anteriores podem existir como culpa, defesa de Lívia e desconforto de Tomás, mas não como confirmação objetiva antecipada.
 - A revelação não absolve automaticamente ninguém: Lívia dirigia rápido demais para as condições e tinha responsabilidade real pelo risco.
 - Henrique confronta anos de julgamento e crueldade baseados em informação incompleta.
 - Lívia confronta o custo de ter protegido Tomás através do silêncio.
@@ -92,6 +95,9 @@
 - A cadeia real é formada por medo de vulnerabilidade → ocultação → medo dele → controle/intervenção → mais ocultação → isolamento → sobrecarga → rupturas → crise.
 - Tentar impedir a residência, portanto, não quebra o futuro; em algumas linhas possíveis, ajuda a construí-lo.
 - Lívia precisa chegar ao mesmo tipo de ponto de bifurcação e agir de modo diferente de seu padrão habitual.
+- **Antes de DREAM_007, Lívia realiza por iniciativa própria uma escolha concreta contra o isolamento sem que Henrique necessariamente a presencie ou compreenda naquele momento.** Pode procurar Bia, aceitar redistribuição de carga, pedir ajuda ou realizar ação funcionalmente equivalente.
+- DREAM_007 então apresenta uma divergência perceptível **antes de Henrique saber com certeza o que Lívia mudou**, impedindo que ele atribua honestamente a alteração do futuro ao próprio controle.
+- Quando ele descobre posteriormente a escolha de Lívia, fica claro para ele e para o leitor que ela já estava rompendo sua metade da cadeia causal por agência própria.
 - Ela mantém a decisão profissional como sua — inclusive podendo continuar ou retornar para concluir a residência — mas admite que não consegue sustentar tudo sozinha.
 - Ela aceita tratamento, fisioterapia, redistribuição de carga, delegação profissional e apoio emocional sem entregar a terceiros a autoridade sobre sua decisão.
 - Henrique precisa demonstrar mudança **sob pressão**, não apenas declarar que mudou. Diante de medo real, ele deve perguntar do que Lívia precisa e conseguir respeitar a resposta, acionando recursos profissionais quando apropriado sem sequestrar a decisão dela.

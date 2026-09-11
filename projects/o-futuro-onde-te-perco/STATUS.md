@@ -6,35 +6,40 @@
 
 **Infraestrutura:** projeto consolidado no repositório `storytelling`. Este arquivo é o ponto de retomada entre chats.
 
-Nenhum capítulo definitivo deve ser escrito ainda. Premissa, acidente, cadeia causal do futuro sombrio, regras sobrenaturais, mapa estrutural provisório dos sonhos, setting, personagens centrais, arco romântico e **forma narrativa** já possuem direção aprovada.
+Nenhum capítulo definitivo deve ser escrito ainda. Premissa, acidente, cadeia causal do futuro sombrio, regras sobrenaturais, mapa estrutural provisório dos sonhos, setting, personagens centrais, arco romântico, forma narrativa e **mapa de revelações em alto nível** já possuem direção aprovada.
 
 ## Progresso da sessão mais recente
 
-Foi fechada a forma narrativa do romance.
+Foi aprovado e consolidado o `story/REVEAL_MAP.md` com a arquitetura de conhecimento de Henrique, Lívia, Tomás e leitor.
 
-### POV e forma aprovados
+### Revelações e conhecimento aprovados
 
-- **POV único de Henrique Almeida**;
+- POV único de Henrique continua sendo o mecanismo legítimo de limitação de informação;
+- o primeiro sonho entrega crise futura extrema, intimidade e perda, mas não precisa entregar cedo toda a semântica da crise;
+- Henrique reconhece Lívia como a mulher dos sonhos aproximadamente em 25–30%;
+- Lívia descobre os sonhos aproximadamente em 35–40%;
+- Tomás **não sabe dos sonhos** durante a aproximação ou início do relacionamento;
+- Tomás descobre os sonhos pela primeira vez quando Henrique quebra o pacto no Ato 4 e tenta recrutá-lo para intervir;
+- timing da candidatura + sinais da residência constituem fatos reais, mas a conclusão de Henrique de que a residência é a causa fatal permanece inferência errada/incompleta;
+- Henrique e leitor descobrem juntos, aproximadamente em 75–85%, que Tomás agarrou o volante;
+- a revelação do acidente deve ser justa: pistas podem existir, mas a narrativa não mente nem confirma cedo o que Henrique não sabe;
+- DREAM_007 pode divergir depois de uma escolha autônoma de Lívia contra o isolamento feita sem Henrique presente;
+- Henrique vê a mudança do sonho antes de poder atribuí-la a si mesmo e só depois pode descobrir o que Lívia fez;
+- DREAM_008 confirma que o futuro era possibilidade alterável, sem entregar cosmologia total ou garantia de destino.
+
+`story/DREAM_MAP.md`, `story/ROMANCE_ARC.md` e `story/CURRENT_OUTLINE.md` foram alinhados a essa arquitetura.
+
+## Forma narrativa
+
+- **POV único:** Henrique Almeida;
 - **terceira pessoa limitada**;
-- **tempo verbal passado**;
-- distância narrativa próxima, com variação controlada conforme contexto emocional;
-- não haverá capítulos principais em POV de Lívia ou Tomás;
-- a escolha preserva de forma honesta a revelação tardia de que Tomás agarrou o volante, evitando esconder artificialmente de um POV de Lívia algo que ela já sabe;
-- a narração pode acompanhar inferências erradas de Henrique sem validá-las como fatos do universo;
-- a ausência de POV de Lívia exige regra editorial explícita de preservar sua agência, vida própria e autoridade sobre o que ela comunica sobre si.
+- **passado**;
+- distância próxima, com variação controlada;
+- sem capítulos principais em POV de Lívia ou Tomás;
+- inferência de Henrique não equivale a canon;
+- ausência de POV de Lívia não reduz sua agência nem permite que a leitura de Henrique substitua o que ela comunica sobre si.
 
-A referência principal é `story/NARRATIVE_FORM.md`.
-
-### Sonhos e apresentação
-
-- os sonhos permanecem no POV de Henrique, em terceira pessoa limitada e no passado;
-- a distância fica mais próxima e a linguagem mais sensorial, fragmentária e associativa;
-- os sonhos são **integrados aos capítulos**, sem série obrigatória de capítulos-sonho autônomos;
-- podem abrir/fechar capítulos ou aparecer como seções internas;
-- o primeiro capítulo é forte candidato a abrir já dentro do primeiro sonho, sujeito à validação do outline detalhado;
-- na futura revisão editorial/diagramação, as sequências de sonho terão **tratamento visual de página preta**;
-- uma sequência pode começar em nova página ou após quebra de seção e continuar pertencendo ao mesmo capítulo;
-- a prosa não pode depender da página preta para que a transição sonho/vigília seja compreensível em e-book, acessibilidade ou outros formatos.
+Os sonhos permanecem no mesmo POV/pessoa/tempo, com linguagem mais sensorial e fragmentária. São integrados aos capítulos. Na futura diagramação terão tratamento visual de página preta, sem depender desse recurso para serem compreensíveis.
 
 Detalhes em `story/NARRATIVE_FORM.md` e `editorial/DREAM_STYLE.md`.
 
@@ -102,7 +107,7 @@ Existe esboço provisório aprovado de oito sonhos estruturalmente relevantes co
 
 `terror → intimidade → identidade → investigação → erro causal → profecia autorrealizável → divergência → possibilidade`
 
-O terceiro grande marco permite o reconhecimento de Lívia por movimento, aproximadamente em 25–30%. O sonho final continua além do antigo ponto fatal e mostra Lívia viva e mais velha. O fio vermelho não aparece literalmente nos sonhos.
+O terceiro grande marco permite o reconhecimento de Lívia por movimento, aproximadamente em 25–30%. DREAM_007 deve incluir uma divergência causada também por agência própria de Lívia. DREAM_008 continua além do antigo ponto fatal e mostra Lívia viva e mais velha. O fio vermelho não aparece literalmente nos sonhos.
 
 Detalhes em `story/DREAM_MAP.md`.
 
@@ -119,7 +124,7 @@ Marcos principais:
 - Henrique pede desculpas pelo hospital antes de conhecer a verdade completa do acidente;
 - primeiro beijo aproximadamente em 45–50%;
 - relação assumida aproximadamente em 50–60%, antes da residência;
-- ruptura ocorre quando Henrique viola o pacto e envolve Tomás;
+- ruptura ocorre quando Henrique viola o pacto e envolve Tomás, que só então descobre os sonhos;
 - reparação começa com contenção e correção da narrativa familiar;
 - reconciliação exige Henrique sentir medo sem transformar medo em autoridade e Lívia aceitar apoio sem transformar autonomia em isolamento;
 - o sonho final não cria nem valida sozinho o casal.
@@ -132,7 +137,7 @@ A residência não é a causa única nem direta da crise futura. A cadeia aprova
 
 Henrique rompe uma fronteira ao envolver Tomás para tentar intervir na residência. A linha futura muda quando Lívia deixa de tratar autonomia como necessidade de sustentar tudo sozinha e Henrique aprende a apoiar sem transformar medo em autoridade.
 
-Detalhes em `story/FUTURE_CAUSAL_CHAIN.md`, `story/CURRENT_OUTLINE.md` e `story/ROMANCE_ARC.md`.
+Detalhes em `story/FUTURE_CAUSAL_CHAIN.md`, `story/CURRENT_OUTLINE.md`, `story/ROMANCE_ARC.md` e `story/REVEAL_MAP.md`.
 
 ## Fluxo de colaboração e GitHub
 
@@ -144,13 +149,14 @@ Detalhes em `story/FUTURE_CAUSAL_CHAIN.md`, `story/CURRENT_OUTLINE.md` e `story/
 
 ## O que ainda NÃO está fechado
 
-### Mapas e revelações
+### Sonhos e pistas concretas
 
-- preenchimento final de `story/REVEAL_MAP.md`;
 - gesto corporal específico do reconhecimento;
-- objetos/sinais específicos da residência nos sonhos;
-- detalhes sensoriais definitivos dos oito sonhos;
-- posição exata por capítulo de cada sonho.
+- 2–4 objetos/sinais específicos da residência que reaparecem nos sonhos;
+- detalhes concretos do DREAM_006 que permitem perceber a dimensão autorrealizável;
+- ação específica de Lívia que antecede DREAM_007;
+- cenário ordinário do DREAM_008;
+- detalhes sensoriais finais e posição exata por capítulo de cada sonho.
 
 ### Personagens/cotidiano
 
@@ -166,8 +172,6 @@ Esses itens não devem bloquear estrutura se puderem nascer organicamente do out
 
 ### Romance — detalhes adaptáveis
 
-O arco funcional está fechado, mas ainda podem ser decididos durante outline:
-
 - episódio pré-acidente específico que dramatiza o paternalismo de Henrique;
 - cenas concretas de reclassificação mútua;
 - circunstância exata da revelação dos sonhos;
@@ -182,19 +186,18 @@ O arco funcional está fechado, mas ainda podem ser decididos durante outline:
 - voz fina/cadência definitiva da terceira pessoa próxima de Henrique;
 - grau de explicitude sexual;
 - comprimento médio e número final de capítulos;
-- amostras positivas/negativas de voz do próprio livro;
+- criação e aprovação de `editorial/STYLE_EXAMPLES.md`;
 - detalhes tipográficos das páginas pretas dos sonhos;
 - título definitivo.
 
 ## Próximo passo recomendado
 
-1. **preencher e refinar `story/REVEAL_MAP.md`** com o POV agora fechado;
-2. cruzar mapa de revelações, oito sonhos e arco romântico;
-3. completar apenas detalhes cotidianos de personagem necessários às cenas;
-4. calibrar amostras originais de estilo e congelar `STYLE_EXAMPLES.md`;
-5. revisar outline macro;
-6. produzir outline por capítulos;
-7. somente então iniciar prosa definitiva.
+1. **refinar pistas concretas e decisões de cena dos oito sonhos**, agora protegidas pelo `REVEAL_MAP`;
+2. completar apenas detalhes cotidianos de personagem necessários às cenas;
+3. calibrar amostras originais de estilo e criar/aprovar `editorial/STYLE_EXAMPLES.md`;
+4. revisar outline macro;
+5. produzir outline por capítulos validando cada capítulo contra `story/REVEAL_MAP.md`;
+6. somente então iniciar prosa definitiva.
 
 ## Regra para retomada em outro chat
 

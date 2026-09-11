@@ -60,31 +60,41 @@ A forma narrativa está consolidada em `story/NARRATIVE_FORM.md`.
 - sonhos ficam integrados aos capítulos, sem capítulos-sonho autônomos obrigatórios;
 - uma sequência de sonho pode começar em nova página ou após quebra de seção sem deixar de pertencer ao capítulo;
 - na futura revisão editorial/diagramação, as sequências de sonho devem receber **tratamento visual de página preta**;
-- o texto não pode depender do fundo preto para tornar a transição compreensível;
-- o primeiro capítulo é forte candidato a abrir dentro do primeiro sonho, sujeito à validação do outline por capítulos.
+- o texto não pode depender do fundo preto para tornar a transição compreensível.
 
-## Prioridade 1 — REVEAL_MAP e refinamento dos sonhos
+### Mapa de revelações — fechado em alto nível
 
-Agora que POV e forma estão fechados, a próxima decisão estrutural é preencher `story/REVEAL_MAP.md` e cruzá-lo com os oito sonhos.
+A arquitetura de conhecimento está consolidada em `story/REVEAL_MAP.md`.
 
-Precisamos:
+Decisões aprovadas:
 
-- definir em cada marco o que Henrique sabe, suspeita e interpreta erroneamente;
-- definir o que Lívia sabe e o que escolhe contar;
-- definir o que Tomás sabe e oculta;
-- definir o que o leitor pode inferir antes de Henrique sem quebrar o mistério;
-- alinhar reconhecimento, revelação dos sonhos, pedido de desculpas, beijo, relação, ruptura e verdade do acidente;
-- fechar o gesto corporal específico do reconhecimento;
-- selecionar pistas concretas da residência que podem reaparecer nos sonhos;
-- revisar posição aproximada dos oito sonhos à luz do romance já aprovado.
+- Henrique e leitor descobrem a verdade do volante juntos, aproximadamente em 75–85%;
+- a revelação é protegida por limitação legítima de POV, não por ocultação artificial;
+- Tomás **não sabe dos sonhos** durante a aproximação/relacionamento e só descobre sua existência quando Henrique quebra o pacto no Ato 4;
+- o leitor pode suspeitar da identidade de Lívia antes de Henrique, mas a confirmação ocorre aproximadamente em 25–30%;
+- a realidade sobrenatural recebe confirmação prática progressiva sem explicação metafísica total;
+- timing da candidatura + sinais da residência sustentam uma inferência causal compreensível porém errada de Henrique;
+- DREAM_007 pode mudar antes de Henrique saber qual escolha produziu a divergência;
+- a primeira divergência nasce também de uma ação de Lívia contra o isolamento, realizada por agência própria;
+- DREAM_008 confirma possibilidade alterável, não destino garantido.
+
+## Prioridade 1 — refinamento concreto dos sonhos e pistas
+
+Agora que conhecimento e ordem de revelações estão protegidos, falta escolher detalhes concretos que serão úteis no outline por capítulos:
+
+- fechar o gesto corporal específico que Henrique reconhece em Lívia;
+- escolher 2–4 pistas recorrentes da residência que podem aparecer nos sonhos sem denunciar cedo demais São Paulo/instituição;
+- definir quais pistas do DREAM_006 permitem a Henrique perceber a dimensão autorrealizável sem explicar tudo em diálogo;
+- escolher uma versão preferida da ação autônoma de Lívia que antecede DREAM_007;
+- definir o cenário ordinário do DREAM_008 sem transformar o final em certificado de casamento/filhos/futuro perfeito.
+
+Esses detalhes podem ser adaptados durante o outline, mas convém ter versões líderes antes de distribuir capítulos.
 
 ## Prioridade 2 — última camada cotidiana dos personagens
 
 Esses detalhes são úteis para cena, mas não devem bloquear arquitetura se puderem nascer organicamente do outline.
 
 ### Lívia
-
-Ainda aberto:
 
 - nome/localização do estúdio fictício;
 - rotina profissional/doméstica fina;
@@ -94,8 +104,6 @@ Ainda aberto:
 
 ### Henrique
 
-Ainda aberto:
-
 - hospital fictício e rotina concreta de plantões/preceptoria;
 - sobrenome, idade exata e função profissional de Camila;
 - outras amizades/relações fora do romance e do irmão;
@@ -103,8 +111,6 @@ Ainda aberto:
 - limites práticos de como medicina aparece em cena sem virar atalho narrativo.
 
 ### Tomás
-
-Ainda aberto:
 
 - área específica da arquitetura;
 - escritório fictício e rotina concreta;
@@ -114,11 +120,11 @@ Ainda aberto:
 
 ## Prioridade 3 — voz e prosa antes do manuscrito
 
-Depois de `REVEAL_MAP` e do refinamento estrutural:
+Depois do refinamento estrutural:
 
 - testar amostras originais em terceira pessoa próxima de Henrique;
 - calibrar diferença de textura entre vigília e sonho sem trocar POV/pessoa/tempo;
-- fechar exemplos positivos/negativos próprios em `editorial/STYLE_EXAMPLES.md`;
+- criar e aprovar `editorial/STYLE_EXAMPLES.md`;
 - definir grau de explicitude sexual;
 - definir comprimento médio aproximado dos capítulos;
 - validar como as quebras de página dos sonhos funcionam sem tornar sua chegada previsível.
@@ -128,9 +134,9 @@ Depois de `REVEAL_MAP` e do refinamento estrutural:
 Antes de iniciar prosa definitiva:
 
 - revisar o outline macro;
-- preencher mapa de conhecimento/revelações;
 - transformar os atos em sequência de capítulos e cenas;
 - encaixar sonhos, romance, trabalho, acidente e residência sem função duplicada;
+- validar cada capítulo contra `story/REVEAL_MAP.md`;
 - só então iniciar manuscrito definitivo.
 
 ## Detalhes de design ainda abertos

@@ -18,99 +18,114 @@ Esse mapa não está congelado em nível de capítulo. Continuam adaptáveis dur
 
 Esses ajustes não exigem reabrir a arquitetura inteira desde que preservem as funções e regras já aprovadas. Mudanças de função, quantidade estrutural ou lógica sobrenatural devem voltar para proposta antes de consolidação.
 
-A hierarquia entre os irmãos está fechada: **o protagonista médico é o irmão mais velho; o personagem que sofreu o acidente é o irmão mais novo e melhor amigo da protagonista feminina**.
+A hierarquia entre os irmãos está fechada: **Henrique Almeida é o irmão mais velho; Tomás Almeida sofreu o acidente e é o irmão mais novo e melhor amigo de Lívia Sampaio**.
 
-Também foi aprovada uma primeira camada biográfica concreta dos três:
+Também está fechada uma primeira camada biográfica/social concreta:
 
-- protagonista médico: **37 anos**, médico de emergência experiente, com autonomia profissional e função de referência/preceptoria; seu modelo de ação sob risco reforça, mas não causa nem legitima, seu padrão de controle;
-- protagonista feminina: **34 anos**, professora de dança contemporânea e composição, coreógrafa freelancer, buscando consolidar-se como coreógrafa autoral reconhecida;
-- irmão mais novo: **34 anos**, arquiteto competente profissionalmente, socialmente conciliador e especificamente evitativo diante de conflitos emocionais com pessoas que ama.
+- **Henrique Almeida**, 37 anos, médico de emergência experiente em Belo Horizonte, com autonomia profissional e função de referência/preceptoria;
+- **Lívia Sampaio**, 34 anos, professora de dança contemporânea/composição e coreógrafa freelancer em Belo Horizonte, buscando consolidar-se como coreógrafa autoral reconhecida;
+- **Tomás Almeida**, 34 anos, arquiteto em Belo Horizonte, competente profissionalmente, socialmente agregador e especificamente evitativo diante de conflitos emocionais com pessoas que ama;
+- Belo Horizonte é a cidade-base;
+- a residência coreográfica de aproximadamente três meses acontece em São Paulo;
+- os locais profissionais centrais devem usar instituições fictícias;
+- os pais de Henrique e Tomás estão vivos e a família é funcional, sem necessidade de pais abusivos como explicação totalizante;
+- Tomás funciona como agregador social e cria ocasiões orgânicas para Henrique e Lívia continuarem compartilhando espaços;
+- **Beatriz “Bia” Faria** é a principal amizade atual de Lívia fora do núcleo dos irmãos, ligada à produção cultural/dança e construída depois do acidente;
+- **Camila** é amizade profissional importante de Henrique na emergência; sobrenome, idade exata e detalhes de carreira ainda estão abertos.
 
 ## Prioridade 1 — completar personagens centrais
 
-As fichas profundas já possuem idade, profissão, eixo psicológico e relação com o acidente. Ainda falta concretizar vida cotidiana, relações secundárias e identidade nominal antes de considerar o bloco de personagem suficientemente fechado.
+As fichas profundas já possuem nome, idade, profissão, eixo psicológico, cidade-base e primeiros vínculos secundários. Ainda falta concretizar vida cotidiana, relações adicionais e detalhes profissionais específicos antes de considerar o bloco de personagem suficientemente fechado.
 
-### Protagonista feminina
+### Lívia Sampaio
 
 Já definido:
 
 - 34 anos;
+- Belo Horizonte como cidade-base;
 - dança contemporânea e composição coreográfica;
 - professora e coreógrafa freelancer;
+- trabalha a partir de estúdio independente e não é dona do espaço no início;
 - antiga trajetória mais voltada para performance;
 - ambição de consolidar carreira autoral como coreógrafa, não de “recuperar” a carreira pré-acidente;
-- residência de aproximadamente três meses como oportunidade de criar obra completa sob sua assinatura;
+- residência de aproximadamente três meses em São Paulo como oportunidade de criar obra completa sob sua assinatura;
+- instituição da residência será fictícia;
 - lesão permite função ampla, mas carga acumulada e repetitiva pode produzir dor/limitação;
 - tendência de esconder dor ligada ao medo de perder autonomia;
-- precisa ter pelo menos uma amizade significativa fora do núcleo dos irmãos.
+- Bia é amizade significativa da vida pós-acidente e entende a importância profissional da residência sem tentar decidir por ela.
 
 Ainda precisamos definir:
 
-- nome;
-- estúdio/local de trabalho concreto e arranjo profissional cotidiano;
-- identidade e dinâmica da amizade principal fora dos irmãos;
-- família e conflitos sociais relevantes;
+- nome e localização do estúdio fictício e arranjo profissional cotidiano mais detalhado;
+- idade exata, rotina e função concreta de Bia no circuito cultural;
+- família e conflitos sociais relevantes de Lívia;
 - moradia e rotina;
-- natureza concreta da instituição/companhia/festival e cidade da residência.
+- nome/formato específico da instituição fictícia responsável pela residência.
 
-### Protagonista médico — irmão mais velho
+### Henrique Almeida
 
 Já definido:
 
 - 37 anos;
+- Belo Horizonte como cidade-base;
 - médico de emergência;
 - experiente, com autonomia e papel de referência/preceptoria sem precisar ser chefe máximo;
 - já era médico aos 31, quando ocorreu o acidente;
 - medicina de emergência recompensa capacidades de agir sob pressão que também aparecem em seu padrão familiar;
 - tende a converter emoção em tarefa/intervenção e tolera mal impotência;
-- competência médica não lhe dá autoridade pessoal sobre a protagonista ou familiares capazes.
+- competência médica não lhe dá autoridade pessoal sobre Lívia ou familiares capazes;
+- vive sozinho;
+- Camila é amizade profissional importante e conhece Henrique no ambiente em que sua capacidade de assumir controle costuma ser funcional e valorizada.
 
 Ainda precisamos definir:
 
-- nome;
-- hospital/estrutura concreta de trabalho e rotina de plantões;
-- amizades, relações e vida própria fora do romance e do irmão;
-- moradia e hábitos cotidianos;
+- hospital fictício/estrutura concreta de trabalho e rotina de plantões;
+- sobrenome, idade exata e função profissional de Camila;
+- outras amizades, relações e vida própria fora do romance e do irmão;
+- bairro/moradia e hábitos cotidianos;
 - limites práticos de como a medicina aparece em cena sem virar atalho narrativo.
 
-### Irmão mais novo
+### Tomás Almeida
 
 Já definido:
 
 - 34 anos;
+- Belo Horizonte como cidade-base;
 - arquiteto em escritório de porte médio, com responsabilidade real sobre projetos/equipes;
 - conciliador socialmente, mas não incapaz de decidir ou confrontar em todas as áreas;
 - evitamento é especialmente emocional e ligado a pessoas que ama;
-- relação histórica de confiança/deferência com o irmão mais velho torna o confronto pós-acidente mais difícil;
+- relação histórica de confiança/deferência com Henrique torna o confronto pós-acidente mais difícil;
 - o silêncio dos seis anos se consolida gradualmente e sua gravidade aumenta com o tempo;
-- reparação exige mais do que confessar: precisa aceitar consequências e reações sem administrá-las.
+- reparação exige mais do que confessar: precisa aceitar consequências e reações sem administrá-las;
+- vive sozinho e usa a própria casa como espaço frequente de convivência;
+- é o principal agregador social do núcleo histórico.
 
 Ainda precisamos definir:
 
-- nome;
 - especialidade/área de atuação dentro da arquitetura;
-- escritório e rotina concreta;
-- vida afetiva e social própria;
-- moradia;
-- dinâmica cotidiana atual com o irmão e com a melhor amiga fora do conflito principal.
+- escritório fictício e rotina concreta;
+- vida afetiva e social além do núcleo central;
+- bairro/tipo de moradia;
+- dinâmica cotidiana atual com Henrique e Lívia fora do conflito principal.
 
 ## Prioridade 2 — romance
 
 Alguns pontos estruturais já foram parcialmente fechados pela cadeia causal:
 
-- ela sabe dos sonhos **no Ato 3, antes da grande ruptura do Ato 4**;
-- estabelece que eles não dão a ele autoridade sobre suas decisões;
-- ele quebra essa confiança ao envolver o irmão para tentar intervir na residência;
+- Lívia sabe dos sonhos **no Ato 3, antes da grande ruptura do Ato 4**;
+- estabelece que eles não dão a Henrique autoridade sobre suas decisões;
+- Henrique quebra essa confiança ao envolver Tomás para tentar intervir na residência;
 - a grande ruptura romântica está ligada a essa violação de autonomia e confiança;
 - a reconciliação exige mudança de comportamento, não apenas declaração;
-- antes do acidente já existia uma assimetria histórica: ele, como irmão mais velho, tendia a assumir responsabilidade/tomar a frente; ela resistia a ser administrada;
+- antes do acidente já existia uma assimetria histórica: Henrique, como irmão mais velho, tendia a assumir responsabilidade/tomar a frente; Lívia resistia a ser administrada;
+- Tomás funciona como razão social orgânica para Henrique e Lívia continuarem dividindo espaços ao longo dos anos;
 - o acidente radicaliza interpretações antigas dos dois, mas o antagonismo pré-acidente ainda precisa ser dramatizado em detalhes.
 
 Ainda precisamos decidir:
 
 - episódios concretos que definem a dinâmica deles antes do acidente;
 - como a atração adulta começa sem apagar o ressentimento;
-- em que cena/capítulo e sob quais circunstâncias dramáticas, **dentro do Ato 3 e antes da ruptura**, ela descobre os sonhos;
+- em que cena/capítulo e sob quais circunstâncias dramáticas, **dentro do Ato 3 e antes da ruptura**, Lívia descobre os sonhos;
 - quando ocorre o primeiro ato claro de confiança;
 - quando ocorre o primeiro beijo;
 - quando o relacionamento deixa de ser ambíguo;
@@ -120,13 +135,13 @@ Ainda precisamos decidir:
 
 Ainda aberto:
 
-- POV único dele;
-- POV alternado entre os dois;
+- POV único de Henrique;
+- POV alternado entre Henrique e Lívia;
 - terceira pessoa limitada;
 - primeira pessoa;
 - presença ou ausência de capítulos-sonho separados.
 
-A escolha deve preservar o mistério sem empobrecer a agência dela.
+A escolha deve preservar o mistério sem empobrecer a agência de Lívia.
 
 ## Prioridade 4 — refinamento dos mapas
 

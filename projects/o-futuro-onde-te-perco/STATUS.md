@@ -10,7 +10,13 @@ Nenhum capítulo definitivo deve ser escrito ainda. A premissa, o conflito centr
 
 ## Progresso da sessão mais recente
 
-Foi aprovado um **esboço estrutural provisório de oito sonhos relevantes**. Esse número e a progressão funcional servem como arquitetura de desenvolvimento, não como sequência imutável por capítulo.
+Foi aprovada uma **mudança explícita de hierarquia entre os irmãos**: o protagonista médico é o irmão mais velho; o personagem que sofreu o acidente é o irmão mais novo e melhor amigo da protagonista feminina.
+
+Essa escolha reforça um traço já existente do protagonista sem justificá-lo moralmente: antes do acidente ele já estava habituado a assumir responsabilidade e tomar a frente em situações difíceis dentro da família. A crise do hospital radicaliza esse padrão e ajuda a explicar por que ele se arroga autoridade para impedir a visita da protagonista feminina, mas sua posição de irmão mais velho não lhe concede direito legítimo de decidir relações ou escolhas de outros adultos.
+
+Nomes, idades exatas, especialidade médica e profissão do irmão mais novo continuam abertos.
+
+Também está aprovado um **esboço estrutural provisório de oito sonhos relevantes**. Esse número e a progressão funcional servem como arquitetura de desenvolvimento, não como sequência imutável por capítulo.
 
 A progressão aprovada é:
 
@@ -42,9 +48,11 @@ Continuam adaptáveis sem reabrir toda a arquitetura: posição exata por capít
 
 ## O que já está definido
 
-- O protagonista é médico.
-- A protagonista feminina é professora de dança e melhor amiga do irmão mais velho dele desde a infância.
-- Os dois se conhecem há muitos anos e mantêm uma relação hostil no presente.
+- O protagonista é médico e é o irmão mais velho.
+- O irmão que sofreu o acidente é o irmão mais novo do protagonista.
+- A protagonista feminina é professora de dança e melhor amiga do irmão mais novo dele desde a infância.
+- O papel familiar do protagonista como irmão mais velho e responsável antecede o acidente e contribui para seu hábito de assumir a frente sob pressão; isso explica parte do padrão, mas não legitima controle.
+- Os dois protagonistas se conhecem há muitos anos e mantêm uma relação hostil no presente.
 - A hostilidade adulta está ligada ao acidente grave ocorrido seis anos antes.
 - A protagonista dirigia rápido demais para as condições de uma pista molhada e tinha responsabilidade real pelo risco.
 - O irmão interferiu fisicamente no volante em pânico e teve participação causal decisiva na perda de controle.
@@ -92,7 +100,7 @@ Continuam adaptáveis sem reabrir toda a arquitetura: posição exata por capít
 
 ## O que NÃO está fechado
 
-- Nomes, idades, cidade e demais detalhes biográficos dos três personagens.
+- Nomes, idades exatas, cidade e demais detalhes biográficos dos três personagens.
 - Posição exata por capítulo dos oito sonhos e seus detalhes sensoriais definitivos.
 - Gesto corporal específico usado no reconhecimento, dependente do detalhamento da prática de dança da protagonista.
 - Objetos, sons, espaços e demais pistas concretas da residência.
@@ -101,7 +109,7 @@ Continuam adaptáveis sem reabrir toda a arquitetura: posição exata por capít
 - Ações específicas da reconciliação depois da ruptura.
 - Ambição profissional detalhada, rede de apoio e vida familiar/social da protagonista.
 - Especialidade e estágio de carreira do protagonista médico.
-- Vida/profissão atual e arco detalhado do irmão mais velho.
+- Vida/profissão atual e arco detalhado do irmão mais novo.
 - POV definitivo, pessoa verbal e tempo narrativo.
 - Presença ou ausência de capítulos-sonho separados.
 - Grau de explicitude sexual.

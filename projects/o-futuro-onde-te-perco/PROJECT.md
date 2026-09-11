@@ -10,16 +10,18 @@
 - **Gêneros-base:** romance contemporâneo, romance sobrenatural, mistério emocional
 - **Dinâmica romântica:** antagonistas de longa data / childhood antagonists → lovers; não forçar a classificação como enemies-to-lovers puro se a trama não sustentar antagonismo real
 - **Elemento sobrenatural:** vínculo do tipo fio vermelho / soulmates, com funcionamento deliberadamente limitado e não totalmente explicado
+- **Cidade-base:** Belo Horizonte, Minas Gerais
+- **Residência coreográfica:** São Paulo, São Paulo, por aproximadamente três meses
 
 ## Premissa curta
 
-Um médico é assombrado por sonhos recorrentes nos quais uma mulher sem rosto tenta tirar a própria vida. Ele não sabe quem ela é, mas sente por ela uma intimidade e uma perda incompatíveis com o fato de nunca tê-la conhecido. Na vida desperta, ele mantém uma relação hostil com a melhor amiga de seu irmão mais novo, hoje professora de dança, a quem culpa há anos por um acidente que quase matou o irmão. Aos poucos, descobre que a mulher dos sonhos é justamente ela.
+Henrique Almeida, médico de emergência, é assombrado por sonhos recorrentes sobre uma mulher sem rosto em uma crise futura extrema. Ele não sabe quem ela é, mas sente por ela uma intimidade e uma perda incompatíveis com o fato de não reconhecê-la. Na vida desperta, mantém uma relação hostil com Lívia Sampaio, melhor amiga de seu irmão mais novo, Tomás Almeida, e professora/coreógrafa de dança contemporânea, a quem culpa há anos por um acidente que quase matou Tomás. Aos poucos, Henrique descobre que a mulher dos sonhos é justamente Lívia.
 
 ## Núcleo dramático
 
 A história não deve ser construída como "um homem destinado a salvar uma mulher". O eixo é o choque entre amor, controle, autonomia, culpa, versões incompletas do passado e a possibilidade de alterar um futuro percebido como inevitável.
 
-O protagonista tende a confundir cuidado com intervenção e controle. A protagonista feminina tende a confundir autonomia com não permitir vulnerabilidade ou ajuda. Ambos precisam mudar para que a relação funcione.
+Henrique tende a confundir cuidado com intervenção e controle. Lívia tende a confundir autonomia com não permitir vulnerabilidade ou ajuda. Ambos precisam mudar para que a relação funcione.
 
 ## Regra de desenvolvimento
 
@@ -32,8 +34,9 @@ Antes de trabalhar neste projeto, leia:
 1. `STATUS.md`
 2. `canon/SUPERNATURAL_RULES.md`
 3. `canon/ACCIDENT.md`
-4. `story/PREMISE.md`
-5. `story/CURRENT_OUTLINE.md`
-6. `story/DECISIONS_PENDING.md`
+4. `canon/SETTING.md`
+5. `story/PREMISE.md`
+6. `story/CURRENT_OUTLINE.md`
+7. `story/DECISIONS_PENDING.md`
 
 Quando personagens e fatos forem formalizados em dados estruturados, esses arquivos terão precedência conforme as regras globais do repositório.

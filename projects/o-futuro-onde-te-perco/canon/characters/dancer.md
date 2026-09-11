@@ -4,7 +4,7 @@
 
 ## Função
 
-Protagonista romântica. Professora de dança. Melhor amiga do irmão mais velho do protagonista desde a infância. É a mulher vista nos sonhos.
+Protagonista romântica. Professora de dança. Melhor amiga do irmão mais novo do protagonista desde a infância. É a mulher vista nos sonhos.
 
 ## Traços já definidos
 

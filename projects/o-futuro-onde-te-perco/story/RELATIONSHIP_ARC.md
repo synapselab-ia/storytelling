@@ -3,12 +3,14 @@
 ## Antes do livro
 
 ### Infância/adolescência
-Eles se conhecem por causa do irmão mais velho. Existe provocação e irritação antiga, mas o antagonismo sério ainda não está completamente definido para essa fase.
+Eles se conhecem por causa do irmão mais novo do protagonista, melhor amigo dela. Existe provocação e irritação antiga, mas o antagonismo sério ainda não está completamente definido para essa fase.
+
+A posição do protagonista como irmão mais velho ajuda a sustentar uma dinâmica anterior ao acidente em que ele tende a assumir responsabilidade e a tomar a frente, enquanto ela resiste a ser tratada como alguém cujas escolhas precisam ser administradas. Essa assimetria não legitima controle; serve como antecedente do conflito que o acidente radicaliza.
 
 ### Pós-acidente
 O acidente transforma implicância em ferida real.
 
-Ele passa a vê-la como alguém ligada à quase morte do irmão.
+Ele passa a vê-la como alguém ligada à quase morte do irmão mais novo.
 
 Ela passa a vê-lo como alguém capaz de julgá-la e feri-la no pior momento de sua vida sem compreender os fatos.
 

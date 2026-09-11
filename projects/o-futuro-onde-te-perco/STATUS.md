@@ -6,28 +6,27 @@
 
 **Infraestrutura:** projeto consolidado no repositório `storytelling`. Este arquivo é o ponto de retomada entre chats.
 
-Nenhum capítulo definitivo deve ser escrito ainda. Premissa, acidente, cadeia causal do futuro sombrio, regras sobrenaturais, mapa estrutural provisório dos sonhos, setting, personagens centrais, arco romântico, forma narrativa e **mapa de revelações em alto nível** já possuem direção aprovada.
+Nenhum capítulo definitivo deve ser escrito ainda. Premissa, acidente, cadeia causal do futuro sombrio, regras sobrenaturais, mapa estrutural dos sonhos, setting, personagens centrais, arco romântico, forma narrativa, mapa de revelações e **motivos concretos líderes dos sonhos** já possuem direção aprovada.
 
 ## Progresso da sessão mais recente
 
-Foi aprovado e consolidado o `story/REVEAL_MAP.md` com a arquitetura de conhecimento de Henrique, Lívia, Tomás e leitor.
+Foram aprovados e consolidados os principais detalhes concretos que sustentam os oito sonhos sem transformar o mapa estrutural em prosa definitiva.
 
-### Revelações e conhecimento aprovados
+### Motivos concretos dos sonhos aprovados
 
-- POV único de Henrique continua sendo o mecanismo legítimo de limitação de informação;
-- o primeiro sonho entrega crise futura extrema, intimidade e perda, mas não precisa entregar cedo toda a semântica da crise;
-- Henrique reconhece Lívia como a mulher dos sonhos aproximadamente em 25–30%;
-- Lívia descobre os sonhos aproximadamente em 35–40%;
-- Tomás **não sabe dos sonhos** durante a aproximação ou início do relacionamento;
-- Tomás descobre os sonhos pela primeira vez quando Henrique quebra o pacto no Ato 4 e tenta recrutá-lo para intervir;
-- timing da candidatura + sinais da residência constituem fatos reais, mas a conclusão de Henrique de que a residência é a causa fatal permanece inferência errada/incompleta;
-- Henrique e leitor descobrem juntos, aproximadamente em 75–85%, que Tomás agarrou o volante;
-- a revelação do acidente deve ser justa: pistas podem existir, mas a narrativa não mente nem confirma cedo o que Henrique não sabe;
-- DREAM_007 pode divergir depois de uma escolha autônoma de Lívia contra o isolamento feita sem Henrique presente;
-- Henrique vê a mudança do sonho antes de poder atribuí-la a si mesmo e só depois pode descobrir o que Lívia fez;
-- DREAM_008 confirma que o futuro era possibilidade alterável, sem entregar cosmologia total ou garantia de destino.
+- **gesto corporal de Lívia:** quatro contatos sucessivos do polegar contra os outros dedos, combinados com transferência de peso e pequena marcação de ombro enquanto ela pensa movimento/coreografia;
+- DREAM_002 apresenta fragmentos desse gesto;
+- DREAM_003 apresenta a combinação de forma reconhecível e Henrique vê Lívia repeti-la acordada enquanto trabalha com um aluno;
+- Henrique ainda pode racionalizar o reconhecimento como possível memória implícita antes de aceitar plenamente o fenômeno;
+- **pistas da residência:** crachá com cordão amarelo e símbolo abstrato, marcação diagonal de fita no piso preto e som curto de três notas ligado ao prédio;
+- as três pistas entram distribuídas, não como pacote repetido em todos os sonhos;
+- **DREAM_006:** motivo líder é Henrique ouvir a voz de Tomás, por telefone/mediação equivalente, pedindo que Lívia volte para Belo Horizonte; a função é Henrique reconhecer no futuro uma consequência que só entrou na cadeia porque ele envolveu Tomás;
+- **antes de DREAM_007:** Lívia procura Bia, admite a extensão da sobrecarga e, por decisão própria, negocia redistribuição de participação física/carga, delegação e tratamento sem abandonar a residência ou entregar a decisão a outra pessoa;
+- Henrique não sabe dessa escolha quando DREAM_007 muda, impedindo que atribua a divergência ao próprio controle;
+- **DREAM_008:** cenário líder é um estúdio depois de ensaio, anos mais tarde; Lívia está viva e mais velha, repete o mesmo gesto corporal e Henrique finalmente a percebe por inteiro, inclusive o rosto;
+- a força do final está na continuidade banal de uma vida que teve um “depois”, não em casamento, filhos, prêmio profissional ou certificado de destino perfeito.
 
-`story/DREAM_MAP.md`, `story/ROMANCE_ARC.md` e `story/CURRENT_OUTLINE.md` foram alinhados a essa arquitetura.
+Microexecução coreográfica, redação exata das falas, desenho específico do símbolo e detalhes visuais finos continuam ajustáveis no outline/prosa.
 
 ## Forma narrativa
 
@@ -103,13 +102,23 @@ Detalhes em `canon/SUPERNATURAL_RULES.md`.
 
 ### Mapa estrutural dos sonhos
 
-Existe esboço provisório aprovado de oito sonhos estruturalmente relevantes com progressão:
+Existem oito sonhos estruturalmente relevantes com progressão:
 
 `terror → intimidade → identidade → investigação → erro causal → profecia autorrealizável → divergência → possibilidade`
 
-O terceiro grande marco permite o reconhecimento de Lívia por movimento, aproximadamente em 25–30%. DREAM_007 deve incluir uma divergência causada também por agência própria de Lívia. DREAM_008 continua além do antigo ponto fatal e mostra Lívia viva e mais velha. O fio vermelho não aparece literalmente nos sonhos.
+O reconhecimento de Lívia por movimento ocorre aproximadamente em 25–30%. O gesto, as três pistas principais da residência e as funções concretas de DREAM_006–008 estão aprovados em `story/DREAM_MAP.md`. DREAM_007 inclui divergência produzida também por agência própria de Lívia. DREAM_008 continua além do antigo ponto fatal e mostra Lívia viva e mais velha. O fio vermelho não aparece literalmente nos sonhos.
 
-Detalhes em `story/DREAM_MAP.md`.
+### Mapa de revelações
+
+- Henrique e leitor descobrem juntos a verdade do volante aproximadamente em 75–85%;
+- Tomás não sabe dos sonhos até Henrique quebrar o pacto no Ato 4;
+- o leitor pode suspeitar da identidade de Lívia antes de Henrique, mas a confirmação ocorre aproximadamente em 25–30%;
+- a realidade sobrenatural é confirmada progressivamente sem cosmologia total;
+- timing da candidatura + sinais da residência sustentam uma inferência causal compreensível porém errada de Henrique;
+- DREAM_007 muda antes de Henrique saber qual escolha de Lívia produziu a divergência;
+- DREAM_008 confirma possibilidade alterável, não destino garantido.
+
+Detalhes em `story/REVEAL_MAP.md`.
 
 ### Romance
 
@@ -137,7 +146,7 @@ A residência não é a causa única nem direta da crise futura. A cadeia aprova
 
 Henrique rompe uma fronteira ao envolver Tomás para tentar intervir na residência. A linha futura muda quando Lívia deixa de tratar autonomia como necessidade de sustentar tudo sozinha e Henrique aprende a apoiar sem transformar medo em autoridade.
 
-Detalhes em `story/FUTURE_CAUSAL_CHAIN.md`, `story/CURRENT_OUTLINE.md`, `story/ROMANCE_ARC.md` e `story/REVEAL_MAP.md`.
+Detalhes em `story/FUTURE_CAUSAL_CHAIN.md`, `story/CURRENT_OUTLINE.md`, `story/ROMANCE_ARC.md`, `story/REVEAL_MAP.md` e `story/DREAM_MAP.md`.
 
 ## Fluxo de colaboração e GitHub
 
@@ -149,14 +158,17 @@ Detalhes em `story/FUTURE_CAUSAL_CHAIN.md`, `story/CURRENT_OUTLINE.md`, `story/R
 
 ## O que ainda NÃO está fechado
 
-### Sonhos e pistas concretas
+### Sonhos — microdetalhes e distribuição
 
-- gesto corporal específico do reconhecimento;
-- 2–4 objetos/sinais específicos da residência que reaparecem nos sonhos;
-- detalhes concretos do DREAM_006 que permitem perceber a dimensão autorrealizável;
-- ação específica de Lívia que antecede DREAM_007;
-- cenário ordinário do DREAM_008;
-- detalhes sensoriais finais e posição exata por capítulo de cada sonho.
+- capítulo/posição exata de cada sonho;
+- microexecução coreográfica do gesto de Lívia;
+- desenho preciso do símbolo institucional e fonte técnica do som de três notas;
+- distribuição exata das pistas entre DREAM_004 e DREAM_005;
+- redação exata da fala de Tomás em DREAM_006;
+- redação da conversa de Lívia com Bia e detalhe operacional da redistribuição de carga;
+- momento exato em que Henrique descobre o que Lívia fez antes de DREAM_007;
+- fala cotidiana e detalhes visuais finos do estúdio em DREAM_008;
+- demais detalhes sensoriais que não criem nova regra sobrenatural nem antecipem revelações.
 
 ### Personagens/cotidiano
 
@@ -192,12 +204,11 @@ Esses itens não devem bloquear estrutura se puderem nascer organicamente do out
 
 ## Próximo passo recomendado
 
-1. **refinar pistas concretas e decisões de cena dos oito sonhos**, agora protegidas pelo `REVEAL_MAP`;
-2. completar apenas detalhes cotidianos de personagem necessários às cenas;
-3. calibrar amostras originais de estilo e criar/aprovar `editorial/STYLE_EXAMPLES.md`;
-4. revisar outline macro;
-5. produzir outline por capítulos validando cada capítulo contra `story/REVEAL_MAP.md`;
-6. somente então iniciar prosa definitiva.
+1. **completar apenas a última camada cotidiana de personagens necessária para cena**;
+2. calibrar amostras originais de estilo e criar/aprovar `editorial/STYLE_EXAMPLES.md`;
+3. revisar o outline macro já com os detalhes de sonhos fechados;
+4. produzir outline por capítulos validando cada capítulo contra `story/REVEAL_MAP.md` e `story/DREAM_MAP.md`;
+5. somente então iniciar prosa definitiva.
 
 ## Regra para retomada em outro chat
 

@@ -4,159 +4,131 @@
 
 **Fase:** pré-produção / arquitetura narrativa.
 
-**Infraestrutura:** projeto migrado e consolidado no repositório `storytelling`. Este arquivo é o ponto de retomada entre chats.
+**Infraestrutura:** projeto consolidado no repositório `storytelling`. Este arquivo é o ponto de retomada entre chats.
 
-Nenhum capítulo definitivo deve ser escrito ainda. A premissa, o conflito central, a cadeia causal do futuro sombrio, o gatilho temporal dos sonhos, o grau de explicação do fenômeno sobrenatural, um primeiro mapa estrutural dos sonhos e uma primeira camada biográfica dos três personagens centrais já possuem direção aprovada, mas ainda há decisões importantes em aberto antes do outline detalhado.
+Nenhum capítulo definitivo deve ser escrito ainda. Premissa, acidente, cadeia causal do futuro sombrio, regras sobrenaturais, mapa estrutural provisório dos sonhos e uma camada biográfica/social robusta dos personagens centrais já possuem direção aprovada.
 
 ## Progresso da sessão mais recente
 
-Foi aprovada uma primeira camada biográfica concreta dos três personagens centrais.
+Foi fechado e consolidado o primeiro pacote nominal, geográfico e social dos personagens.
 
-### Protagonista médico
+### Núcleo central
 
-- 37 anos;
-- irmão mais velho;
-- médico de emergência experiente;
-- possui autonomia profissional e função de referência/preceptoria, sem necessidade de ser chefe máximo do hospital;
-- já era médico aos 31, quando ocorreu o acidente;
-- medicina de emergência reforça capacidades que já existiam nele: leitura de risco, ação rápida, assunção de responsabilidade e funcionamento sob pressão;
-- não é emocionalmente frio: tende a converter emoção em tarefa, plano ou intervenção;
-- tolera mal impotência;
-- sua profissão e posição familiar explicam parte do padrão de controle, mas não lhe concedem autoridade pessoal sobre outros adultos.
+- **Henrique Almeida**, 37 anos, irmão mais velho de Tomás, médico de emergência experiente;
+- **Lívia Sampaio**, 34 anos, melhor amiga de Tomás desde a infância, professora de dança contemporânea/composição e coreógrafa freelancer;
+- **Tomás Almeida**, 34 anos, irmão mais novo de Henrique, arquiteto e melhor amigo de Lívia.
 
-### Protagonista feminina
+### Setting
 
-- 34 anos;
-- professora de dança contemporânea e composição coreográfica;
-- coreógrafa freelancer;
-- antes do acidente, sua trajetória era mais orientada para performance;
-- o acidente não destruiu sua carreira: ela construiu uma trajetória posterior que valoriza genuinamente;
-- quer consolidar-se como coreógrafa autoral reconhecida, em vez de ser vista principalmente como professora que também coreografa;
-- a residência de aproximadamente três meses representa uma oportunidade importante de desenvolver obra completa sob sua própria assinatura;
-- o tornozelo permite função ampla, mas pode limitar sob carga acumulada/repetitiva;
-- tende a esconder dor quando teme que admitir dificuldade permita que outros decidam por ela;
-- precisa ter pelo menos uma amizade significativa fora do núcleo dos irmãos.
+- **Belo Horizonte, Minas Gerais** é a cidade-base do romance;
+- a residência coreográfica de Lívia acontece em **São Paulo, São Paulo**, por aproximadamente três meses;
+- hospital, estúdio, escritório de arquitetura e instituição da residência devem ser fictícios;
+- bairros, endereços e geografia fina de cena continuam abertos.
 
-### Irmão mais novo
+O setting global está consolidado em `canon/SETTING.md`.
 
-- 34 anos;
-- arquiteto;
-- trabalha em escritório de porte médio e possui responsabilidade real sobre projetos/equipes;
-- é socialmente conciliador, mas não incapaz de decidir ou confrontar em todas as áreas;
-- seu ponto cego é conflito emocional com pessoas que ama;
-- a relação histórica de confiança/deferência com o irmão mais velho torna mais difícil confrontá-lo sobre o acidente;
-- o silêncio de seis anos não nasce de um único ato: consolida-se por culpa, adiamento, medo de reabrir trauma e dificuldade crescente de admitir tanto a participação no acidente quanto o tempo de omissão;
-- sua reparação precisa envolver aceitar consequências e reações, não apenas contar a verdade.
+### Rede social/familiar aprovada
 
-Nomes, cidade, redes sociais/familiares concretas e rotinas específicas ainda estão abertos.
+- os pais de Henrique e Tomás estão vivos e a família é funcional; não há necessidade de pais abusivos usados como explicação totalizante para os defeitos dos irmãos;
+- a família se habituou historicamente a olhar para Henrique, filho mais velho e médico, como referência em situações difíceis; isso ajuda a explicar sua influência durante o acidente/hospital sem legitimar o controle que exerceu;
+- Tomás é o principal agregador social do núcleo histórico e cria ocasiões orgânicas para Henrique e Lívia continuarem dividindo espaços apesar da hostilidade;
+- **Beatriz “Bia” Faria** é uma amizade importante de Lívia construída depois do acidente, ligada à produção cultural/dança e capaz de apoiar tratamento/adaptação sem tentar decidir pela amiga;
+- **Camila** é amizade profissional importante de Henrique na emergência; sobrenome, idade exata e detalhes de carreira ainda estão abertos;
+- Henrique e Tomás vivem sozinhos em Belo Horizonte; bairros e moradias específicas ainda estão abertos;
+- Lívia trabalha a partir de um estúdio independente de dança contemporânea e não é dona do espaço no início do romance.
 
-Também permanece aprovado o **esboço estrutural provisório de oito sonhos relevantes**. Esse número e a progressão funcional servem como arquitetura de desenvolvimento, não como sequência imutável por capítulo.
+## Estrutura já fechada em alto nível
 
-A progressão aprovada é:
+### Acidente
+
+O acidente ocorreu seis anos antes. Lívia dirigia rápido demais para a pista molhada e tinha responsabilidade real pelo risco. Tomás, passageiro, entrou em pânico e agarrou o volante, tendo participação causal decisiva na perda de controle. Lívia omitiu essa interferência; Tomás mais tarde permitiu que a versão incompleta persistisse. Henrique passou seis anos acreditando que Lívia quase matou o irmão por culpa essencialmente dela.
+
+Enquanto Tomás estava incapaz de decidir, Henrique pressionou família/equipe para impedir a visita de Lívia. A ferida central inclui a frase canônica: **“Você perdeu o direito de ficar perto dele quando quase matou ele.”**
+
+Detalhes completos em `canon/ACCIDENT.md`.
+
+### Personagens
+
+Henrique tende a converter medo em ação, plano e intervenção. Medicina de emergência e seu papel histórico de irmão mais velho reforçam capacidades reais de agir sob pressão, mas não lhe dão autoridade pessoal sobre outros adultos. Seu arco exige distinguir cuidado, ajuda e controle.
+
+Lívia construiu uma carreira genuinamente valiosa em ensino/coreografia depois do acidente. Quer consolidar-se como coreógrafa autoral. O tornozelo lesionado permite função ampla, mas carga acumulada pode produzir dor/limitação. Sua autonomia é uma força real que pode degenerar em ocultação e isolamento.
+
+Tomás é profissionalmente competente e capaz de decidir. Seu evitamento é especificamente emocional/relacional. Seu silêncio de seis anos se consolidou gradualmente, e sua reparação precisa envolver aceitar consequências, não apenas revelar a verdade.
+
+Detalhes em `canon/characters/`.
+
+### Sobrenatural
+
+- os sonhos mostram um futuro possível, não inevitável;
+- o envio da candidatura para a residência torna a linha sombria causalmente alcançável e coincide com o início dos sonhos;
+- informação emocional/sensorial atravessa melhor que identidade, cronologia ou causalidade explícita;
+- o vínculo não funciona como alerta genérico de perigo;
+- sonhos mudam perceptivelmente apenas quando escolhas alteram de modo relevante a cadeia causal;
+- o leitor recebe confirmação sobrenatural parcial;
+- fio vermelho é moldura simbólica/cultural, não sistema de magia explicado;
+- não haverá autoridade explicadora nem linhagem familiar sobrenatural como chave expositiva;
+- canon de funcionamento e crenças dos personagens devem permanecer separados.
+
+Detalhes em `canon/SUPERNATURAL_RULES.md`.
+
+### Mapa estrutural dos sonhos
+
+Existe um esboço provisório aprovado de oito sonhos estruturalmente relevantes com progressão:
 
 `terror → intimidade → identidade → investigação → erro causal → profecia autorrealizável → divergência → possibilidade`
 
-Os oito marcos, em resumo, são:
+O terceiro grande marco permite o reconhecimento de Lívia por correspondência corporal/movimento, aproximadamente na faixa de 25–30%. O sonho final continua além do antigo ponto fatal e mostra Lívia viva e mais velha. O fio vermelho não aparece literalmente nos sonhos.
 
-1. primeiro sonho na noite da candidatura, centrado em perda e intimidade impossível;
-2. sonho de intimidade cotidiana com primeira pista corporal;
-3. sonho que completa a pista de movimento e permite o reconhecimento da protagonista;
-4. entrada de elementos da residência no campo onírico;
-5. acúmulo de sinais que faz a leitura causal equivocada do protagonista parecer plausível;
-6. percepção de que suas próprias intervenções estão reproduzindo partes do futuro visto;
-7. primeira divergência causada por mudança real de padrão, incluindo uma escolha da protagonista contra o isolamento;
-8. sonho final que ultrapassa o antigo ponto fatal e mostra a protagonista viva e mais velha.
+O número e a progressão funcionam como arquitetura de desenvolvimento, não como sequência imutável por capítulo. Detalhes em `story/DREAM_MAP.md`.
 
-A crise suicida não deve ser repetida integralmente em loop. O fio vermelho não aparece literalmente nos sonhos.
+### Cadeia causal do futuro sombrio
 
-### Fluxo de colaboração e GitHub
+A residência não é a causa única nem direta da crise futura. A cadeia aprovada é:
+
+**medo de vulnerabilidade → ocultação → medo dele → controle/intervenção → mais ocultação → isolamento → sobrecarga → rupturas → crise.**
+
+Henrique rompe uma fronteira ao envolver Tomás para tentar intervir na residência. Isso amplia isolamento e quebra de confiança. A linha futura muda quando Lívia deixa de tratar autonomia como necessidade de sustentar tudo sozinha e Henrique aprende a apoiar sem transformar medo em autoridade.
+
+Detalhes em `story/FUTURE_CAUSAL_CHAIN.md` e `story/CURRENT_OUTLINE.md`.
+
+## Fluxo de colaboração e GitHub
 
 - novas propostas narrativas, de canon ou estrutura devem ser apresentadas no chat antes de serem consolidadas;
 - brainstorm não deve ser versionado como decisão aprovada sem essa etapa;
-- blocos estruturais relevantes devem ser desenvolvidos em **branches e pull requests**, evitando commits diretos na `main`;
-- o PR é a unidade de revisão antes de uma mudança estrutural chegar à `main`; nomes de branches são transitórios e não fazem parte do estado narrativo persistente.
+- blocos estruturais relevantes devem ser desenvolvidos em branches e pull requests, evitando commits diretos na `main`;
+- o PR é a unidade de revisão antes de uma mudança estrutural chegar à `main`;
+- o assistente deve revisar o PR, executar/ler a auditoria narrativa, corrigir problemas e realizar o merge quando a mudança aprovada estiver consistente; o usuário não precisa executar revisão operacional do GitHub.
 
-## O que já está definido
+## O que ainda NÃO está fechado
 
-- O protagonista é médico de emergência, tem 37 anos e é o irmão mais velho.
-- O irmão que sofreu o acidente tem 34 anos, é arquiteto e é o irmão mais novo do protagonista.
-- A protagonista feminina tem 34 anos, é professora de dança contemporânea/composição e coreógrafa freelancer; é melhor amiga do irmão mais novo desde a infância.
-- O papel familiar do protagonista como irmão mais velho e responsável antecede o acidente e contribui para seu hábito de assumir a frente sob pressão; isso explica parte do padrão, mas não legitima controle.
-- Os dois protagonistas se conhecem há muitos anos e mantêm uma relação hostil no presente.
-- A hostilidade adulta está ligada ao acidente grave ocorrido seis anos antes.
-- A protagonista dirigia rápido demais para as condições de uma pista molhada e tinha responsabilidade real pelo risco.
-- O irmão interferiu fisicamente no volante em pânico e teve participação causal decisiva na perda de controle.
-- Ela omitiu essa participação para protegê-lo e por assumir responsabilidade como motorista.
-- Ele posteriormente permitiu que a versão incompleta continuasse.
-- O protagonista acredita no início que ela foi responsável por quase matar seu irmão e não conhece a verdade completa.
-- O irmão continuou sendo melhor amigo dela depois do acidente.
-- O acidente deixou consequências físicas reais nos dois, mas nenhum deles deve ser reduzido às sequelas.
-- A protagonista feminina quer consolidar carreira autoral como coreógrafa; a carreira atual não é prêmio de consolação pela perda da performance.
-- A lesão no tornozelo permite função ampla, mas carga repetitiva/acumulada pode produzir dor e limitação.
-- O irmão mais novo é competente e assertivo profissionalmente; seu evitamento é especificamente emocional/relacional.
-- O protagonista cometeu a ferida central ao retirar dela o direito de visitar o irmão enquanto ele estava incapaz de decidir por si mesmo.
-- O protagonista tem sonhos recorrentes com uma mulher que tenta tirar a própria vida.
-- Ele não identifica claramente o rosto ou o nome da mulher nos sonhos.
-- Apesar disso, sente por ela intimidade, apego e perda profundos e inexplicáveis.
-- A mulher dos sonhos é a professora de dança.
-- A descoberta deve ocorrer relativamente cedo, não como twist final.
-- Um reconhecimento ligado ao movimento/dança é o mecanismo preferido para a confirmação da identidade.
-- Os sonhos são ecos/fragmentos de um futuro possível, não destino inevitável.
-- O fenômeno é associado a uma ideia de fio vermelho/soulmates, mas não retira livre-arbítrio.
-- A protagonista recebe uma residência coreográfica de aproximadamente três meses em outra cidade para desenvolver uma peça original.
-- O envio da candidatura para essa residência é o ponto em que a linha de futuro sombrio se torna causalmente alcançável e começa a ecoar para trás.
-- O primeiro sonho relevante ocorre na mesma noite ou imediatamente em torno da candidatura.
-- O vínculo não funciona como alerta genérico de perigo; o futuro ecoa pela intensidade emocional adquirida pela relação naquela linha possível e pelo peso que a perda dela teria na vida dele.
-- Informação emocional atravessa os sonhos com mais clareza do que identidade, cronologia ou explicação factual.
-- Pequenas escolhas não alteram mecanicamente os sonhos; mudanças perceptíveis exigem alteração relevante da cadeia causal.
-- O leitor recebe confirmação sobrenatural parcial de que o vínculo existe, sem explicação completa de origem, propósito ou prevalência.
-- O fio vermelho funciona como moldura simbólica/cultural, não como sistema de magia explicado.
-- Não haverá autoridade explicadora nem linhagem familiar sobrenatural usada como chave expositiva do fenômeno.
-- Canon de funcionamento e crença de personagem devem permanecer separados: inferências do protagonista podem estar erradas sem alterar as regras reais do vínculo.
-- O mapa atual trabalha com oito sonhos estruturalmente relevantes, de forma provisória, com progressão de terror a possibilidade.
-- O fio vermelho não deve aparecer literalmente nos sonhos como cordão, linha luminosa ou equivalente.
-- O reconhecimento da protagonista ocorre no terceiro grande marco onírico, aproximadamente na faixa de 25–30%, por correspondência corporal/movimento.
-- O sonho final continua além do antigo ponto fatal e mostra a protagonista viva e mais velha, sem servir como garantia de futuro perfeito.
-- O tornozelo lesionado volta a impor limitações, mas não a impede automaticamente de realizar a residência.
-- Ela já sabe dos sonhos antes da grande ruptura e definiu uma fronteira explícita: os sonhos não dão ao protagonista autoridade sobre suas decisões.
-- A grande ruptura ocorre quando ele quebra essa confiança e envolve o irmão para tentar intervir na residência.
-- A crise futura decorre de uma cadeia multifatorial de dor, exaustão, ocultação, isolamento, rupturas e perda de controle percebida, não de uma causa única nem de destino sobrenatural arbitrário.
-- Impedir a residência não é a solução causal.
-- O protagonista não deve resolver a história simplesmente “salvando” a protagonista.
-- O arco dele envolve perceber que amar/cuidar não é controlar a vida de outra pessoa.
-- O arco dela envolve permitir vulnerabilidade e ajuda sem perder autonomia.
-- A quebra do futuro depende de escolhas concretas dos dois e de mudança nos padrões que alimentavam a cadeia causal.
-- O irmão deve ter função estrutural, não apenas servir de ponte entre o casal.
-- A direção editorial está definida como romance contemporâneo de alta legibilidade: leitura fluida e viciante, banter forte, química alta, protagonistas profissionalmente competentes, slow burn, proximidade emocional e humor em contraste com uma camada sobrenatural mais sombria.
-- A referência de gosto associada a Ali Hazelwood deve ser traduzida apenas em características abstratas de experiência de leitura; não imitar a voz específica da autora.
-- Prosa, diálogo, romance, sonhos e padrões proibidos têm especificações próprias em `editorial/` e são leitura obrigatória antes de produzir manuscrito.
-
-## O que NÃO está fechado
-
-- Nomes dos três personagens, cidade e detalhes biográficos/social-familiares mais específicos.
-- Hospital, escala/rotina concreta e vida social própria do protagonista médico.
-- Estúdio, arranjo cotidiano de trabalho, família e identidade da principal amizade externa da protagonista feminina.
-- Área específica da arquitetura, escritório/rotina e vida afetiva/social do irmão mais novo.
-- Posição exata por capítulo dos oito sonhos e seus detalhes sensoriais definitivos.
-- Gesto corporal específico usado no reconhecimento, dependente do detalhamento da prática de dança da protagonista.
-- Objetos, sons, espaços e demais pistas concretas da residência.
-- Natureza específica da instituição/companhia/festival e cidade da residência.
-- Dinâmica romântica detalhada antes da ruptura: confiança, primeiro beijo e momento em que a relação deixa de ser ambígua.
-- Ações específicas da reconciliação depois da ruptura.
-- POV definitivo, pessoa verbal e tempo narrativo.
-- Presença ou ausência de capítulos-sonho separados.
-- Grau de explicitude sexual.
-- Comprimento médio dos capítulos.
-- Estrutura final de atos e número de capítulos.
-- Título definitivo.
-- Exemplos positivos/negativos de voz do próprio livro; só devem ser congelados depois de definir POV e testar amostras originais.
+- nome/localização do hospital fictício, escala concreta e detalhes cotidianos da rotina médica de Henrique;
+- sobrenome, idade exata e carreira de Camila;
+- nome/localização do estúdio fictício, arranjo profissional detalhado e rotina doméstica de Lívia;
+- idade exata/função concreta de Bia e família ampliada/conflitos sociais de Lívia;
+- nome/formato da instituição fictícia responsável pela residência em São Paulo;
+- área específica da arquitetura, escritório, rotina e vida afetiva/social adicional de Tomás;
+- bairros/moradias exatos dos personagens;
+- episódios concretos da dinâmica entre Henrique e Lívia antes do acidente;
+- como a atração adulta começa sem apagar o ressentimento;
+- cena exata, dentro do Ato 3, em que Lívia descobre os sonhos;
+- primeiro ato claro de confiança, primeiro beijo e momento em que a relação deixa de ser ambígua;
+- ações específicas da reconciliação;
+- POV definitivo, pessoa verbal e distância narrativa;
+- presença ou ausência de capítulos-sonho separados;
+- detalhes sensoriais definitivos e posição por capítulo dos oito sonhos;
+- gesto corporal específico do reconhecimento;
+- objetos/sinais específicos da residência nos sonhos;
+- grau de explicitude sexual;
+- comprimento médio e número final de capítulos;
+- título definitivo;
+- amostras positivas/negativas de voz do próprio livro.
 
 ## Próximo passo recomendado
 
-1. completar nomes, vida cotidiana e redes sociais/familiares dos três personagens centrais;
+1. completar a última camada cotidiana dos personagens centrais sem excesso de worldbuilding;
 2. fechar a dinâmica romântica detalhada e as ações de reconciliação;
 3. definir POV, pessoa verbal e distância narrativa;
-4. retornar ao mapa dos sonhos para calibrar detalhes corporais/sensoriais com os personagens já definidos;
+4. retornar ao mapa dos sonhos para calibrar detalhes corporais/sensoriais;
 5. calibrar amostras originais de estilo e congelar `STYLE_EXAMPLES.md`;
 6. completar mapa de conhecimento e revelações;
 7. revisar o outline macro;
@@ -165,4 +137,4 @@ A crise suicida não deve ser repetida integralmente em loop. O fio vermelho nã
 
 ## Regra para retomada em outro chat
 
-Ao continuar este projeto, não recomece da premissa. Leia os arquivos essenciais indicados em `PROJECT.md`, identifique a próxima decisão ainda aberta e avance a partir dela. Ao formular uma nova proposta narrativa, apresente-a ao usuário no chat antes de consolidá-la. Para blocos estruturais relevantes, trabalhe em branch e PR em vez de commitar diretamente na `main`. Ao terminar uma sessão que altere o projeto, atualize este `STATUS.md`.
+Ao continuar este projeto, não recomece da premissa. Leia os arquivos essenciais indicados em `PROJECT.md`, identifique a próxima decisão ainda aberta e avance a partir dela. Ao formular uma nova proposta narrativa, apresente-a ao usuário no chat antes de consolidá-la. Para blocos estruturais relevantes, trabalhe em branch e PR. Ao terminar uma sessão que altere o projeto, atualize este `STATUS.md`.

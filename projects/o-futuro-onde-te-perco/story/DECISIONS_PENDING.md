@@ -64,6 +64,23 @@ A camada cotidiana de **Lívia** necessária para cena está consolidada em `can
 - desenho exato do símbolo do Aresta, origem técnica do som de três notas e localização fina em São Paulo continuam abertos;
 - permanece em aberto se Lívia dirige regularmente seis anos depois do acidente.
 
+A camada cotidiana de **Tomás** necessária para cena está consolidada em `canon/characters/brother.md` e `canon/SETTING.md`:
+
+- trabalha como arquiteto coordenador de projetos na **Quadrante 27 Arquitetura**, escritório fictício de porte médio em Belo Horizonte;
+- sua área principal combina edifícios residenciais multifamiliares e retrofit/requalificação de edifícios existentes;
+- coordena entregas, compatibilização, interlocução com engenheiros/consultores, reuniões com clientes e parte do acompanhamento de obra, sem ser sócio ou chefe máximo;
+- sua competência profissional demonstra que o evitamento é afetivo/relacional, não incapacidade geral de confronto;
+- rotina predominantemente diurna combina escritório, reuniões e visitas a obra, com picos de entrega sem indisponibilidade permanente;
+- dor residual na perna pode reaparecer depois de esforço prolongado, sem defini-lo como vítima nem ser usada contra Lívia;
+- mora sozinho em apartamento próprio mais antigo no **Funcionários**, reformado gradualmente e usado como ponto frequente de convivência;
+- a casa funciona como espaço social porque Tomás é agregador, não porque esteja tentando aproximar Henrique e Lívia;
+- já teve relacionamentos adultos e está solteiro no início, sem ex ou subtrama romântica estruturalmente importante definida;
+- não existe tensão romântica entre Tomás e Lívia;
+- colegas de arquitetura, amigos de faculdade e outras amizades podem surgir organicamente sem receber fichas antecipadas;
+- Tomás não sabe dos sonhos antes da quebra do pacto no Ato 4.
+
+As camadas cotidianas necessárias dos três personagens centrais estão fechadas para esta fase. Novos detalhes cotidianos só devem ser criados quando o outline demonstrar necessidade concreta e sem reabrir silenciosamente decisões de canon.
+
 ### Romance
 
 O arco macro está consolidado em `story/ROMANCE_ARC.md`.
@@ -115,23 +132,9 @@ Decisões aprovadas:
 - a primeira divergência nasce também de uma ação de Lívia contra o isolamento, realizada por agência própria;
 - DREAM_008 confirma possibilidade alterável, não destino garantido.
 
-## Prioridade 1 - última camada cotidiana dos personagens
+## Prioridade 1 - voz e prosa antes do manuscrito
 
-Esses detalhes são úteis para cena, mas não devem bloquear arquitetura se puderem nascer organicamente do outline.
-
-### Tomás
-
-- área específica da arquitetura;
-- escritório fictício e rotina concreta;
-- vida afetiva/social adicional;
-- moradia;
-- dinâmica cotidiana atual com Henrique e Lívia fora do conflito principal.
-
-As camadas cotidianas necessárias de Henrique e Lívia estão fechadas para esta fase. Novos detalhes só devem ser criados se surgirem como necessidade concreta do outline e não alterarem as restrições já consolidadas.
-
-## Prioridade 2 - voz e prosa antes do manuscrito
-
-Depois do refinamento estrutural:
+Próxima camada a desenvolver:
 
 - testar amostras originais em terceira pessoa próxima de Henrique;
 - calibrar diferença de textura entre vigília e sonho sem trocar POV/pessoa/tempo;
@@ -140,9 +143,9 @@ Depois do refinamento estrutural:
 - definir comprimento médio aproximado dos capítulos;
 - validar como as quebras de página dos sonhos funcionam sem tornar sua chegada previsível.
 
-## Prioridade 3 - outline por capítulos
+## Prioridade 2 - outline por capítulos
 
-Antes de iniciar prosa definitiva:
+Depois da calibração de voz:
 
 - revisar o outline macro;
 - transformar os atos em sequência de capítulos e cenas;
@@ -163,6 +166,17 @@ Sem reabrir os motivos aprovados, continuam ajustáveis:
 - momento exato em que Henrique descobre o que Lívia fez antes de DREAM_007;
 - fala cotidiana e detalhes visuais finos do estúdio em DREAM_008;
 - detalhes sensoriais que não criem nova regra sobrenatural nem antecipem revelações.
+
+## Detalhes cotidianos ainda abertos por escolha
+
+Não precisam ser fechados antes do outline, salvo necessidade concreta:
+
+- se Lívia dirige regularmente no presente;
+- nomes/profissões dos pais de Lívia;
+- sócios/lideranças, endereço e projetos específicos da Quadrante 27;
+- relacionamentos passados específicos de Tomás;
+- nomes de colegas e amigos secundários;
+- endereços e geografia fina das moradias e locais profissionais.
 
 ## Detalhes de design ainda abertos
 

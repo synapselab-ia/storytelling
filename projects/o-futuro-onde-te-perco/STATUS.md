@@ -6,29 +6,28 @@
 
 **Infraestrutura:** projeto consolidado no repositório `storytelling`. Este arquivo é o ponto de retomada entre chats.
 
-Nenhum capítulo definitivo deve ser escrito ainda. Premissa, acidente, cadeia causal do futuro sombrio, regras sobrenaturais, mapa estrutural dos sonhos, setting, personagens centrais, arco romântico, forma narrativa, mapa de revelações e motivos concretos líderes dos sonhos já possuem direção aprovada.
+Nenhum capítulo definitivo deve ser escrito ainda. Premissa, acidente, cadeia causal do futuro sombrio, regras sobrenaturais, mapa estrutural dos sonhos, setting, personagens centrais, arco romântico, forma narrativa, mapa de revelações, motivos concretos líderes dos sonhos e **camada cotidiana necessária dos três personagens centrais** já possuem direção aprovada.
 
 ## Progresso da sessão mais recente
 
-Foi aprovada e consolidada a camada cotidiana de **Lívia Sampaio** necessária para cena, incluindo estúdio, rotina, Bia, família imediata e formato da residência.
+Foi aprovada e consolidada a camada cotidiana de **Tomás Almeida**, encerrando a camada de rotina necessária dos três personagens centrais antes da calibração de voz.
 
-### Lívia - cotidiano, trabalho e rede própria
+### Tomás - trabalho, casa e vida social
 
-- trabalha no **Rastro - Espaço de Dança e Criação**, estúdio independente fictício na região da Floresta, sem ser dona do espaço;
-- mantém turmas de dança contemporânea e composição, workshops, criação autoral e trabalhos coreográficos por projeto;
-- a rotina distribui planejamento, administração, condicionamento, criação, ensaios e aulas sem apresentá-la como sobrecarregada desde o início;
-- no cotidiano normal, administra o tornozelo com competência através de marcação, demonstração seletiva e gestão de repetição;
-- a sobrecarga posterior da residência deve aparecer como deterioração desse manejo normalmente funcional, não como irresponsabilidade permanente;
-- **Beatriz “Bia” Faria**, 35 anos, é produtora cultural independente especializada em dança, performance e projetos cênicos e conheceu Lívia depois do acidente;
-- Bia entende produção, orçamento, cronograma, contratos, editais e circulação, podendo oferecer apoio operacional sem tomar decisões pela amiga;
-- Lívia vive sozinha em apartamento alugado na região de **Santa Tereza**, com espaço doméstico real para trabalho e marcação de movimento;
-- é filha única, com os pais vivos e relação funcional/afetiva; a proteção natural deles depois do acidente contribuiu para sua associação entre revelar dor e perder autonomia, sem criar trauma familiar adicional;
-- a residência acontece no **Centro Aresta de Artes do Movimento**, através do **Programa Aresta de Criação Coreográfica**, com duração aproximada de doze semanas;
-- o programa oferece estúdio, bailarinos, suporte de produção/técnica e orçamento delimitado, culminando numa apresentação pública;
-- desenho exato do símbolo institucional, origem técnica do som de três notas e localização fina do Centro Aresta em São Paulo continuam abertos;
-- permanece deliberadamente em aberto se Lívia dirige regularmente seis anos depois do acidente.
+- trabalha como arquiteto coordenador de projetos na **Quadrante 27 Arquitetura**, escritório fictício de porte médio em Belo Horizonte;
+- sua área principal combina **edifícios residenciais multifamiliares** e **retrofit/requalificação de edifícios existentes**;
+- coordena entregas, compatibilização, interlocução com engenheiros/consultores, reuniões com clientes e parte do acompanhamento de obra, sem ser sócio ou chefe máximo;
+- profissionalmente sabe confrontar problemas, dizer não e sustentar decisões, reforçando que seu evitamento é afetivo/relacional, não incapacidade geral;
+- a rotina é predominantemente diurna, com escritório, reuniões e visitas a obra, incluindo picos de entrega sem torná-lo permanentemente indisponível;
+- dor residual na perna pode reaparecer depois de esforço prolongado, sem defini-lo como vítima ou ser usada para culpar Lívia;
+- vive sozinho em apartamento próprio mais antigo no **Funcionários**, reformado gradualmente e usado como ponto frequente de convivência;
+- a casa funciona como espaço social porque Tomás é agregador, não porque esteja tentando produzir o romance de Henrique e Lívia;
+- já teve relacionamentos adultos e está solteiro no início, sem ex-parceira ou subtrama romântica estruturalmente importante definida;
+- não existe tensão romântica entre Tomás e Lívia;
+- colegas de arquitetura, amigos de faculdade e outras amizades podem surgir organicamente sem fichas antecipadas;
+- Tomás continua sem saber dos sonhos até Henrique quebrar o pacto no Ato 4.
 
-Detalhes em `canon/characters/dancer.md`, `canon/SETTING.md`, `story/RESIDENCY_TIMELINE.md` e `story/DREAM_MAP.md`.
+Detalhes em `canon/characters/brother.md` e `canon/SETTING.md`.
 
 ## Forma narrativa
 
@@ -48,7 +47,7 @@ Detalhes em `story/NARRATIVE_FORM.md` e `editorial/DREAM_STYLE.md`.
 
 - **Henrique Almeida**, 37 anos, irmão mais velho de Tomás, médico de emergência experiente;
 - **Lívia Sampaio**, 34 anos, melhor amiga de Tomás desde a infância, professora de dança contemporânea/composição e coreógrafa freelancer;
-- **Tomás Almeida**, 34 anos, irmão mais novo de Henrique, arquiteto e melhor amigo de Lívia.
+- **Tomás Almeida**, 34 anos, irmão mais novo de Henrique, arquiteto coordenador de projetos e melhor amigo de Lívia.
 
 ## Setting
 
@@ -59,7 +58,8 @@ Detalhes em `story/NARRATIVE_FORM.md` e `editorial/DREAM_STYLE.md`.
 - **Rastro - Espaço de Dança e Criação** é a base profissional de Lívia na região da Floresta;
 - **Santa Tereza** é a região de moradia de Lívia;
 - **Centro Aresta de Artes do Movimento** e o **Programa Aresta de Criação Coreográfica** são a instituição e o formato da residência;
-- escritório de Tomás continua fictício e ainda sem nome fechado;
+- **Quadrante 27 Arquitetura** é o escritório fictício de Tomás;
+- **Funcionários** é o bairro de moradia de Tomás;
 - endereços e geografia fina de cena continuam abertos.
 
 Detalhes em `canon/SETTING.md`.
@@ -80,7 +80,7 @@ Henrique tende a converter medo em ação, plano e intervenção. Medicina de em
 
 Lívia construiu carreira genuinamente valiosa em ensino/coreografia depois do acidente e quer consolidar-se como coreógrafa autoral. O tornozelo lesionado permite função ampla, mas carga acumulada pode produzir dor/limitação. Sua autonomia pode degenerar em ocultação e isolamento. Sua camada cotidiana necessária para cena já está consolidada.
 
-Tomás é profissionalmente competente; seu evitamento é especificamente emocional/relacional. Seu silêncio de seis anos se consolidou gradualmente e sua reparação exige aceitar consequências.
+Tomás é profissionalmente competente; seu evitamento é especificamente emocional/relacional. Seu silêncio de seis anos se consolidou gradualmente e sua reparação exige aceitar consequências. Sua camada cotidiana necessária para cena já está consolidada.
 
 Rede aprovada:
 
@@ -89,9 +89,11 @@ Rede aprovada:
 - Tomás é o principal agregador social do núcleo histórico;
 - **Beatriz “Bia” Faria**, 35 anos, é amizade importante de Lívia construída depois do acidente e produtora cultural ligada à dança/performance;
 - **Camila Nogueira**, 38 anos, é amizade profissional importante de Henrique na emergência;
-- Henrique e Tomás vivem sozinhos em Belo Horizonte;
+- Henrique vive sozinho no Santo Agostinho;
 - Lívia vive sozinha em apartamento alugado na região de Santa Tereza;
-- Lívia trabalha no Rastro e não é dona do espaço.
+- Tomás vive sozinho em apartamento próprio no Funcionários;
+- Lívia trabalha no Rastro e não é dona do espaço;
+- Tomás trabalha na Quadrante 27 e não é sócio.
 
 Detalhes em `canon/characters/`.
 
@@ -193,17 +195,16 @@ Detalhes em `story/FUTURE_CAUSAL_CHAIN.md`, `story/CURRENT_OUTLINE.md`, `story/R
 
 ### Personagens/cotidiano
 
-**Tomás:**
+A camada cotidiana necessária dos três personagens centrais está fechada para esta fase.
 
-- área específica da arquitetura;
-- escritório fictício e rotina concreta;
-- vida afetiva/social adicional;
-- moradia;
-- dinâmica cotidiana atual com Henrique e Lívia fora do conflito principal.
+Continuam deliberadamente abertos, salvo necessidade concreta do outline:
 
-As camadas cotidianas necessárias de Henrique e Lívia estão fechadas para esta fase. Novos detalhes deles só devem nascer de necessidade concreta do outline.
-
-Para Lívia, continua deliberadamente aberto se ela dirige regularmente no presente; isso possui peso psicológico/logístico suficiente para não ser fixado apenas como detalhe de rotina.
+- se Lívia dirige regularmente no presente;
+- nomes/profissões dos pais de Lívia;
+- sócios/lideranças, endereço e projetos específicos da Quadrante 27;
+- relacionamentos passados específicos de Tomás;
+- nomes de colegas e amigos secundários;
+- endereços e geografia fina das moradias e locais profissionais.
 
 ### Romance - detalhes adaptáveis
 
@@ -227,8 +228,8 @@ Para Lívia, continua deliberadamente aberto se ela dirige regularmente no prese
 
 ## Próximo passo recomendado
 
-1. **fechar apenas o cotidiano de Tomás necessário para sustentar convivência e cenas**;
-2. calibrar amostras originais de estilo e criar/aprovar `editorial/STYLE_EXAMPLES.md`;
+1. **calibrar amostras originais de estilo e criar/aprovar `editorial/STYLE_EXAMPLES.md`**;
+2. definir grau de explicitude sexual e comprimento médio aproximado dos capítulos quando a voz estiver calibrada;
 3. revisar o outline macro já com os detalhes de sonhos e cotidiano fechados;
 4. produzir outline por capítulos validando cada capítulo contra `story/REVEAL_MAP.md` e `story/DREAM_MAP.md`;
 5. somente então iniciar prosa definitiva.

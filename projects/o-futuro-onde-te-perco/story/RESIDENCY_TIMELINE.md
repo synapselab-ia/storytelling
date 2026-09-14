@@ -2,9 +2,17 @@
 
 > Documento de continuidade para distinguir três eventos que não devem ser tratados como equivalentes.
 
-## 1. Candidatura — Ato 1
+## Identidade da oportunidade
 
-Lívia envia a candidatura para a residência em São Paulo.
+A residência acontece no **Centro Aresta de Artes do Movimento**, instituição fictícia em São Paulo.
+
+O programa é o **Programa Aresta de Criação Coreográfica**, com duração aproximada de doze semanas. Seleciona poucos coreógrafos para desenvolver obras autorais com acesso a estúdio, bailarinos profissionais ou selecionados pela instituição, suporte de produção/técnica e orçamento delimitado, culminando numa apresentação pública.
+
+O bairro do Centro Aresta, o desenho do símbolo institucional e a origem técnica do som de três notas permanecem abertos.
+
+## 1. Candidatura - Ato 1
+
+Lívia envia a candidatura para o Programa Aresta de Criação Coreográfica em São Paulo.
 
 Nesse momento:
 
@@ -15,9 +23,9 @@ Nesse momento:
 
 **Este é o ponto de bifurcação sobrenatural.**
 
-## 2. Seleção e aceite — Ato 3
+## 2. Seleção e aceite - Ato 3
 
-Mais tarde, Lívia recebe a confirmação de que foi escolhida e aceita a oportunidade.
+Mais tarde, Lívia recebe a confirmação de que foi escolhida pelo Centro Aresta e aceita a oportunidade.
 
 Esse é o momento em que a residência deixa de ser candidatura pendente e passa a ser compromisso profissional concreto.
 
@@ -25,9 +33,9 @@ A reação inicial de Henrique à notícia deve incluir felicidade genuína pela
 
 **A seleção/aceite não é o gatilho dos primeiros sonhos.**
 
-## 3. Início físico da residência — fim do Ato 3 / Ato 4
+## 3. Início físico da residência - fim do Ato 3 / Ato 4
 
-Depois da seleção, preparação e definição da relação entre Henrique e Lívia, ela se desloca temporariamente de Belo Horizonte para São Paulo e começa a residência de aproximadamente três meses.
+Depois da seleção, preparação e definição da relação entre Henrique e Lívia, ela se desloca temporariamente de Belo Horizonte para São Paulo e começa a residência de aproximadamente doze semanas.
 
 É durante esse período que carga profissional, tornozelo, distância, sonhos e medo de Henrique passam a convergir de forma mais intensa.
 

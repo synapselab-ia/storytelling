@@ -34,9 +34,21 @@ Microexecução coreográfica, redação de falas, distribuição exata das pist
 - Belo Horizonte é a cidade-base;
 - a residência coreográfica dura aproximadamente três meses e acontece em São Paulo;
 - Beatriz “Bia” Faria é amizade importante de Lívia construída depois do acidente;
-- Camila é amizade profissional importante de Henrique na emergência;
 - os pais de Henrique e Tomás estão vivos e a família é funcional;
 - Tomás é o principal agregador social do núcleo histórico.
+
+A camada cotidiana de **Henrique** necessária para cena está consolidada em `canon/characters/protagonist.md` e `canon/SETTING.md`:
+
+- trabalha no **Hospital Metropolitano do Horizonte**, hospital geral fictício de grande porte em Belo Horizonte;
+- é emergencista sênior, com autonomia e preceptoria, sem cargo máximo de chefia;
+- rotina combina plantões de aproximadamente doze horas, inclusive noturnos, com supervisão/preceptoria e períodos reais fora do hospital;
+- **Camila Nogueira**, 38 anos, é emergencista no mesmo hospital e sua principal amizade profissional, sem função romântica;
+- mora sozinho em apartamento próprio no **Santo Agostinho**;
+- cozinha de forma cotidiana, mantém atividade física regular e possui rotina estruturada de sono em torno dos plantões;
+- os sonhos desorganizam uma capacidade de descanso que antes era previsível, sem absolver escolhas conscientes posteriores;
+- teve relacionamentos adultos e vida sexual normal; está solteiro no início por circunstâncias ordinárias, sem ex estruturalmente importante já definida;
+- Tomás permanece seu principal eixo social fora do trabalho; outros conhecidos podem surgir organicamente sem ampliar o elenco por obrigação;
+- Henrique não é médico de Lívia, não acessa informação clínica por privilégio e não usa formação médica como autorização para decidir por ela.
 
 ### Romance
 
@@ -57,7 +69,7 @@ Marcos aprovados incluem:
 - Lívia precisa aceitar apoio sem transformar autonomia em isolamento;
 - o sonho final confirma possibilidade, não cria nem valida sozinho o casal.
 
-### POV e forma — fechado
+### POV e forma - fechado
 
 A forma narrativa está consolidada em `story/NARRATIVE_FORM.md`.
 
@@ -73,7 +85,7 @@ A forma narrativa está consolidada em `story/NARRATIVE_FORM.md`.
 - na futura revisão editorial/diagramação, as sequências de sonho devem receber **tratamento visual de página preta**;
 - o texto não pode depender do fundo preto para tornar a transição compreensível.
 
-### Mapa de revelações — fechado em alto nível
+### Mapa de revelações - fechado em alto nível
 
 A arquitetura de conhecimento está consolidada em `story/REVEAL_MAP.md`.
 
@@ -89,7 +101,7 @@ Decisões aprovadas:
 - a primeira divergência nasce também de uma ação de Lívia contra o isolamento, realizada por agência própria;
 - DREAM_008 confirma possibilidade alterável, não destino garantido.
 
-## Prioridade 1 — última camada cotidiana dos personagens
+## Prioridade 1 - última camada cotidiana dos personagens
 
 Esses detalhes são úteis para cena, mas não devem bloquear arquitetura se puderem nascer organicamente do outline.
 
@@ -101,14 +113,6 @@ Esses detalhes são úteis para cena, mas não devem bloquear arquitetura se pud
 - família ampliada e conflitos sociais relevantes;
 - nome/formato da instituição fictícia da residência.
 
-### Henrique
-
-- hospital fictício e rotina concreta de plantões/preceptoria;
-- sobrenome, idade exata e função profissional de Camila;
-- outras amizades/relações fora do romance e do irmão;
-- moradia/hábitos cotidianos;
-- limites práticos de como medicina aparece em cena sem virar atalho narrativo.
-
 ### Tomás
 
 - área específica da arquitetura;
@@ -117,7 +121,9 @@ Esses detalhes são úteis para cena, mas não devem bloquear arquitetura se pud
 - moradia;
 - dinâmica cotidiana atual com Henrique e Lívia fora do conflito principal.
 
-## Prioridade 2 — voz e prosa antes do manuscrito
+A camada cotidiana necessária de Henrique está fechada para esta fase. Novos detalhes só devem ser criados se surgirem como necessidade concreta do outline e não alterarem as restrições já consolidadas.
+
+## Prioridade 2 - voz e prosa antes do manuscrito
 
 Depois do refinamento estrutural:
 
@@ -128,7 +134,7 @@ Depois do refinamento estrutural:
 - definir comprimento médio aproximado dos capítulos;
 - validar como as quebras de página dos sonhos funcionam sem tornar sua chegada previsível.
 
-## Prioridade 3 — outline por capítulos
+## Prioridade 3 - outline por capítulos
 
 Antes de iniciar prosa definitiva:
 

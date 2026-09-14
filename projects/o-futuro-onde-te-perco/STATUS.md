@@ -1,4 +1,4 @@
-# Status — O Futuro Onde Te Perco
+# Status - O Futuro Onde Te Perco
 
 ## Estado atual
 
@@ -6,27 +6,28 @@
 
 **Infraestrutura:** projeto consolidado no repositório `storytelling`. Este arquivo é o ponto de retomada entre chats.
 
-Nenhum capítulo definitivo deve ser escrito ainda. Premissa, acidente, cadeia causal do futuro sombrio, regras sobrenaturais, mapa estrutural dos sonhos, setting, personagens centrais, arco romântico, forma narrativa, mapa de revelações e **motivos concretos líderes dos sonhos** já possuem direção aprovada.
+Nenhum capítulo definitivo deve ser escrito ainda. Premissa, acidente, cadeia causal do futuro sombrio, regras sobrenaturais, mapa estrutural dos sonhos, setting, personagens centrais, arco romântico, forma narrativa, mapa de revelações e motivos concretos líderes dos sonhos já possuem direção aprovada.
 
 ## Progresso da sessão mais recente
 
-Foram aprovados e consolidados os principais detalhes concretos que sustentam os oito sonhos sem transformar o mapa estrutural em prosa definitiva.
+Foi aprovada e consolidada a camada cotidiana de **Henrique Almeida** necessária para iniciar planejamento de cenas sem transformar rotina em excesso de canon.
 
-### Motivos concretos dos sonhos aprovados
+### Henrique - cotidiano, trabalho e limites médicos
 
-- **gesto corporal de Lívia:** quatro contatos sucessivos do polegar contra os outros dedos, combinados com transferência de peso e pequena marcação de ombro enquanto ela pensa movimento/coreografia;
-- DREAM_002 apresenta fragmentos desse gesto;
-- DREAM_003 apresenta a combinação de forma reconhecível e Henrique vê Lívia repeti-la acordada enquanto trabalha com um aluno;
-- Henrique ainda pode racionalizar o reconhecimento como possível memória implícita antes de aceitar plenamente o fenômeno;
-- **pistas da residência:** crachá com cordão amarelo e símbolo abstrato, marcação diagonal de fita no piso preto e som curto de três notas ligado ao prédio;
-- as três pistas entram distribuídas, não como pacote repetido em todos os sonhos;
-- **DREAM_006:** motivo líder é Henrique ouvir a voz de Tomás, por telefone/mediação equivalente, pedindo que Lívia volte para Belo Horizonte; a função é Henrique reconhecer no futuro uma consequência que só entrou na cadeia porque ele envolveu Tomás;
-- **antes de DREAM_007:** Lívia procura Bia, admite a extensão da sobrecarga e, por decisão própria, negocia redistribuição de participação física/carga, delegação e tratamento sem abandonar a residência ou entregar a decisão a outra pessoa;
-- Henrique não sabe dessa escolha quando DREAM_007 muda, impedindo que atribua a divergência ao próprio controle;
-- **DREAM_008:** cenário líder é um estúdio depois de ensaio, anos mais tarde; Lívia está viva e mais velha, repete o mesmo gesto corporal e Henrique finalmente a percebe por inteiro, inclusive o rosto;
-- a força do final está na continuidade banal de uma vida que teve um “depois”, não em casamento, filhos, prêmio profissional ou certificado de destino perfeito.
+- Henrique trabalha no **Hospital Metropolitano do Horizonte**, hospital geral fictício de grande porte em Belo Horizonte, com pronto-socorro adulto movimentado e capacidade para casos de alta complexidade;
+- é um dos emergencistas seniores, com autonomia clínica e função de referência/preceptoria, sem ocupar cargo máximo de chefia;
+- a rotina combina plantões de aproximadamente doze horas, inclusive noites, com supervisão/preceptoria e períodos reais fora do hospital;
+- o hospital funciona como contraste temático: ali, agir cedo, organizar risco e assumir a frente pode ser exatamente o comportamento correto;
+- **Camila Nogueira**, 38 anos, emergencista no mesmo hospital, é sua principal amizade profissional e não possui função de interesse amoroso;
+- Henrique mora sozinho em apartamento próprio no **Santo Agostinho**, escolhido por praticidade urbana, sem estética de vazio emocional;
+- cozinha de forma cotidiana, mantém atividade física regular e possui rotina estruturada para dormir em torno dos plantões;
+- os sonhos atingem uma área que antes era previsível para ele: capacidade de descansar quando havia oportunidade e confiança no próprio funcionamento mental;
+- Henrique teve relacionamentos adultos e vida sexual normal; está solteiro no início por circunstâncias ordinárias, sem ex-parceira estruturalmente importante já definida;
+- Tomás permanece seu principal eixo social fora do trabalho; não será criado elenco adicional apenas para provar que Henrique possui vida social;
+- Henrique **não é e não se torna médico de Lívia**: não acessa prontuário, não usa colegas para obter informação clínica, não prescreve escondido e não transforma conhecimento médico em autoridade pessoal sobre ela;
+- profissionais independentes devem conduzir avaliação, fisioterapia, manejo de dor e cuidado em saúde mental quando necessários.
 
-Microexecução coreográfica, redação exata das falas, desenho específico do símbolo e detalhes visuais finos continuam ajustáveis no outline/prosa.
+Detalhes completos em `canon/characters/protagonist.md` e `canon/SETTING.md`.
 
 ## Forma narrativa
 
@@ -52,8 +53,10 @@ Detalhes em `story/NARRATIVE_FORM.md` e `editorial/DREAM_STYLE.md`.
 
 - **Belo Horizonte, Minas Gerais** é a cidade-base;
 - a residência coreográfica de Lívia acontece em **São Paulo, São Paulo**, por aproximadamente três meses;
-- hospital, estúdio, escritório de arquitetura e instituição da residência devem ser fictícios;
-- bairros, endereços e geografia fina de cena continuam abertos.
+- **Hospital Metropolitano do Horizonte** é o hospital fictício de Henrique;
+- **Santo Agostinho** é o bairro de moradia de Henrique;
+- estúdio de Lívia, escritório de Tomás e instituição da residência continuam fictícios e ainda sem nomes fechados;
+- endereços e geografia fina de cena continuam abertos.
 
 Detalhes em `canon/SETTING.md`.
 
@@ -69,7 +72,7 @@ Detalhes completos em `canon/ACCIDENT.md`.
 
 ### Personagens
 
-Henrique tende a converter medo em ação, plano e intervenção. Medicina de emergência e seu papel histórico de irmão mais velho reforçam capacidades reais de agir sob pressão, mas não lhe dão autoridade pessoal sobre outros adultos.
+Henrique tende a converter medo em ação, plano e intervenção. Medicina de emergência e seu papel histórico de irmão mais velho reforçam capacidades reais de agir sob pressão, mas não lhe dão autoridade pessoal sobre outros adultos. Sua camada cotidiana necessária para cena já está consolidada.
 
 Lívia construiu carreira genuinamente valiosa em ensino/coreografia depois do acidente e quer consolidar-se como coreógrafa autoral. O tornozelo lesionado permite função ampla, mas carga acumulada pode produzir dor/limitação. Sua autonomia pode degenerar em ocultação e isolamento.
 
@@ -80,7 +83,7 @@ Rede aprovada:
 - os pais de Henrique e Tomás estão vivos e a família é funcional;
 - Tomás é o principal agregador social do núcleo histórico;
 - **Beatriz “Bia” Faria** é amizade importante de Lívia construída depois do acidente;
-- **Camila** é amizade profissional importante de Henrique na emergência;
+- **Camila Nogueira**, 38 anos, é amizade profissional importante de Henrique na emergência;
 - Henrique e Tomás vivem sozinhos em Belo Horizonte;
 - Lívia trabalha a partir de um estúdio independente de dança contemporânea e não é dona do espaço no início.
 
@@ -106,7 +109,18 @@ Existem oito sonhos estruturalmente relevantes com progressão:
 
 `terror → intimidade → identidade → investigação → erro causal → profecia autorrealizável → divergência → possibilidade`
 
-O reconhecimento de Lívia por movimento ocorre aproximadamente em 25–30%. O gesto, as três pistas principais da residência e as funções concretas de DREAM_006–008 estão aprovados em `story/DREAM_MAP.md`. DREAM_007 inclui divergência produzida também por agência própria de Lívia. DREAM_008 continua além do antigo ponto fatal e mostra Lívia viva e mais velha. O fio vermelho não aparece literalmente nos sonhos.
+O reconhecimento de Lívia por movimento ocorre aproximadamente em 25–30%. O gesto, as três pistas principais da residência e as funções concretas de DREAM_006-008 estão aprovados em `story/DREAM_MAP.md`. DREAM_007 inclui divergência produzida também por agência própria de Lívia. DREAM_008 continua além do antigo ponto fatal e mostra Lívia viva e mais velha. O fio vermelho não aparece literalmente nos sonhos.
+
+Motivos concretos aprovados:
+
+- gesto corporal de Lívia: quatro contatos sucessivos do polegar contra os outros dedos, combinados com transferência de peso e pequena marcação de ombro enquanto ela pensa movimento/coreografia;
+- DREAM_002 apresenta fragmentos desse gesto;
+- DREAM_003 apresenta a combinação de forma reconhecível e Henrique vê Lívia repeti-la acordada enquanto trabalha com um aluno;
+- pistas da residência: crachá com cordão amarelo e símbolo abstrato, marcação diagonal de fita no piso preto e som curto de três notas ligado ao prédio;
+- DREAM_006 tem como motivo líder a voz de Tomás, por telefone/mediação equivalente, pedindo que Lívia volte para Belo Horizonte;
+- antes de DREAM_007, Lívia procura Bia, admite sobrecarga e negocia por decisão própria redistribuição de participação física/carga, delegação e tratamento;
+- Henrique não sabe dessa escolha quando DREAM_007 muda;
+- DREAM_008 acontece em um estúdio depois de ensaio, anos mais tarde, com Lívia viva, mais velha e repetindo o mesmo gesto corporal.
 
 ### Mapa de revelações
 
@@ -158,7 +172,7 @@ Detalhes em `story/FUTURE_CAUSAL_CHAIN.md`, `story/CURRENT_OUTLINE.md`, `story/R
 
 ## O que ainda NÃO está fechado
 
-### Sonhos — microdetalhes e distribuição
+### Sonhos - microdetalhes e distribuição
 
 - capítulo/posição exata de cada sonho;
 - microexecução coreográfica do gesto de Lívia;
@@ -172,17 +186,24 @@ Detalhes em `story/FUTURE_CAUSAL_CHAIN.md`, `story/CURRENT_OUTLINE.md`, `story/R
 
 ### Personagens/cotidiano
 
-- hospital fictício e rotina concreta de Henrique;
-- sobrenome/idade exata/carreira de Camila;
-- nome/localização do estúdio e rotina fina de Lívia;
-- idade exata/função concreta de Bia e família ampliada de Lívia;
-- nome/formato da instituição fictícia da residência;
-- área específica da arquitetura, escritório e vida social adicional de Tomás;
-- bairros/moradias exatos.
+**Lívia:**
 
-Esses itens não devem bloquear estrutura se puderem nascer organicamente do outline.
+- nome/localização do estúdio e rotina profissional/doméstica fina;
+- idade exata e função concreta de Bia;
+- família ampliada e conflitos sociais relevantes;
+- nome/formato da instituição fictícia da residência.
 
-### Romance — detalhes adaptáveis
+**Tomás:**
+
+- área específica da arquitetura;
+- escritório fictício e rotina concreta;
+- vida afetiva/social adicional;
+- moradia;
+- dinâmica cotidiana atual com Henrique e Lívia fora do conflito principal.
+
+A camada cotidiana necessária de Henrique está fechada para esta fase. Novos detalhes dele só devem nascer de necessidade concreta do outline.
+
+### Romance - detalhes adaptáveis
 
 - episódio pré-acidente específico que dramatiza o paternalismo de Henrique;
 - cenas concretas de reclassificação mútua;
@@ -204,11 +225,12 @@ Esses itens não devem bloquear estrutura se puderem nascer organicamente do out
 
 ## Próximo passo recomendado
 
-1. **completar apenas a última camada cotidiana de personagens necessária para cena**;
-2. calibrar amostras originais de estilo e criar/aprovar `editorial/STYLE_EXAMPLES.md`;
-3. revisar o outline macro já com os detalhes de sonhos fechados;
-4. produzir outline por capítulos validando cada capítulo contra `story/REVEAL_MAP.md` e `story/DREAM_MAP.md`;
-5. somente então iniciar prosa definitiva.
+1. **fechar a camada cotidiana de Lívia necessária para cena**, incluindo estúdio, rotina e Bia;
+2. fechar apenas o cotidiano de Tomás que for necessário para sustentar convivência e cenas;
+3. calibrar amostras originais de estilo e criar/aprovar `editorial/STYLE_EXAMPLES.md`;
+4. revisar o outline macro já com os detalhes de sonhos e cotidiano fechados;
+5. produzir outline por capítulos validando cada capítulo contra `story/REVEAL_MAP.md` e `story/DREAM_MAP.md`;
+6. somente então iniciar prosa definitiva.
 
 ## Regra para retomada em outro chat
 

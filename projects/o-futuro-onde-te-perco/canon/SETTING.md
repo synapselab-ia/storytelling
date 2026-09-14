@@ -50,9 +50,23 @@ Lívia vive sozinha em apartamento alugado na região de **Santa Tereza**. A cas
 
 Endereços, edifícios e trajetos cotidianos específicos do Rastro e da moradia de Lívia permanecem abertos.
 
-## Outras instituições e espaços
+## Escritório e moradia de Tomás
 
-- O escritório de arquitetura de Tomás será **fictício**. Nome, área de atuação e localização ainda estão abertos.
+Tomás trabalha na **Quadrante 27 Arquitetura**, escritório fictício de porte médio em Belo Horizonte.
+
+O escritório atua, entre outras frentes, com **edifícios residenciais multifamiliares** e **retrofit/requalificação de edifícios existentes**. Tomás é arquiteto coordenador de projetos, com responsabilidade sobre compatibilização, entregas, interlocução com engenheiros e consultores, reuniões com clientes e parte do acompanhamento de obra.
+
+Ele não é sócio nem ocupa a chefia máxima do escritório. A localização exata da Quadrante 27, os nomes de sócios/lideranças e os projetos específicos em andamento permanecem abertos.
+
+Tomás vive sozinho em **apartamento próprio mais antigo no Funcionários**, em Belo Horizonte.
+
+A casa foi reformada gradualmente e possui sala ampla, o que favorece sua função cotidiana de ponto de encontro. O apartamento não deve parecer vitrine de arquiteto: decisões espaciais cuidadosas convivem com móveis herdados, livros, objetos acumulados e sinais de uso real.
+
+A casa de Tomás é um dos espaços recorrentes de convivência de amigos e família. Isso nasce de sua sociabilidade e não de intenção de aproximar romanticamente Henrique e Lívia.
+
+Endereço, edifício, metragem e trajetos específicos permanecem abertos.
+
+## Uso de instituições fictícias
 
 Instituições reais podem existir como parte normal do pano de fundo urbano, mas não devem ser usadas para atribuir condutas, conflitos internos ou práticas profissionais fictícias delicadas a organizações reais sem necessidade.
 
@@ -69,14 +83,15 @@ Estão fechados:
 - Hospital Metropolitano do Horizonte como hospital fictício de Henrique e sua escala geral de funcionamento;
 - Santo Agostinho como bairro de moradia de Henrique;
 - Rastro - Espaço de Dança e Criação como base profissional de Lívia na Floresta;
-- Santa Tereza como região de moradia de Lívia.
+- Santa Tereza como região de moradia de Lívia;
+- Quadrante 27 Arquitetura como escritório fictício de Tomás e sua área geral de atuação;
+- Funcionários como bairro de moradia de Tomás.
 
 Continuam abertos:
 
-- nome, área de atuação e localização do escritório de Tomás;
-- bairro/moradia de Tomás;
+- localização exata da Quadrante 27 e nomes de seus sócios/lideranças;
 - localização exata do hospital;
 - localização exata do Centro Aresta em São Paulo;
 - desenho preciso do símbolo institucional e origem técnica do som de três notas;
 - distâncias e trajetos cotidianos específicos;
-- endereços e geografia fina das cenas.
+- endereços, edifícios, metragens e geografia fina das cenas.

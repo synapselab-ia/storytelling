@@ -10,24 +10,25 @@ Nenhum capítulo definitivo deve ser escrito ainda. Premissa, acidente, cadeia c
 
 ## Progresso da sessão mais recente
 
-Foi aprovada e consolidada a camada cotidiana de **Henrique Almeida** necessária para iniciar planejamento de cenas sem transformar rotina em excesso de canon.
+Foi aprovada e consolidada a camada cotidiana de **Lívia Sampaio** necessária para cena, incluindo estúdio, rotina, Bia, família imediata e formato da residência.
 
-### Henrique - cotidiano, trabalho e limites médicos
+### Lívia - cotidiano, trabalho e rede própria
 
-- Henrique trabalha no **Hospital Metropolitano do Horizonte**, hospital geral fictício de grande porte em Belo Horizonte, com pronto-socorro adulto movimentado e capacidade para casos de alta complexidade;
-- é um dos emergencistas seniores, com autonomia clínica e função de referência/preceptoria, sem ocupar cargo máximo de chefia;
-- a rotina combina plantões de aproximadamente doze horas, inclusive noites, com supervisão/preceptoria e períodos reais fora do hospital;
-- o hospital funciona como contraste temático: ali, agir cedo, organizar risco e assumir a frente pode ser exatamente o comportamento correto;
-- **Camila Nogueira**, 38 anos, emergencista no mesmo hospital, é sua principal amizade profissional e não possui função de interesse amoroso;
-- Henrique mora sozinho em apartamento próprio no **Santo Agostinho**, escolhido por praticidade urbana, sem estética de vazio emocional;
-- cozinha de forma cotidiana, mantém atividade física regular e possui rotina estruturada para dormir em torno dos plantões;
-- os sonhos atingem uma área que antes era previsível para ele: capacidade de descansar quando havia oportunidade e confiança no próprio funcionamento mental;
-- Henrique teve relacionamentos adultos e vida sexual normal; está solteiro no início por circunstâncias ordinárias, sem ex-parceira estruturalmente importante já definida;
-- Tomás permanece seu principal eixo social fora do trabalho; não será criado elenco adicional apenas para provar que Henrique possui vida social;
-- Henrique **não é e não se torna médico de Lívia**: não acessa prontuário, não usa colegas para obter informação clínica, não prescreve escondido e não transforma conhecimento médico em autoridade pessoal sobre ela;
-- profissionais independentes devem conduzir avaliação, fisioterapia, manejo de dor e cuidado em saúde mental quando necessários.
+- trabalha no **Rastro - Espaço de Dança e Criação**, estúdio independente fictício na região da Floresta, sem ser dona do espaço;
+- mantém turmas de dança contemporânea e composição, workshops, criação autoral e trabalhos coreográficos por projeto;
+- a rotina distribui planejamento, administração, condicionamento, criação, ensaios e aulas sem apresentá-la como sobrecarregada desde o início;
+- no cotidiano normal, administra o tornozelo com competência através de marcação, demonstração seletiva e gestão de repetição;
+- a sobrecarga posterior da residência deve aparecer como deterioração desse manejo normalmente funcional, não como irresponsabilidade permanente;
+- **Beatriz “Bia” Faria**, 35 anos, é produtora cultural independente especializada em dança, performance e projetos cênicos e conheceu Lívia depois do acidente;
+- Bia entende produção, orçamento, cronograma, contratos, editais e circulação, podendo oferecer apoio operacional sem tomar decisões pela amiga;
+- Lívia vive sozinha em apartamento alugado na região de **Santa Tereza**, com espaço doméstico real para trabalho e marcação de movimento;
+- é filha única, com os pais vivos e relação funcional/afetiva; a proteção natural deles depois do acidente contribuiu para sua associação entre revelar dor e perder autonomia, sem criar trauma familiar adicional;
+- a residência acontece no **Centro Aresta de Artes do Movimento**, através do **Programa Aresta de Criação Coreográfica**, com duração aproximada de doze semanas;
+- o programa oferece estúdio, bailarinos, suporte de produção/técnica e orçamento delimitado, culminando numa apresentação pública;
+- desenho exato do símbolo institucional, origem técnica do som de três notas e localização fina do Centro Aresta em São Paulo continuam abertos;
+- permanece deliberadamente em aberto se Lívia dirige regularmente seis anos depois do acidente.
 
-Detalhes completos em `canon/characters/protagonist.md` e `canon/SETTING.md`.
+Detalhes em `canon/characters/dancer.md`, `canon/SETTING.md`, `story/RESIDENCY_TIMELINE.md` e `story/DREAM_MAP.md`.
 
 ## Forma narrativa
 
@@ -55,7 +56,10 @@ Detalhes em `story/NARRATIVE_FORM.md` e `editorial/DREAM_STYLE.md`.
 - a residência coreográfica de Lívia acontece em **São Paulo, São Paulo**, por aproximadamente três meses;
 - **Hospital Metropolitano do Horizonte** é o hospital fictício de Henrique;
 - **Santo Agostinho** é o bairro de moradia de Henrique;
-- estúdio de Lívia, escritório de Tomás e instituição da residência continuam fictícios e ainda sem nomes fechados;
+- **Rastro - Espaço de Dança e Criação** é a base profissional de Lívia na região da Floresta;
+- **Santa Tereza** é a região de moradia de Lívia;
+- **Centro Aresta de Artes do Movimento** e o **Programa Aresta de Criação Coreográfica** são a instituição e o formato da residência;
+- escritório de Tomás continua fictício e ainda sem nome fechado;
 - endereços e geografia fina de cena continuam abertos.
 
 Detalhes em `canon/SETTING.md`.
@@ -74,18 +78,20 @@ Detalhes completos em `canon/ACCIDENT.md`.
 
 Henrique tende a converter medo em ação, plano e intervenção. Medicina de emergência e seu papel histórico de irmão mais velho reforçam capacidades reais de agir sob pressão, mas não lhe dão autoridade pessoal sobre outros adultos. Sua camada cotidiana necessária para cena já está consolidada.
 
-Lívia construiu carreira genuinamente valiosa em ensino/coreografia depois do acidente e quer consolidar-se como coreógrafa autoral. O tornozelo lesionado permite função ampla, mas carga acumulada pode produzir dor/limitação. Sua autonomia pode degenerar em ocultação e isolamento.
+Lívia construiu carreira genuinamente valiosa em ensino/coreografia depois do acidente e quer consolidar-se como coreógrafa autoral. O tornozelo lesionado permite função ampla, mas carga acumulada pode produzir dor/limitação. Sua autonomia pode degenerar em ocultação e isolamento. Sua camada cotidiana necessária para cena já está consolidada.
 
 Tomás é profissionalmente competente; seu evitamento é especificamente emocional/relacional. Seu silêncio de seis anos se consolidou gradualmente e sua reparação exige aceitar consequências.
 
 Rede aprovada:
 
 - os pais de Henrique e Tomás estão vivos e a família é funcional;
+- os pais de Lívia estão vivos; ela é filha única e mantém relação funcional/afetiva com eles;
 - Tomás é o principal agregador social do núcleo histórico;
-- **Beatriz “Bia” Faria** é amizade importante de Lívia construída depois do acidente;
+- **Beatriz “Bia” Faria**, 35 anos, é amizade importante de Lívia construída depois do acidente e produtora cultural ligada à dança/performance;
 - **Camila Nogueira**, 38 anos, é amizade profissional importante de Henrique na emergência;
 - Henrique e Tomás vivem sozinhos em Belo Horizonte;
-- Lívia trabalha a partir de um estúdio independente de dança contemporânea e não é dona do espaço no início.
+- Lívia vive sozinha em apartamento alugado na região de Santa Tereza;
+- Lívia trabalha no Rastro e não é dona do espaço.
 
 Detalhes em `canon/characters/`.
 
@@ -116,9 +122,10 @@ Motivos concretos aprovados:
 - gesto corporal de Lívia: quatro contatos sucessivos do polegar contra os outros dedos, combinados com transferência de peso e pequena marcação de ombro enquanto ela pensa movimento/coreografia;
 - DREAM_002 apresenta fragmentos desse gesto;
 - DREAM_003 apresenta a combinação de forma reconhecível e Henrique vê Lívia repeti-la acordada enquanto trabalha com um aluno;
-- pistas da residência: crachá com cordão amarelo e símbolo abstrato, marcação diagonal de fita no piso preto e som curto de três notas ligado ao prédio;
+- pistas do Centro Aresta: crachá com cordão amarelo e símbolo abstrato, marcação diagonal de fita no piso preto e som curto de três notas ligado ao prédio;
 - DREAM_006 tem como motivo líder a voz de Tomás, por telefone/mediação equivalente, pedindo que Lívia volte para Belo Horizonte;
 - antes de DREAM_007, Lívia procura Bia, admite sobrecarga e negocia por decisão própria redistribuição de participação física/carga, delegação e tratamento;
+- Bia pode apoiar operacionalmente essa reorganização, mas a decisão continua sendo de Lívia;
 - Henrique não sabe dessa escolha quando DREAM_007 muda;
 - DREAM_008 acontece em um estúdio depois de ensaio, anos mais tarde, com Lívia viva, mais velha e repetindo o mesmo gesto corporal.
 
@@ -186,13 +193,6 @@ Detalhes em `story/FUTURE_CAUSAL_CHAIN.md`, `story/CURRENT_OUTLINE.md`, `story/R
 
 ### Personagens/cotidiano
 
-**Lívia:**
-
-- nome/localização do estúdio e rotina profissional/doméstica fina;
-- idade exata e função concreta de Bia;
-- família ampliada e conflitos sociais relevantes;
-- nome/formato da instituição fictícia da residência.
-
 **Tomás:**
 
 - área específica da arquitetura;
@@ -201,7 +201,9 @@ Detalhes em `story/FUTURE_CAUSAL_CHAIN.md`, `story/CURRENT_OUTLINE.md`, `story/R
 - moradia;
 - dinâmica cotidiana atual com Henrique e Lívia fora do conflito principal.
 
-A camada cotidiana necessária de Henrique está fechada para esta fase. Novos detalhes dele só devem nascer de necessidade concreta do outline.
+As camadas cotidianas necessárias de Henrique e Lívia estão fechadas para esta fase. Novos detalhes deles só devem nascer de necessidade concreta do outline.
+
+Para Lívia, continua deliberadamente aberto se ela dirige regularmente no presente; isso possui peso psicológico/logístico suficiente para não ser fixado apenas como detalhe de rotina.
 
 ### Romance - detalhes adaptáveis
 
@@ -225,12 +227,11 @@ A camada cotidiana necessária de Henrique está fechada para esta fase. Novos d
 
 ## Próximo passo recomendado
 
-1. **fechar a camada cotidiana de Lívia necessária para cena**, incluindo estúdio, rotina e Bia;
-2. fechar apenas o cotidiano de Tomás que for necessário para sustentar convivência e cenas;
-3. calibrar amostras originais de estilo e criar/aprovar `editorial/STYLE_EXAMPLES.md`;
-4. revisar o outline macro já com os detalhes de sonhos e cotidiano fechados;
-5. produzir outline por capítulos validando cada capítulo contra `story/REVEAL_MAP.md` e `story/DREAM_MAP.md`;
-6. somente então iniciar prosa definitiva.
+1. **fechar apenas o cotidiano de Tomás necessário para sustentar convivência e cenas**;
+2. calibrar amostras originais de estilo e criar/aprovar `editorial/STYLE_EXAMPLES.md`;
+3. revisar o outline macro já com os detalhes de sonhos e cotidiano fechados;
+4. produzir outline por capítulos validando cada capítulo contra `story/REVEAL_MAP.md` e `story/DREAM_MAP.md`;
+5. somente então iniciar prosa definitiva.
 
 ## Regra para retomada em outro chat
 

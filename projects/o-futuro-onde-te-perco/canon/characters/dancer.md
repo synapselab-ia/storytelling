@@ -1,4 +1,4 @@
-# Lívia Sampaio — ficha atual
+# Lívia Sampaio - ficha atual
 
 ## Identidade básica
 
@@ -39,15 +39,71 @@ A transição para ensino e coreografia não deve ser tratada como prêmio de co
 
 Seu desejo profissional no início do livro é deixar de ser vista principalmente como uma professora talentosa que também coreografa e consolidar-se como **coreógrafa autoral reconhecida**.
 
-Em Belo Horizonte, Lívia trabalha a partir de um **estúdio independente de dança contemporânea**, onde mantém turmas regulares, atividades de composição e workshops, além de aceitar trabalhos coreográficos por projeto. Ela não é dona do estúdio no início do romance. Nome, bairro, modelo contratual e detalhes financeiros permanecem abertos.
+Em Belo Horizonte, Lívia trabalha a partir do **Rastro - Espaço de Dança e Criação**, estúdio independente fictício localizado na região da Floresta.
 
-A residência de aproximadamente três meses em **São Paulo** representa a primeira oportunidade realmente importante de desenvolver uma obra completa sob sua própria assinatura com bailarinos profissionais ou selecionados pela instituição e apresentá-la publicamente ao final.
+Ela não é dona do Rastro. Integra o núcleo regular de professores, mantém turmas de dança contemporânea e composição, conduz workshops e consegue horários de ensaio para trabalhos autorais e projetos por contrato. O vínculo exato com a administração e os detalhes financeiros podem permanecer flexíveis enquanto não forem necessários ao outline.
 
-A instituição responsável pela residência será fictícia; nome, formato e localização específica ainda estão abertos.
+O espaço profissional de Belo Horizonte não deve repetir visualmente a marca diagonal de fita em piso preto como motivo forte, para preservar a especificidade da pista da residência em São Paulo.
+
+A residência de aproximadamente três meses em São Paulo acontece no **Centro Aresta de Artes do Movimento**, através do **Programa Aresta de Criação Coreográfica**.
+
+O programa dura cerca de doze semanas e seleciona poucos coreógrafos para desenvolver uma obra autoral com suporte de estúdio, bailarinos profissionais ou selecionados pela instituição, apoio de produção/técnica e orçamento delimitado, culminando numa apresentação pública.
+
+A oportunidade representa a primeira chance realmente importante de Lívia desenvolver uma obra completa sob sua própria assinatura em escala maior do que sua rotina profissional em Belo Horizonte.
 
 O conflito não é “voltar a ser quem era antes do acidente”. É conseguir expandir a carreira que construiu depois dele.
 
 Por isso, quando o tornozelo volta a impor limites, a ferida subjetiva é específica: ela teme que seu corpo volte a interferir justamente quando conseguiu construir um novo caminho escolhido por ela.
+
+## Rotina profissional e manejo do corpo
+
+A rotina de Lívia é irregular, mas possui estrutura reconhecível.
+
+- manhãs tendem a concentrar planejamento, trabalho administrativo, preparação coreográfica, condicionamento e cuidado do tornozelo;
+- tardes comportam criação, ensaios, reuniões e trabalhos por projeto;
+- boa parte das aulas regulares ocorre no fim da tarde e à noite;
+- workshops, apresentações e ensaios especiais podem ocupar alguns fins de semana;
+- ela não deve parecer trabalhar em sobrecarga extrema desde o início do romance.
+
+No cotidiano normal, Lívia é competente em administrar a própria limitação física. Ela marca sequências, demonstra seletivamente, usa instrução verbal e observa bailarinos em vez de executar cada repetição. Isso evita construir a personagem como permanentemente irresponsável com o próprio corpo.
+
+Durante a residência, o aumento de demonstrações, deslocamentos, ensaios, carga acumulada e resistência em admitir a extensão da dor representa uma deterioração concreta do manejo que normalmente funciona para ela.
+
+## Bia Faria
+
+**Beatriz “Bia” Faria**, 35 anos, é produtora cultural independente especializada em dança, performance e projetos cênicos.
+
+Seu trabalho envolve orçamento, cronograma, contratos, editais, circulação, produção executiva e articulação entre artistas, espaços e equipes técnicas. Ela conheceu Lívia depois do acidente, durante um projeto profissional.
+
+Essa amizade oferece um tipo de intimidade diferente daquela que Lívia possui com Tomás: Tomás conhece a menina e a jovem adulta anterior ao trauma; Bia conhece sobretudo a mulher que Lívia reconstruiu depois dele.
+
+Bia entende profissionalmente por que a residência em São Paulo importa e não reage à dor de Lívia com uma lógica simplista de “então desista”. Pode defender tratamento, adaptação, delegação e gestão de carga sem tentar apropriar-se da decisão profissional da amiga.
+
+Na bifurcação que antecede DREAM_007, Bia pode ajudar a transformar a admissão de sobrecarga em alternativas operacionais concretas: reorganização de cronograma, identificação do que pode ser delegado, apoio para conversar com a produção da residência e retirada de tarefas que não precisam depender do corpo de Lívia. A decisão final continua sendo de Lívia.
+
+Bia não substitui Tomás, não funciona como terapeuta improvisada e não existe apenas como confidente de romance.
+
+## Moradia e rotina doméstica
+
+Lívia vive sozinha em apartamento alugado na região de **Santa Tereza**, em Belo Horizonte.
+
+A escolha mantém proximidade razoável com sua vida profissional sem fazê-la morar dentro do circuito do estúdio. Endereço, edifício e trajetos específicos permanecem abertos.
+
+Sua casa possui espaço real de trabalho: mesa com cadernos, laptop, documentos de projetos e uma área da sala que costuma permanecer livre o suficiente para marcar sequências e testar deslocamentos.
+
+A organização segue a lógica prática dela. Evitar o estereótipo de “artista caótica” usado como contraste fácil com Henrique.
+
+## Família
+
+Lívia é filha única. Seus pais estão vivos no presente e mantêm com ela uma relação funcional e afetiva.
+
+O acidente e a cirurgia tornaram os pais naturalmente mais protetores durante sua recuperação. Mesmo sem serem controladores ou antagonistas, perguntas legítimas sobre repouso, dor e limites contribuíram para que Lívia passasse a associar revelar dificuldade física à possibilidade de outras pessoas discutirem o que ela deveria ou não fazer.
+
+Essa dinâmica ajuda a explicar o padrão sem criar um trauma familiar adicional como causa totalizante.
+
+Tomás ocupa há décadas um lugar quase fraterno na vida de Lívia, sem substituir literalmente a família nem transformar amizade em parentesco.
+
+Nomes, profissões, moradia e presença concreta dos pais em cenas permanecem abertos até haver necessidade narrativa.
 
 ## Ferida
 
@@ -71,17 +127,15 @@ Aprender que vulnerabilidade escolhida não é submissão e que aceitar presenç
 
 Seu movimento final não é obedecer às pessoas que a amam. É conseguir dizer “a decisão é minha” sem acrescentar “portanto preciso fazer tudo sozinha”.
 
-## Vida fora do romance
+## Pontos ainda abertos
 
-Lívia possui uma amizade atual importante com **Beatriz “Bia” Faria**, em faixa etária próxima à dela. Bia trabalha com produção cultural ligada à dança/artes do movimento e conhece Lívia **depois do acidente**.
-
-Essa amizade deve oferecer um tipo de intimidade diferente daquela que Lívia possui com Tomás: Tomás conhece a menina e a jovem adulta anterior ao trauma; Bia conhece sobretudo a mulher que Lívia reconstruiu depois dele.
-
-Bia entende profissionalmente por que a residência em São Paulo importa e não deve reagir à dor de Lívia com uma lógica simplista de “então desista”. Ela pode defender tratamento, adaptação, delegação e gestão de carga sem tentar apropriar-se da decisão profissional da amiga.
-
-Bia não substitui Tomás nem existe apenas como confidente de romance. Ela faz parte da vida profissional/social de Lívia e deve permanecer relevante independentemente de Henrique.
-
-Moradia, família ampliada de Lívia, renda detalhada, endereço do estúdio e círculo social adicional continuam abertos.
+- se Lívia dirige regularmente no presente, seis anos depois do acidente;
+- nomes, profissões e detalhes cotidianos dos pais;
+- renda detalhada e modelo contratual no Rastro;
+- proprietário/administração específica do estúdio;
+- localização exata do Centro Aresta em São Paulo;
+- desenho do símbolo institucional e origem técnica do som de três notas;
+- detalhes financeiros e administrativos finos da residência.
 
 ## Restrições
 
@@ -91,3 +145,4 @@ Moradia, família ampliada de Lívia, renda detalhada, endereço do estúdio e c
 - A dança deve afetar sua identidade, rotina, corpo, carreira e linguagem emocional.
 - A lesão não deve torná-la permanentemente incapaz nem funcionar apenas quando a trama precisa de perigo.
 - Não tratar a carreira em ensino/coreografia como fracasso em relação à antiga trajetória de performance.
+- O aumento de sobrecarga durante a residência deve ser mostrado como deterioração de um manejo corporal normalmente competente, não como prova de irresponsabilidade constante.

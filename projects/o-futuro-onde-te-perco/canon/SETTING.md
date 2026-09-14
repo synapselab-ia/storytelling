@@ -12,9 +12,15 @@ O livro não deve tratar a cidade como uma comunidade minúscula. Os reencontros
 
 A residência profissional de Lívia acontece em **São Paulo, São Paulo**, por aproximadamente três meses.
 
+A instituição responsável é o **Centro Aresta de Artes do Movimento**, organização fictícia dedicada a dança, performance e criação contemporânea.
+
+Lívia participa do **Programa Aresta de Criação Coreográfica**, residência de cerca de doze semanas que seleciona poucos coreógrafos para desenvolver obras autorais com acesso a estúdio, bailarinos profissionais ou selecionados pela instituição, suporte de produção/técnica e orçamento delimitado, culminando numa apresentação pública.
+
 A mudança temporária de cidade representa expansão concreta de escala profissional: novos bailarinos, outros interlocutores artísticos e acesso a um circuito maior do que o cotidiano profissional que ela possui em Belo Horizonte.
 
 A residência não é apresentada como fuga de Belo Horizonte nem como abandono definitivo de sua vida anterior. É uma oportunidade delimitada de desenvolvimento autoral e projeção profissional.
+
+O bairro e a arquitetura específica do Centro Aresta permanecem abertos. O desenho do símbolo institucional e a origem técnica do som curto de três notas também continuam adaptáveis, preservando as funções aprovadas em `story/DREAM_MAP.md`.
 
 ## Hospital de Henrique
 
@@ -32,10 +38,20 @@ A escolha do bairro é predominantemente prática e urbana. O apartamento não d
 
 Endereço, edifício e trajeto exato até o hospital continuam abertos.
 
+## Estúdio e moradia de Lívia
+
+A base profissional de Lívia em Belo Horizonte é o **Rastro - Espaço de Dança e Criação**, estúdio independente fictício localizado na região da **Floresta**.
+
+Lívia integra o núcleo regular de professores, mantém turmas de dança contemporânea e composição, conduz workshops e utiliza horários de ensaio para projetos autorais. Ela não é dona do estúdio.
+
+O Rastro não deve repetir como motivo visual forte a marca diagonal de fita em piso preto associada à residência em São Paulo, para evitar diluir uma pista estrutural dos sonhos.
+
+Lívia vive sozinha em apartamento alugado na região de **Santa Tereza**. A casa inclui uma área de trabalho e espaço suficiente para que ela marque sequências e teste deslocamentos sem transformar a moradia em extensão cenográfica idealizada da carreira.
+
+Endereços, edifícios e trajetos cotidianos específicos do Rastro e da moradia de Lívia permanecem abertos.
+
 ## Outras instituições e espaços
 
-- O estúdio/base profissional de Lívia em Belo Horizonte será **fictício**. Nome e localização específica ainda estão abertos.
-- A instituição, companhia ou festival responsável pela residência em São Paulo será **fictício**. Nome, bairro, formato administrativo e escala exata ainda estão abertos.
 - O escritório de arquitetura de Tomás será **fictício**. Nome, área de atuação e localização ainda estão abertos.
 
 Instituições reais podem existir como parte normal do pano de fundo urbano, mas não devem ser usadas para atribuir condutas, conflitos internos ou práticas profissionais fictícias delicadas a organizações reais sem necessidade.
@@ -47,16 +63,20 @@ Estão fechados:
 - Belo Horizonte como cidade-base;
 - São Paulo como cidade da residência;
 - a residência como deslocamento temporário de aproximadamente três meses;
+- Centro Aresta de Artes do Movimento como instituição fictícia da residência;
+- Programa Aresta de Criação Coreográfica como formato profissional de aproximadamente doze semanas;
 - uso preferencial de instituições fictícias para os locais profissionais centrais;
 - Hospital Metropolitano do Horizonte como hospital fictício de Henrique e sua escala geral de funcionamento;
-- Santo Agostinho como bairro de moradia de Henrique.
+- Santo Agostinho como bairro de moradia de Henrique;
+- Rastro - Espaço de Dança e Criação como base profissional de Lívia na Floresta;
+- Santa Tereza como região de moradia de Lívia.
 
 Continuam abertos:
 
-- nome e localização do estúdio de Lívia;
-- nome e formato da instituição da residência;
 - nome, área de atuação e localização do escritório de Tomás;
-- bairros/moradias de Lívia e Tomás;
+- bairro/moradia de Tomás;
 - localização exata do hospital;
+- localização exata do Centro Aresta em São Paulo;
+- desenho preciso do símbolo institucional e origem técnica do som de três notas;
 - distâncias e trajetos cotidianos específicos;
 - endereços e geografia fina das cenas.

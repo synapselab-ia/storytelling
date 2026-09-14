@@ -1,6 +1,6 @@
-# Mapa dos sonhos — estrutura aprovada
+# Mapa dos sonhos - estrutura aprovada
 
-> **Estado:** mapa estrutural aprovado para desenvolvimento. A quantidade de oito sonhos relevantes, a progressão funcional, o gesto de reconhecimento, as pistas principais da residência e as funções de DREAM_006–008 estão aprovados. Posição exata por capítulo, microdetalhes sensoriais, redação de falas e duração de cada sequência ainda podem ser refinados no outline e na prosa.
+> **Estado:** mapa estrutural aprovado para desenvolvimento. A quantidade de oito sonhos relevantes, a progressão funcional, o gesto de reconhecimento, as pistas principais da residência e as funções de DREAM_006-008 estão aprovados. Posição exata por capítulo, microdetalhes sensoriais, redação de falas e duração de cada sequência ainda podem ser refinados no outline e na prosa.
 >
 > Podem existir ecos curtos, flashes ao acordar ou lembranças de sonho além destes oito marcos, desde que não funcionem como novos grandes degraus de informação sem revisão deste mapa.
 
@@ -23,7 +23,7 @@
 
 `terror → intimidade → identidade → investigação → erro causal → profecia autorrealizável → divergência → possibilidade`
 
-## Motivo corporal aprovado — reconhecimento de Lívia
+## Motivo corporal aprovado - reconhecimento de Lívia
 
 Quando pensa movimento/coreografia, Lívia pode executar um hábito corporal discreto:
 
@@ -45,9 +45,11 @@ A execução coreográfica fina pode ser refinada com pesquisa/consultoria de da
 
 ## Pistas recorrentes aprovadas da residência
 
+A residência acontece no **Centro Aresta de Artes do Movimento**, através do **Programa Aresta de Criação Coreográfica**.
+
 Três motivos concretos ligam os sonhos à futura residência:
 
-1. **crachá com cordão amarelo e símbolo gráfico abstrato** da instituição fictícia;
+1. **crachá com cordão amarelo e símbolo gráfico abstrato** do Centro Aresta;
 2. **marcação diagonal de fita no piso preto do estúdio**;
 3. **som curto de três notas** associado ao elevador, controle de acesso ou circulação do prédio.
 
@@ -57,9 +59,9 @@ Regras de uso:
 - antes da residência se concretizar, devem funcionar como detalhes sem significado estável;
 - no presente, Henrique reencontra aos poucos correspondências objetivas: símbolo/material institucional, cordão/crachá, marcação de piso ou som de três notas em chamada/visita equivalente;
 - essas coincidências sustentam racionalmente a leitura de Henrique de que “é esse lugar”, sem validar sua conclusão posterior de que o lugar é a causa da crise;
-- nome, desenho exato do símbolo, arquitetura do prédio e origem técnica do som continuam adaptáveis enquanto a instituição fictícia não for criada.
+- desenho exato do símbolo, arquitetura do prédio e origem técnica do som continuam adaptáveis.
 
-## DREAM_001 — perda sem contexto
+## DREAM_001 - perda sem contexto
 
 **Posição aproximada:** 0–5%.
 
@@ -70,7 +72,7 @@ Regras de uso:
 - **Interpretação de Henrique:** pesadelo extremo; busca explicação ordinária.
 - **Função:** estabelecer medo, luto antecipado e intimidade impossível.
 
-## DREAM_002 — intimidade impossível
+## DREAM_002 - intimidade impossível
 
 **Posição aproximada:** 10–15%.
 
@@ -81,7 +83,7 @@ Regras de uso:
 - **Interpretação de Henrique:** o sonho parece possuir continuidade interna e memória que não deveria existir.
 - **Função:** provar que os sonhos não são apenas repetição de trauma e plantar a pista corporal de reconhecimento.
 
-## DREAM_003 — reconhecimento
+## DREAM_003 - reconhecimento
 
 **Posição aproximada:** 25–30%.
 
@@ -94,7 +96,7 @@ Regras de uso:
 - **Leitor:** pode ter suspeitado antes, mas recebe confirmação junto ou pouco antes dele.
 - **Função:** encerrar cedo a pergunta “quem é ela?” e transferir o mistério para causalidade, futuro e vínculo.
 
-## DREAM_004 — a residência entra no tabuleiro
+## DREAM_004 - a residência entra no tabuleiro
 
 **Posição aproximada:** 35–45%.
 
@@ -106,7 +108,7 @@ Regras de uso:
 - **Canon:** a residência não é causa direta da crise; esses detalhes apenas pertencem à linha futura alcançável.
 - **Função:** fornecer evidência real para uma conclusão causal futura que será compreensível, porém incompleta.
 
-## DREAM_005 — o futuro parece causal
+## DREAM_005 - o futuro parece causal
 
 **Posição aproximada:** 50–60%.
 
@@ -117,7 +119,7 @@ Regras de uso:
 - **Interpretação de Henrique:** sua hipótese causal endurece; ele passa a tratar fragmentos como mapa de risco.
 - **Função:** aumentar pressão sem validar a inferência equivocada como regra sobrenatural.
 
-## DREAM_006 — profecia autorrealizável
+## DREAM_006 - profecia autorrealizável
 
 **Posição aproximada:** 65–75%.
 
@@ -131,7 +133,7 @@ Regras de uso:
 
 A formulação verbal exata de Tomás e o dispositivo concreto de som podem mudar no outline, desde que permaneça a função: **Henrique reconhece no futuro visto uma consequência que só existe porque ele envolveu Tomás**.
 
-## DREAM_007 — primeira divergência
+## DREAM_007 - primeira divergência
 
 **Posição aproximada:** 80–90%.
 
@@ -139,7 +141,7 @@ A formulação verbal exata de Tomás e o dispositivo concreto de som podem muda
 - Antes do sonho, Lívia toma por iniciativa própria uma decisão contra o isolamento **sem Henrique presente e antes de ele saber que ela a tomou**.
 - Versão líder aprovada: Lívia procura Bia e admite a extensão real de sua sobrecarga. A ideia emocional pode ser expressa como “eu quero terminar; só não consigo terminar desse jeito”, sem exigir essa redação literal na prosa.
 - A partir dessa admissão, **Lívia** fala com a equipe da residência, redistribui demonstrações/participação física, delega parte do processo e aceita manejo de carga/tratamento compatível com continuar o trabalho de modo sustentável.
-- Bia oferece apoio e ajuda operacional, mas não toma a decisão por Lívia.
+- Bia, como produtora cultural com experiência em dança e performance, pode ajudar a transformar essa admissão em alternativas operacionais de cronograma, delegação e conversa com a produção, mas não toma a decisão por Lívia.
 - Henrique não sabe ainda que essa mudança ocorreu.
 - DREAM_007 começa com elementos familiares da linha anterior, mas apresenta uma diferença causal relevante compatível com menor isolamento e maior rede de apoio.
 - Henrique vê a linha alterada sem poder atribuir honestamente a mudança ao próprio controle.
@@ -148,7 +150,7 @@ A formulação verbal exata de Tomás e o dispositivo concreto de som podem muda
 - **Interpretação de Henrique:** primeira evidência clara de que a linha futura pode realmente mudar; inicialmente ele não sabe qual escolha produziu a divergência.
 - **Função:** demonstrar que alteração de padrões modifica o futuro onírico e que a mudança não pertence apenas a Henrique.
 
-## DREAM_008 — o sonho continua
+## DREAM_008 - o sonho continua
 
 **Posição aproximada:** 95–100% / resolução.
 
@@ -158,7 +160,7 @@ A formulação verbal exata de Tomás e o dispositivo concreto de som podem muda
 - Lívia está mais velha, viva, inserida numa vida profissional que continua existindo para além da crise. Não precisa estar sem dor, plenamente “curada” ou numa versão idealizada de sucesso.
 - Enquanto pensa numa sequência, ela repete o motivo corporal do começo: polegar nos dedos, transferência de peso, pequena marcação do ombro.
 - Dessa vez Henrique consegue integrar a percepção dela por completo, inclusive o rosto.
-- Lívia pode então dizer algo totalmente cotidiano — reclamar do café, lembrar que estão atrasados ou equivalente. A frase exata continua aberta.
+- Lívia pode então dizer algo totalmente cotidiano - reclamar do café, lembrar que estão atrasados ou equivalente. A frase exata continua aberta.
 - Evitar transformar a cena em certificado de futuro perfeito: casamento, filhos, casa ideal, prêmio profissional ou outro marcador não é necessário para provar felicidade ou destino.
 - A força do sonho está simplesmente na existência de um **depois** e na continuidade banal de Lívia como pessoa.
 - **Interpretação final:** possibilidade alterada, não garantia metafísica.

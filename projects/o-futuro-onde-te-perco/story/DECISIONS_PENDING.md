@@ -33,7 +33,6 @@ Microexecução coreográfica, redação de falas, distribuição exata das pist
 - **Tomás Almeida**, 34 anos, irmão mais novo, arquiteto e melhor amigo de Lívia desde a infância;
 - Belo Horizonte é a cidade-base;
 - a residência coreográfica dura aproximadamente três meses e acontece em São Paulo;
-- Beatriz “Bia” Faria é amizade importante de Lívia construída depois do acidente;
 - os pais de Henrique e Tomás estão vivos e a família é funcional;
 - Tomás é o principal agregador social do núcleo histórico.
 
@@ -49,6 +48,21 @@ A camada cotidiana de **Henrique** necessária para cena está consolidada em `c
 - teve relacionamentos adultos e vida sexual normal; está solteiro no início por circunstâncias ordinárias, sem ex estruturalmente importante já definida;
 - Tomás permanece seu principal eixo social fora do trabalho; outros conhecidos podem surgir organicamente sem ampliar o elenco por obrigação;
 - Henrique não é médico de Lívia, não acessa informação clínica por privilégio e não usa formação médica como autorização para decidir por ela.
+
+A camada cotidiana de **Lívia** necessária para cena está consolidada em `canon/characters/dancer.md`, `canon/SETTING.md` e `story/RESIDENCY_TIMELINE.md`:
+
+- trabalha no **Rastro - Espaço de Dança e Criação**, estúdio independente fictício na região da Floresta, sem ser dona do espaço;
+- mantém turmas de contemporâneo/composição, workshops, criação autoral e trabalhos por projeto;
+- sua rotina distribui planejamento, administração, condicionamento, ensaios e aulas sem apresentá-la como sobrecarregada desde o início;
+- no cotidiano normal, administra o tornozelo com competência através de marcação, demonstração seletiva e gestão de repetição;
+- **Beatriz “Bia” Faria**, 35 anos, é produtora cultural independente especializada em dança, performance e projetos cênicos e conheceu Lívia depois do acidente;
+- Bia pode oferecer apoio operacional e de produção, mas não toma decisões pela amiga nem funciona como terapeuta improvisada;
+- Lívia mora sozinha em apartamento alugado na região de **Santa Tereza**;
+- é filha única, com os pais vivos e relação funcional/afetiva; a proteção natural deles após o acidente contribuiu para sua associação entre revelar dor e perder autonomia, sem criar trauma familiar adicional;
+- a residência acontece no **Centro Aresta de Artes do Movimento**, através do **Programa Aresta de Criação Coreográfica**, de aproximadamente doze semanas;
+- o programa oferece estúdio, bailarinos, suporte de produção/técnica e orçamento delimitado, culminando em apresentação pública;
+- desenho exato do símbolo do Aresta, origem técnica do som de três notas e localização fina em São Paulo continuam abertos;
+- permanece em aberto se Lívia dirige regularmente seis anos depois do acidente.
 
 ### Romance
 
@@ -105,14 +119,6 @@ Decisões aprovadas:
 
 Esses detalhes são úteis para cena, mas não devem bloquear arquitetura se puderem nascer organicamente do outline.
 
-### Lívia
-
-- nome/localização do estúdio fictício;
-- rotina profissional/doméstica fina;
-- idade exata e função concreta de Bia;
-- família ampliada e conflitos sociais relevantes;
-- nome/formato da instituição fictícia da residência.
-
 ### Tomás
 
 - área específica da arquitetura;
@@ -121,7 +127,7 @@ Esses detalhes são úteis para cena, mas não devem bloquear arquitetura se pud
 - moradia;
 - dinâmica cotidiana atual com Henrique e Lívia fora do conflito principal.
 
-A camada cotidiana necessária de Henrique está fechada para esta fase. Novos detalhes só devem ser criados se surgirem como necessidade concreta do outline e não alterarem as restrições já consolidadas.
+As camadas cotidianas necessárias de Henrique e Lívia estão fechadas para esta fase. Novos detalhes só devem ser criados se surgirem como necessidade concreta do outline e não alterarem as restrições já consolidadas.
 
 ## Prioridade 2 - voz e prosa antes do manuscrito
 

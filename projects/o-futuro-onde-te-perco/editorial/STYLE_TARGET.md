@@ -70,10 +70,18 @@ Direção consolidada:
 - atração expressa primeiro como atenção excessiva, competência observada, movimento, hábito e mudança de ritmo;
 - sonhos reconhecivelmente pertencentes ao mesmo livro, porém mais sensoriais, próximos e associativos.
 
-## Ainda não definido
+## Escala e intimidade aprovadas
 
-Ainda precisam ser calibrados antes da prosa definitiva:
+Detalhes completos em `editorial/INTIMACY_AND_SCALE.md`.
 
-- grau exato de explicitude sexual;
-- comprimento médio de capítulos;
-- detalhes tipográficos das páginas pretas dos sonhos.
+- open door moderado;
+- cenas íntimas em página podem ser claramente sexuais sem migrar para registro de erotica;
+- média de referência de aproximadamente 3.800 palavras por capítulo;
+- faixa típica de 3.000 a 4.800 palavras, com exceções justificadas;
+- arquitetura atual de 40 capítulos em `story/CHAPTER_OUTLINE.md`.
+
+## Ainda aberto para execução
+
+- detalhes tipográficos das páginas pretas dos sonhos;
+- microexecução de cenas, diálogos e transições dentro das funções aprovadas no outline;
+- ajustes finos de extensão de capítulos quando a unidade dramática justificar.

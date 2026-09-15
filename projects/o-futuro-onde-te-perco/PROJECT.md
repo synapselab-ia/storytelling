@@ -25,7 +25,7 @@ Henrique tende a confundir cuidado com intervenção e controle. Lívia tende a 
 
 ## Regra de desenvolvimento
 
-Nenhuma nova ideia levantada em brainstorm vira canon automaticamente. Hipóteses permanecem em `story/DECISIONS_PENDING.md` até serem escolhidas explicitamente e transferidas para `canon/` ou para o outline aprovado.
+Nenhuma nova ideia levantada em brainstorm vira canon automaticamente. Hipóteses permanecem em `story/DECISIONS_PENDING.md` até serem escolhidas explicitamente e transferidas para `canon/`, `story/` ou `editorial/` conforme sua natureza.
 
 ## Arquivos essenciais
 
@@ -40,6 +40,9 @@ Antes de trabalhar neste projeto, leia:
 7. `story/ROMANCE_ARC.md`
 8. `story/NARRATIVE_FORM.md`
 9. `story/REVEAL_MAP.md`
-10. `story/DECISIONS_PENDING.md`
+10. `story/DREAM_MAP.md`
+11. `editorial/STYLE_EXAMPLES.md`
+12. `editorial/INTIMACY_AND_SCALE.md`
+13. `story/DECISIONS_PENDING.md`
 
 Quando personagens e fatos forem formalizados em dados estruturados, esses arquivos terão precedência conforme as regras globais do repositório.

@@ -1,120 +1,152 @@
 # Outline macro atual
 
-> Estrutura provisória. Serve como direção aprovada, não como outline fechado por capítulos.
+> Estrutura provisória aprovada em alto nível. Serve como direção para o outline por capítulos, não como manuscrito nem como divisão fechada de cenas.
 
-## Ato 1 — A mulher sem rosto
+## Ato 1 - A mulher sem rosto
 
 - Pouco antes ou no início do romance, Lívia envia a candidatura para a residência coreográfica que mais tarde será importante para sua trajetória profissional.
 - Na mesma noite da candidatura, ou imediatamente em torno desse ponto, Henrique tem o primeiro sonho relevante com a mulher sem rosto. Nenhum dos dois sabe que esses acontecimentos estão conectados.
 - O gatilho sobrenatural não significa que a candidatura condene Lívia: ela apenas torna concretamente alcançável uma linha de futuro emocionalmente extrema que passa a ecoar para trás.
-- Henrique passa a sofrer com sonhos recorrentes e tenta racionalizar o fenômeno por sua formação médica.
+- Henrique tenta racionalizar os sonhos por sua formação médica e pela lógica de estresse, sono e funcionamento cerebral.
 - A relação hostil entre Henrique e Lívia é estabelecida no presente.
 - Antes do acidente já existia implicância real entre os dois, ligada em parte à tendência histórica de Henrique de assumir responsabilidade/opinar sobre risco e à resistência de Lívia a ser administrada. Não existe paixão juvenil secreta reescrita retroativamente.
 - O acidente antigo é conhecido apenas pela versão parcial de Henrique.
-- Os sonhos começam a trazer detalhes novos e repetíveis.
+- DREAM_001 apresenta a crise futura extrema sem identidade, método ou causalidade explícita.
+- DREAM_002 introduz intimidade impossível e fragmentos do gesto corporal de Lívia.
 - Pequenas coincidências entre a mulher dos sonhos e Lívia surgem.
 - A primeira mudança de Henrique não é paixão assumida, mas atenção involuntária: voz, gestos, movimento e hábitos de Lívia passam a produzir familiaridade impossível.
 
-## Ato 2 — Reconhecimento
+## Ato 2 - Reconhecimento
 
 - Henrique começa a suspeitar que os detalhes não são simples projeções.
-- Parte da reclassificação emocional ocorre quando ele vê Lívia em seu trabalho de professora/coreógrafa e passa a perceber sua competência adulta fora da narrativa do acidente.
+- Parte da reclassificação emocional ocorre quando ele vê Lívia trabalhando como professora/coreógrafa e percebe sua competência adulta fora da narrativa do acidente.
 - Lívia também volta a enxergar aspectos de Henrique fora do papel de juiz do acidente por meio da convivência cotidiana/social mediada por Tomás.
-- A confirmação da identidade deve acontecer por meio da dança/movimento.
-- Por volta de 25–30%, Henrique percebe que a mulher que vê no futuro é justamente Lívia.
+- A confirmação da identidade acontece por meio da dança/movimento.
+- Por volta de 25-30%, DREAM_003 apresenta o gesto corporal de forma reconhecível e Henrique vê Lívia repeti-lo acordada enquanto trabalha com um aluno.
+- Henrique percebe que a mulher que vê no futuro é Lívia.
 - Sua reação inicial é resistência e racionalização, não aceitação romântica de destino.
-- A identidade não é o mistério final; a pergunta passa a ser: por que ele vê esse futuro e o que leva até ele?
-- Quando mais tarde surgir a informação de que a candidatura ocorreu praticamente no mesmo momento em que os sonhos começaram, Henrique pode interpretar isso como prova de que a residência é a causa do futuro sombrio. Essa conclusão é apenas parcialmente correta: a candidatura abriu uma trajetória causal possível, mas a residência não é a causa única nem direta da crise.
-- Essa leitura deve permanecer claramente como **inferência imperfeita de Henrique**, não como afirmação metafísica do narrador ou regra canônica do vínculo.
+- A identidade deixa de ser o mistério central; a pergunta passa a ser que futuro é esse, por que ele o vê e o que conduz até ele.
+- A informação de que a candidatura ocorreu praticamente no mesmo momento em que os sonhos começaram só ganha peso causal mais tarde, conforme a residência se concretiza.
+- A leitura causal de Henrique permanece explicitamente imperfeita: a candidatura abriu uma trajetória possível, mas a residência não é causa única nem direta da crise.
 
-## Ato 3 — Aproximação, confiança e ameaça percebida
+## Ato 3 - Aproximação, confiança e ameaça percebida
 
 - Henrique passa a observar Lívia sob nova perspectiva; Lívia percebe a mudança e desconfia.
-- A hostilidade permanece enquanto surgem desejo, curiosidade e intimidade. A atração não apaga ressentimento nem funciona como perdão automático.
-- O romance precisa ser construído por ações e conhecimento real no presente, não pelo destino.
-- Aproximadamente na faixa de 35–40%, Lívia descobre os sonhos ao confrontar Henrique sobre seu comportamento/reação a detalhes que envolvem ela. A circunstância exata continua aberta.
-- Eles constroem um pacto explícito: se os sonhos dizem respeito à vida de Lívia, Henrique fala com ela e não usa Tomás, família ou terceiros para administrar as decisões dela.
-- **Tomás permanece sem saber dos sonhos neste estágio.** A informação onírica passa a fazer parte de um espaço de confiança específico entre Henrique e Lívia.
+- A hostilidade permanece enquanto surgem desejo, curiosidade e intimidade. Atração não apaga ressentimento nem funciona como perdão automático.
+- O romance é construído por ações, convivência e conhecimento real no presente, não pela existência dos sonhos.
+- DREAM_004, aproximadamente em 35-45%, introduz uma ou duas pistas concretas da futura residência sem transformar a sequência em catálogo.
+- Aproximadamente em 35-40%, Lívia descobre os sonhos ao confrontar Henrique sobre seu comportamento/reação a detalhes que envolvem ela.
+- Eles constroem um pacto explícito: se os sonhos dizem respeito à vida de Lívia, Henrique fala com ela e não usa Tomás, família ou terceiros para administrar suas decisões.
+- **Tomás permanece sem saber dos sonhos neste estágio.**
 - Henrique passa a separar, ao menos temporariamente, o que efetivamente viu nos sonhos do que apenas infere sobre eles.
 - Antes de conhecer a verdade completa do acidente, Henrique pede desculpas por ter barrado Lívia do hospital. Ele reconhece que a responsabilidade dela pelo acidente, mesmo na versão que ainda acredita, não lhe dava direito de decidir quem Tomás podia receber enquanto estava incapaz de decidir.
-- O pedido de desculpas não resolve seis anos de ressentimento nem exige perdão imediato; ele funciona como primeiro grande ato de confiança e responsabilização.
-- O primeiro beijo ocorre aproximadamente na faixa de 45–50%, em contexto de desejo/proximidade escolhida e não como descarga após pesadelo, crise física, discussão grave ou medo de morte.
+- O pedido de desculpas não resolve seis anos de ressentimento nem exige perdão imediato.
+- O primeiro beijo ocorre aproximadamente em 45-50%, em contexto de desejo/proximidade escolhida, não como descarga após pesadelo, crise física, discussão grave ou medo de morte.
 - O beijo complica a relação e não resolve automaticamente ressentimento ou confiança.
-- Aproximadamente entre 50–60%, os dois deixam de tratar a aproximação como acidente isolado e escolhem tentar uma relação real.
-- Lívia recebe a oportunidade profissional importante: residência coreográfica de aproximadamente três meses em São Paulo, ligada a instituição fictícia respeitada, para desenvolver uma peça original com bailarinos e apresentá-la ao final.
-- A primeira reação de Henrique à conquista deve incluir felicidade genuína pelo crescimento profissional dela, sem reduzir imediatamente a notícia aos próprios medos ou sonhos.
-- A relação já existe de modo emocionalmente real antes do início da residência, para que a ruptura posterior represente perda concreta de confiança.
-- A oportunidade representa crescimento genuíno da carreira atual de ensino/coreografia, não tentativa de recuperar integralmente a trajetória de performance anterior ao acidente.
+- Lívia recebe a confirmação de que foi selecionada para o Programa Aresta de Criação Coreográfica e aceita a oportunidade.
+- A primeira reação de Henrique inclui felicidade genuína pela conquista profissional dela.
+- DREAM_005, aproximadamente em 50-60%, mostra exaustão, trabalho acumulado, isolamento ou falhas de comunicação em contexto cada vez mais reconhecível da residência.
+- Henrique descobre que a candidatura foi enviada praticamente quando os sonhos começaram e endurece a inferência de que a residência conduz ao futuro sombrio.
+- Aproximadamente entre 50-60%, Henrique e Lívia deixam de tratar a aproximação como acidente isolado e escolhem tentar uma relação real.
+- A relação já existe de modo emocionalmente real antes do início físico da residência, para que a ruptura posterior represente perda concreta de confiança.
 - Próximo ao início da residência, o tornozelo lesionado volta a apresentar dor e limitação por aumento de carga. A avaliação permite que Lívia siga com o projeto, desde que administre carga, mantenha tratamento e aceite adaptações.
 - Ela tende a esconder a extensão da dor porque associa vulnerabilidade à possibilidade de outras pessoas tomarem decisões por ela.
 - Nesse estágio, ela já sabe dos sonhos e estabeleceu explicitamente que eles não dão a Henrique autoridade sobre suas decisões.
-- Elementos concretos da residência começam a reaparecer nos sonhos de forma fragmentária. Henrique passa a inferir que a residência conduz ao futuro sombrio, embora os sonhos não tenham fornecido essa explicação causal.
+- A viagem para São Paulo e o início físico da residência encerram o Ato 3 ou abrem a transição para o Ato 4.
 
-## Ato 4 — Controle, quebra de confiança e profecia autorrealizável
+## Ato 4 - Controle, quebra de confiança e profecia autorrealizável
 
 - Henrique passa a usar os sonhos como tentativa de mapear riscos e evitar acontecimentos.
-- Uma piora de dor durante a residência e a percepção de que Lívia está minimizando o problema intensificam o medo dele.
+- Distância, piora de dor e sinais de que Lívia está minimizando o problema intensificam o medo dele.
 - Mesmo tendo razões plausíveis para acreditar que o risco está aumentando, Henrique escolhe violar o pacto construído no Ato 3.
-- Ele compartilha com Tomás informação sobre a evolução dos sonhos e sobre a condição de Lívia e tenta recrutá-lo para interferir na decisão profissional dela.
-- **Essa é a primeira vez que Tomás descobre a existência dos sonhos.** A quebra é mais grave porque Henrique abre a um terceiro informação que Lívia havia aceitado manter dentro do pacto entre os dois.
+- Ele compartilha com Tomás informação sobre os sonhos e sobre a condição de Lívia e tenta recrutá-lo para interferir na decisão profissional dela.
+- **Essa é a primeira vez que Tomás descobre a existência dos sonhos.**
 - A falha não é sentir medo nem buscar apoio emocional para si; é transformar informação confiada por Lívia em instrumento de intervenção sobre ela.
 - Tomás, assustado, tenta convencê-la a interromper a residência ou voltar para Belo Horizonte.
 - Para Lívia, a quebra de confiança repete emocionalmente a ferida do hospital: mais uma vez alguém decide que o medo lhe concede autoridade sobre escolhas que pertencem a ela.
 - Lívia rompe de forma inequívoca a relação com Henrique e entra em conflito sério com Tomás.
-- Henrique não deve perseguir Lívia, viajar para São Paulo sem consentimento ou justificar a violação com uma lógica de “fiz porque amo você”.
-- O comportamento controlador de Henrique não deve ser tratado como prova romântica de amor; ele é parte efetiva da cadeia causal que aumenta isolamento e ocultação.
-- A protagonista continua a residência tanto porque deseja genuinamente concluí-la quanto porque desistir naquele momento passa a parecer uma capitulação diante da intervenção dos dois.
-- Em vez de pedir ajuda, ela esconde dor, exaustão e dificuldades profissionais, reduz contato com sua rede de apoio e tenta compensar trabalhando mais.
-- A carga torna-se insustentável. Ela precisa reduzir participação física, delegar partes do processo e adaptar o projeto.
-- Essa adaptação não destrói sua carreira, mas atinge um ponto vulnerável: ela sente que o corpo está novamente alterando um caminho que havia escolhido.
-- Depois da ruptura, a primeira prova de mudança de Henrique é contenção: respeitar o espaço pedido, não usar Tomás, Bia, Camila ou a família para monitorar Lívia indiretamente e não transformar falta de acesso em investigação paralela.
-- Se houver nova informação onírica relevante sem emergência concreta, Henrique deve oferecer a Lívia a escolha de recebê-la em vez de usar o sonho como autorização para agir.
-- Muitas tentativas menores de alterar o que ele vê podem falhar em modificar os sonhos perceptivelmente, reforçando temporariamente a impressão de destino inevitável.
+- Henrique não a persegue, não viaja para São Paulo sem consentimento e não usa amor como justificativa para a violação.
+- O comportamento controlador de Henrique é parte efetiva da cadeia causal que aumenta isolamento e ocultação, não prova romântica de amor.
+- Lívia continua a residência porque deseja genuinamente concluí-la e porque, naquele estado, desistir passa também a parecer capitulação diante da intervenção dos dois.
+- Em vez de construir apoio sustentável, ela esconde mais dor, exaustão e dificuldades profissionais e tenta compensar trabalhando mais.
+- A sobrecarga força **ajustes reativos e mínimos**: reduzir algumas demonstrações, poupar o corpo em pontos específicos ou reorganizar tarefas sem admitir ainda a extensão do problema nem compartilhar autoridade sobre o trabalho.
+- Esses ajustes não equivalem à escolha autônoma e estrutural que antecede DREAM_007.
+- DREAM_006, aproximadamente em 65-75%, incorpora consequência direta da quebra do pacto: Henrique ouve a voz de Tomás pedindo que Lívia volte para Belo Horizonte.
+- Henrique percebe que uma ação tomada para evitar o futuro produziu uma peça que já aparecia nele.
+- Depois da ruptura, a primeira prova de mudança de Henrique é contenção: respeitar o espaço pedido, não usar Tomás, Bia, Camila ou a família para monitorar Lívia e não transformar falta de acesso em investigação paralela.
+- Se houver nova informação onírica relevante sem emergência concreta, Henrique oferece a Lívia a escolha de recebê-la em vez de usar o sonho como autorização para agir.
 
-## Ato 5 — Verdade do acidente e colapso da estratégia de silêncio
+### Regra de POV depois da ruptura
+
+Como o romance permanece no POV de Henrique, o leitor não acompanha secretamente a vida de Lívia em São Paulo por um POV oculto nem por espionagem indireta.
+
+Depois da ruptura, informações sobre ela podem chegar legitimamente por:
+
+- contato direto que Lívia escolha manter ou iniciar;
+- informação que Tomás compartilhe sobre o próprio conflito, sem Henrique interrogá-lo para monitorá-la;
+- elementos públicos/profissionais que Henrique encontraria sem invasão;
+- os próprios sonhos, sempre distinguindo imagem onírica de fato presente;
+- revelação posterior feita por Lívia sobre escolhas que Henrique não presenciou.
+
+A falta de acesso de Henrique é parte da prova de contenção e não deve ser burlada pela estrutura narrativa.
+
+## Ato 5 - Verdade do acidente e colapso da estratégia de silêncio
 
 - O mistério do futuro se conecta ao passado não resolvido.
-- A investigação emocional/narrativa força os três a revisitar o acidente.
-- Tomás revela sua participação causal ao agarrar o volante e admite que permitiu que Lívia carregasse culpa excessiva durante seis anos.
-- **Henrique e o leitor descobrem essa informação juntos** por limitação legítima do POV; pistas anteriores podem existir como culpa, defesa de Lívia e desconforto de Tomás, mas não como confirmação objetiva antecipada.
+- O conflito entre os três força uma revisão do acidente.
+- Aproximadamente em 75-85%, Tomás revela sua participação causal ao agarrar o volante e admite que permitiu que Lívia carregasse culpa excessiva durante seis anos.
+- **Henrique e o leitor descobrem essa informação juntos** por limitação legítima do POV.
+- Pistas anteriores podem existir como culpa, defesa de Lívia e desconforto de Tomás, mas não como confirmação objetiva antecipada.
 - A revelação não absolve automaticamente ninguém: Lívia dirigia rápido demais para as condições e tinha responsabilidade real pelo risco.
 - Henrique confronta anos de julgamento e crueldade baseados em informação incompleta.
-- Lívia confronta o custo de ter protegido Tomás através do silêncio.
+- Lívia confronta o custo de ter protegido Tomás por silêncio.
 - Tomás confronta as consequências de ter deixado a versão incompleta persistir.
-- O pedido de desculpas anterior de Henrique pelo hospital permanece válido por fundamento próprio: ele já havia reconhecido que não possuía autoridade para excluir Lívia mesmo quando ainda acreditava na versão incompleta.
-- Henrique não deve transformar culpa em autopunição performática que obrigue Lívia a consolá-lo.
-- Como ação reparatória independente do romance, Henrique corrige a narrativa dentro da própria família, deixando claro que Tomás teve participação causal decisiva e que Lívia carregou culpa excessiva. Ele faz isso porque é verdade, não como moeda para reconquistá-la.
-- Para Lívia, essa verdade desmonta a crença de que absorver culpa e sofrimento em silêncio protege as pessoas ao redor.
-- A verdade chega quando ela já está fisicamente sobrecarregada, emocionalmente isolada, em conflito com os dois homens mais ligados ao acidente e tentando manter uma oportunidade profissional sob condições cada vez mais difíceis.
-- A crise futura não possui causa única. Ela emerge da convergência de dor física, privação de sono, exaustão, isolamento autoimposto, perda temporária de capacidade/controle profissional, ruptura afetiva, quebra de confiança com Tomás, vergonha de admitir que não está conseguindo funcionar e sensação de que escolhas importantes de sua vida são continuamente julgadas ou apropriadas por outras pessoas.
-- Essa convergência leva à crise suicida aguda vista nos sonhos. A crise não deve apagar a vida, humor, competência, trabalho, relações ou agência que Lívia demonstrou antes dela.
+- O pedido de desculpas anterior de Henrique pelo hospital permanece válido por fundamento próprio.
+- Henrique não transforma culpa em autopunição performática que obrigue Lívia a consolá-lo.
+- Como ação reparatória independente do romance, Henrique corrige a narrativa dentro da própria família, deixando claro que Tomás teve participação causal decisiva e que Lívia carregou culpa excessiva.
+- Para Lívia, a verdade desmonta a crença de que absorver culpa e sofrimento em silêncio protege as pessoas ao redor.
+- Nesse estágio, a linha sombria está causalmente próxima: dor física, privação de sono, exaustão, isolamento, perda de controle profissional, ruptura afetiva, quebra de confiança com Tomás, vergonha e sensação de apropriação das próprias escolhas já convergiram.
+- **Se esses padrões permanecessem inalterados, essa convergência levaria à crise suicida aguda vista nos sonhos.** A linha presente ainda pode bifurcar antes de reproduzir integralmente o antigo desfecho.
 
-## Ato 6 — Quebra da cadeia causal e reconciliação
+## Ato 6 - Divergência, mudança sob pressão e reconciliação
 
 - Henrique percebe que interpretou a cadeia de forma simplista: a residência não é a causa do futuro sombrio.
 - A cadeia real é formada por medo de vulnerabilidade → ocultação → medo dele → controle/intervenção → mais ocultação → isolamento → sobrecarga → rupturas → crise.
-- Tentar impedir a residência, portanto, não quebra o futuro; em algumas linhas possíveis, ajuda a construí-lo.
-- Lívia precisa chegar ao mesmo tipo de ponto de bifurcação e agir de modo diferente de seu padrão habitual.
-- **Antes de DREAM_007, Lívia realiza por iniciativa própria uma escolha concreta contra o isolamento sem que Henrique necessariamente a presencie ou compreenda naquele momento.** Pode procurar Bia, aceitar redistribuição de carga, pedir ajuda ou realizar ação funcionalmente equivalente.
-- DREAM_007 então apresenta uma divergência perceptível **antes de Henrique saber com certeza o que Lívia mudou**, impedindo que ele atribua honestamente a alteração do futuro ao próprio controle.
-- Quando ele descobre posteriormente a escolha de Lívia, fica claro para ele e para o leitor que ela já estava rompendo sua metade da cadeia causal por agência própria.
-- Ela mantém a decisão profissional como sua — inclusive podendo continuar ou retornar para concluir a residência — mas admite que não consegue sustentar tudo sozinha.
-- Ela aceita tratamento, fisioterapia, redistribuição de carga, delegação profissional e apoio emocional sem entregar a terceiros a autoridade sobre sua decisão.
-- Henrique precisa demonstrar mudança **sob pressão**, não apenas declarar que mudou. Diante de medo real, ele deve perguntar do que Lívia precisa e conseguir respeitar a resposta, acionando recursos profissionais quando apropriado sem sequestrar a decisão dela.
-- A resolução deve envolver rede de apoio e profissionais apropriados; Henrique não se torna sistema de saúde, único suporte ou salvador.
-- O movimento complementar dos dois é: Lívia aprende que autonomia não exige isolamento; Henrique aprende que cuidado não concede autoridade.
-- A cadeia causal muda porque Henrique sente medo sem transformar medo em autoridade e Lívia sente vulnerabilidade sem transformar vulnerabilidade em isolamento.
-- A reconciliação romântica não precisa ocorrer imediatamente após a primeira evidência de mudança. Deve existir espaço para consequências, conversa e escolha fora do pico da crise.
-- A retomada da relação acontece porque o comportamento de Henrique já respondeu à questão central — o que ele faz quando tem medo — e porque Lívia também escolheu permitir apoio sem abrir mão de agência.
+- Tentar impedir a residência não quebra o futuro; em algumas linhas possíveis, ajuda a construí-lo.
+- Antes de DREAM_007, Lívia toma por iniciativa própria uma decisão concreta contra o isolamento **sem Henrique presente e antes de ele saber que ela tomou essa decisão**.
+- Versão líder aprovada: ela procura Bia, admite a extensão real da sobrecarga e reconhece que quer concluir o trabalho, mas não consegue concluí-lo daquele modo.
+- Lívia fala com as pessoas apropriadas da residência e negocia redistribuição real de participação física, delegação, carga e tratamento. Bia pode ajudar operacionalmente, mas não decide por ela.
+- DREAM_007, aproximadamente em 80-90%, apresenta uma divergência estrutural antes de Henrique saber o que Lívia mudou.
+- Henrique recebe a primeira evidência clara de que o futuro pode mudar sem poder atribuir honestamente a alteração ao próprio controle.
+- Só depois, por revelação legítima de Lívia, ele e o leitor descobrem a escolha que ela fez.
+- A mudança de Lívia não conclui o arco de Henrique. Ele ainda precisa demonstrar mudança sob medo real.
+- No ponto de bifurcação final, existe uma situação grave o bastante para testar Henrique, mas a resolução não pode convertê-lo em salvador único.
+- Ele pergunta do que Lívia precisa, respeita a resposta e aciona recursos profissionais quando apropriado sem sequestrar a decisão dela.
+- Lívia aceita apoio concreto sem entregar a Henrique autoridade total sobre a própria vida.
+- A resolução envolve rede de apoio e profissionais adequados.
+- A cadeia muda porque Henrique sente medo sem transformar medo em autoridade e Lívia sente vulnerabilidade sem transformar vulnerabilidade em isolamento.
+- A reconciliação romântica não ocorre necessariamente no pico da situação grave. Deve existir espaço para consequências, conversa e escolha posterior.
+- A retomada acontece porque a mudança dos dois já foi demonstrada em comportamento.
+- DREAM_008, aproximadamente em 95-100%, acontece anos mais tarde em um estúdio depois de ensaio. Lívia está viva, mais velha e repete o mesmo gesto corporal que permitiu o reconhecimento no começo.
+- O sonho ultrapassa o antigo ponto terminal e mostra um depois cotidiano, não um futuro perfeito certificado.
 - A relação final é escolhida no presente e se sustenta por conhecimento, reparação, desejo e mudança mútua; o vínculo sobrenatural não é argumento de obrigação romântica.
-- A mudança do futuro onírico deve ocorrer apenas quando essas escolhas alterarem de fato a cadeia causal, não como resposta mecânica a cada pequena decisão do presente.
-- O aprendizado de Henrique sobre o vínculo permanece **prático, não totalizante**: ele entende que os sonhos mostram uma possibilidade alterável, mas não recebe explicação definitiva de origem, propósito ou destino.
 
-## Resolução
+## Restrições de passagem para o outline por capítulos
 
-- Henrique volta a sonhar.
-- O sonho inicialmente parece familiar, mas continua além do ponto em que sempre terminava.
-- Ele vê Lívia mais velha e viva.
-- Pela primeira vez, consegue percebê-la claramente.
-- O sentido é confirmação de possibilidade, não garantia metafísica de felicidade eterna.
-- O romance já foi retomado por escolha e mudança de comportamento antes de o sonho final funcionar como confirmação sobrenatural; o sonho não cria nem valida sozinho a relação.
+A divisão em capítulos deve preservar:
+
+- DREAM_001 em 0-5%;
+- DREAM_002 em 10-15%;
+- DREAM_003 e reconhecimento em 25-30%;
+- revelação dos sonhos para Lívia em 35-40%;
+- pedido de desculpas antes da verdade do volante;
+- primeiro beijo em 45-50%;
+- relação assumida em 50-60% e antes da residência física;
+- DREAM_006 e quebra do pacto em 65-75%;
+- verdade do volante em 75-85%;
+- DREAM_007 em 80-90%, depois da escolha autônoma de Lívia e antes de Henrique conhecê-la;
+- DREAM_008 em 95-100%;
+- Tomás sem conhecimento dos sonhos antes da quebra do pacto;
+- ausência de monitoramento indireto de Lívia depois da ruptura;
+- distinção entre ajustes reativos da sobrecarga e a escolha estrutural contra isolamento;
+- distinção entre a linha sombria possível e a linha presente que começa a divergir.

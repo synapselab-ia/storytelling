@@ -55,12 +55,25 @@ A história deve avançar simultaneamente em pelo menos um destes eixos por cena
 
 Evitar cenas que existam apenas para preencher cotidiano ou repetir uma dinâmica já estabelecida.
 
+## Calibração de voz aprovada
+
+A voz fina está calibrada em `editorial/STYLE_EXAMPLES.md`.
+
+Direção consolidada:
+
+- terceira pessoa muito próxima de Henrique, sem virar primeira pessoa disfarçada;
+- oralidade contemporânea e adulta;
+- frases médias predominantes, com variação real de comprimento;
+- fragmentação curta usada seletivamente para timing, impacto ou desorganização, não como padrão;
+- humor interno seco, baseado em racionalização, irritação, classificação e atrito entre competência e vida pessoal;
+- banter com velocidade e subtexto, mas sem competição contínua de punchlines;
+- atração expressa primeiro como atenção excessiva, competência observada, movimento, hábito e mudança de ritmo;
+- sonhos reconhecivelmente pertencentes ao mesmo livro, porém mais sensoriais, próximos e associativos.
+
 ## Ainda não definido
 
 Ainda precisam ser calibrados antes da prosa definitiva:
 
 - grau exato de explicitude sexual;
 - comprimento médio de capítulos;
-- intensidade de linguagem coloquial da narração;
-- cadência fina da terceira pessoa próxima;
 - detalhes tipográficos das páginas pretas dos sonhos.

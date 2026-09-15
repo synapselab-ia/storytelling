@@ -2,28 +2,19 @@
 
 ## Estado atual
 
-**Fase:** pré-produção / arquitetura narrativa, com outline por capítulos consolidado.
+**Fase:** arquitetura narrativa consolidada, com outline oficial de 40 capítulos e brief do capítulo 1 aprovado.
 
 **Infraestrutura:** projeto consolidado no repositório `storytelling`. Este arquivo é o ponto de retomada entre chats.
 
-Nenhum capítulo definitivo deve ser escrito sem consultar `story/CHAPTER_OUTLINE.md`, mapas de revelação/sonhos e regras editoriais aplicáveis.
+A prosa definitiva deve obedecer `story/CHAPTER_OUTLINE.md`, ao brief aprovado do capítulo correspondente, aos mapas de revelação/sonhos e às regras editoriais aplicáveis.
 
 ## Progresso da sessão mais recente
 
-Foi consolidada a arquitetura de **40 capítulos** em `story/CHAPTER_OUTLINE.md`.
+### Outline por capítulos
 
-A grade foi testada contra:
+A arquitetura de **40 capítulos** está consolidada em `story/CHAPTER_OUTLINE.md`.
 
-- `story/CURRENT_OUTLINE.md`;
-- `story/REVEAL_MAP.md`;
-- `story/DREAM_MAP.md`;
-- `story/ROMANCE_ARC.md`;
-- `story/NARRATIVE_FORM.md`;
-- `story/FUTURE_CAUSAL_CHAIN.md`;
-- `editorial/INTIMACY_AND_SCALE.md`;
-- canon dos três personagens centrais.
-
-### Distribuição aprovada
+Distribuição:
 
 - Ato 1: capítulos 1-7;
 - Ato 2: capítulos 8-12;
@@ -32,54 +23,63 @@ A grade foi testada contra:
 - Ato 5: capítulos 31-34;
 - Ato 6: capítulos 35-40.
 
-### Marcos por capítulo
+Marcos protegidos:
 
 - DREAM_001: cap. 1;
 - DREAM_002: cap. 4;
 - DREAM_003: cap. 10;
-- reconhecimento de Lívia: cap. 11, aproximadamente 27,5%;
+- reconhecimento de Lívia: cap. 11;
 - DREAM_004: cap. 14;
-- Lívia descobre os sonhos + pacto: cap. 15, aproximadamente 37,5%;
+- Lívia descobre os sonhos + pacto: cap. 15;
 - pedido de desculpas pelo hospital: cap. 18;
-- primeiro beijo: cap. 19, aproximadamente 47,5%;
+- primeiro beijo: cap. 19;
 - seleção/aceite do Aresta: cap. 20;
 - DREAM_005 + endurecimento do erro causal: cap. 21;
-- relação assumida: cap. 22, aproximadamente 55%;
+- relação assumida: cap. 22;
 - slot preferencial, não obrigatório, para primeira cena sexual: cap. 23;
 - viagem/início físico da residência: cap. 24;
-- quebra do pacto: cap. 28, aproximadamente 70%;
+- quebra do pacto: cap. 28;
 - ruptura: cap. 29;
 - DREAM_006: cap. 30;
-- verdade do volante: cap. 32, aproximadamente 80%;
-- DREAM_007: cap. 35, aproximadamente 87,5%;
+- verdade do volante: cap. 32;
+- DREAM_007: cap. 35;
 - crise/bifurcação: cap. 37;
 - reconciliação: cap. 39;
 - DREAM_008: cap. 40.
 
-### Guardrails fechados no outline
+### Brief do capítulo 1
 
-- POV único de Henrique continua obrigatório;
+O brief aprovado está em `story/briefs/CHAPTER_01.md`.
+
+Decisões de cena consolidadas:
+
+- o capítulo abre diretamente em DREAM_001, integrado ao capítulo e sem prólogo separado;
+- Lívia não aparece acordada no capítulo 1;
+- a natureza suicida da crise é claramente inferível sem método, ato gráfico, objeto operacional ou instrução;
+- a mulher do sonho usa `Henrique` com familiaridade como primeiro marcador de intimidade impossível;
+- Henrique faz um registro mínimo do sonho ao acordar;
+- o hospital ocupa a maior parte da vigília e demonstra sua competência em calibrar agir, observar e coletar dados;
+- o caso clínico não envolve suicídio nem saúde mental e ainda precisa ser escolhido/pesquisado antes da prosa;
+- o capítulo termina com Henrique conscientemente cético, mas afetivamente preso à sensação de que aquela perda ainda poderia ser evitada;
+- alvo de extensão do capítulo: aproximadamente 3.700-4.300 palavras.
+
+O brief preserva como adaptáveis a redação exata dos diálogos, a paleta sensorial fina e o caso clínico específico.
+
+## Guardrails centrais
+
+- POV único de Henrique Almeida;
+- terceira pessoa limitada, passado, distância próxima;
+- sonhos integrados aos capítulos no mesmo POV/pessoa/tempo, com textura mais sensorial e associativa;
+- inferência de Henrique nunca equivale automaticamente a canon;
 - Tomás não sabe dos sonhos antes do cap. 28;
-- a verdade do volante não é confirmada antes do cap. 32;
+- verdade do volante não é confirmada antes do cap. 32;
 - depois da ruptura, Henrique não monitora Lívia por terceiros;
 - qualquer canal pós-ruptura é direto e escolhido por Lívia;
-- DREAM_007 muda antes de Henrique saber que Lívia procurou Bia e alterou o próprio padrão de isolamento;
-- a presença de Henrique em São Paulo depois da ruptura só pode ocorrer por convite/pedido explícito de Lívia;
+- DREAM_007 muda antes de Henrique saber que Lívia procurou Bia e rompeu seu padrão de isolamento;
+- presença de Henrique em São Paulo depois da ruptura exige convite/pedido explícito de Lívia;
 - cap. 37 preserva crise grave e busca ativa por ajuda sem método, ato gráfico ou resgate unilateral;
 - reconciliação ocorre fora do pico da crise;
 - DREAM_008 confirma possibilidade, não garantia metafísica.
-
-## Forma narrativa
-
-- POV único: Henrique Almeida;
-- terceira pessoa limitada;
-- passado;
-- distância próxima, com variação controlada;
-- sonhos integrados aos capítulos no mesmo POV/pessoa/tempo;
-- sonhos recebem textura mais sensorial e associativa, sem se tornarem outro livro;
-- futura página preta é recurso editorial, não mecanismo narrativo.
-
-Detalhes em `story/NARRATIVE_FORM.md`, `editorial/DREAM_STYLE.md` e `editorial/STYLE_EXAMPLES.md`.
 
 ## Intimidade e escala
 
@@ -149,7 +149,7 @@ A linha presente diverge quando Lívia rompe o isolamento por iniciativa própri
 
 ## Detalhes deliberadamente adaptáveis
 
-O outline oficial permite fechar durante briefs/prosa, sem reabrir a arquitetura:
+Durante briefs/prosa, sem reabrir a arquitetura:
 
 - mecanismo exato que leva Henrique ao Rastro;
 - episódio pré-acidente concreto de paternalismo;
@@ -166,12 +166,12 @@ O outline oficial permite fechar durante briefs/prosa, sem reabrir a arquitetura
 
 ## Próximo passo recomendado
 
-1. produzir **briefs de cena/capítulo**, começando pelo cap. 1 e avançando em ordem;
-2. em cada brief, registrar objetivo dramático, entrada/saída emocional, conhecimento permitido, revelações proibidas, cenas necessárias e continuidade física/temporal;
-3. validar cada brief contra `story/CHAPTER_OUTLINE.md`, `story/REVEAL_MAP.md`, `story/DREAM_MAP.md` e estilo;
-4. iniciar prosa definitiva somente quando o brief do capítulo correspondente estiver consistente;
-5. manter `STATUS.md` atualizado à medida que capítulos forem aprovados.
+1. antes da prosa do cap. 1, escolher um caso clínico simples que demonstre calibração de risco e pesquisar conduta contemporânea suficiente para evitar erro técnico;
+2. escrever a **prosa definitiva do capítulo 1** seguindo `story/briefs/CHAPTER_01.md` e a calibração de voz;
+3. revisar o capítulo contra `story/REVEAL_MAP.md`, `story/DREAM_MAP.md`, `editorial/DREAM_STYLE.md` e `editorial/STYLE_EXAMPLES.md`;
+4. auditar continuidade e estilo antes de consolidar o manuscrito;
+5. depois, produzir o brief do capítulo 2 e repetir o ciclo em ordem.
 
 ## Regra para retomada em outro chat
 
-Leia `PROJECT.md`, este `STATUS.md` e `story/CHAPTER_OUTLINE.md`. Não recomece da premissa nem refaça a arquitetura já consolidada sem nova decisão explícita.
+Leia `PROJECT.md`, este `STATUS.md`, `story/CHAPTER_OUTLINE.md` e, para o capítulo em execução, o brief correspondente em `story/briefs/`. Não recomece da premissa nem refaça a arquitetura consolidada sem nova decisão explícita.

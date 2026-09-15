@@ -4,4 +4,4 @@
 >
 > Fonte oficial atual: `story/briefs/CHAPTER_01.md`.
 
-O conteúdo abaixo registra a versão de trabalho que antecedeu a promoção para o brief oficial.
+O conteúdo detalhado foi removido deste snapshot para evitar duplicação divergente da fonte oficial.

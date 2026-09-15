@@ -46,4 +46,6 @@ Antes de trabalhar neste projeto, leia:
 13. `editorial/INTIMACY_AND_SCALE.md`
 14. `story/DECISIONS_PENDING.md`
 
+Ao trabalhar em um capítulo que já possui brief aprovado, leia também o arquivo correspondente em `story/briefs/CHAPTER_NN.md` antes de produzir ou revisar prosa.
+
 Quando personagens e fatos forem formalizados em dados estruturados, esses arquivos terão precedência conforme as regras globais do repositório.

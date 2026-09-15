@@ -10,6 +10,7 @@ Antes de escrever, revisar ou expandir qualquer cena do manuscrito, carregar tam
 4. `editorial/ROMANCE_STYLE.md`
 5. `editorial/DREAM_STYLE.md` quando houver sonho, eco ou reconhecimento ligado aos sonhos
 6. `editorial/FORBIDDEN_PATTERNS.md`
+7. `editorial/STYLE_EXAMPLES.md`
 
 Os caminhos acima são relativos à raiz do projeto `projects/o-futuro-onde-te-perco/`.
 

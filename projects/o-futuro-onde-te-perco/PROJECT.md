@@ -37,12 +37,13 @@ Antes de trabalhar neste projeto, leia:
 4. `canon/SETTING.md`
 5. `story/PREMISE.md`
 6. `story/CURRENT_OUTLINE.md`
-7. `story/ROMANCE_ARC.md`
-8. `story/NARRATIVE_FORM.md`
-9. `story/REVEAL_MAP.md`
-10. `story/DREAM_MAP.md`
-11. `editorial/STYLE_EXAMPLES.md`
-12. `editorial/INTIMACY_AND_SCALE.md`
-13. `story/DECISIONS_PENDING.md`
+7. `story/CHAPTER_OUTLINE.md`
+8. `story/ROMANCE_ARC.md`
+9. `story/NARRATIVE_FORM.md`
+10. `story/REVEAL_MAP.md`
+11. `story/DREAM_MAP.md`
+12. `editorial/STYLE_EXAMPLES.md`
+13. `editorial/INTIMACY_AND_SCALE.md`
+14. `story/DECISIONS_PENDING.md`
 
 Quando personagens e fatos forem formalizados em dados estruturados, esses arquivos terão precedência conforme as regras globais do repositório.

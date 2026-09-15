@@ -2,185 +2,176 @@
 
 ## Estado atual
 
-**Fase:** pré-produção / arquitetura narrativa, pronta para outline por capítulos.
+**Fase:** pré-produção / arquitetura narrativa, com outline por capítulos consolidado.
 
 **Infraestrutura:** projeto consolidado no repositório `storytelling`. Este arquivo é o ponto de retomada entre chats.
 
-Nenhum capítulo definitivo deve ser escrito ainda.
-
-Já possuem direção aprovada:
-
-- premissa e núcleo dramático;
-- acidente e versão incompleta conhecida por Henrique;
-- regras sobrenaturais;
-- cadeia causal do futuro sombrio;
-- oito sonhos estruturais e motivos concretos principais;
-- mapa de revelações;
-- arco romântico;
-- POV, pessoa, tempo e distância narrativa;
-- setting e camada cotidiana necessária de Henrique, Lívia e Tomás;
-- voz, cadência e estilo dos sonhos;
-- grau de explicitude sexual;
-- escala aproximada dos capítulos;
-- outline macro revisado contra causalidade, POV, sonhos e revelações.
+Nenhum capítulo definitivo deve ser escrito sem consultar `story/CHAPTER_OUTLINE.md`, mapas de revelação/sonhos e regras editoriais aplicáveis.
 
 ## Progresso da sessão mais recente
 
-### Intimidade e escala editorial
+Foi consolidada a arquitetura de **40 capítulos** em `story/CHAPTER_OUTLINE.md`.
+
+A grade foi testada contra:
+
+- `story/CURRENT_OUTLINE.md`;
+- `story/REVEAL_MAP.md`;
+- `story/DREAM_MAP.md`;
+- `story/ROMANCE_ARC.md`;
+- `story/NARRATIVE_FORM.md`;
+- `story/FUTURE_CAUSAL_CHAIN.md`;
+- `editorial/INTIMACY_AND_SCALE.md`;
+- canon dos três personagens centrais.
+
+### Distribuição aprovada
+
+- Ato 1: capítulos 1-7;
+- Ato 2: capítulos 8-12;
+- Ato 3: capítulos 13-24;
+- Ato 4: capítulos 25-30;
+- Ato 5: capítulos 31-34;
+- Ato 6: capítulos 35-40.
+
+### Marcos por capítulo
+
+- DREAM_001: cap. 1;
+- DREAM_002: cap. 4;
+- DREAM_003: cap. 10;
+- reconhecimento de Lívia: cap. 11, aproximadamente 27,5%;
+- DREAM_004: cap. 14;
+- Lívia descobre os sonhos + pacto: cap. 15, aproximadamente 37,5%;
+- pedido de desculpas pelo hospital: cap. 18;
+- primeiro beijo: cap. 19, aproximadamente 47,5%;
+- seleção/aceite do Aresta: cap. 20;
+- DREAM_005 + endurecimento do erro causal: cap. 21;
+- relação assumida: cap. 22, aproximadamente 55%;
+- slot preferencial, não obrigatório, para primeira cena sexual: cap. 23;
+- viagem/início físico da residência: cap. 24;
+- quebra do pacto: cap. 28, aproximadamente 70%;
+- ruptura: cap. 29;
+- DREAM_006: cap. 30;
+- verdade do volante: cap. 32, aproximadamente 80%;
+- DREAM_007: cap. 35, aproximadamente 87,5%;
+- crise/bifurcação: cap. 37;
+- reconciliação: cap. 39;
+- DREAM_008: cap. 40.
+
+### Guardrails fechados no outline
+
+- POV único de Henrique continua obrigatório;
+- Tomás não sabe dos sonhos antes do cap. 28;
+- a verdade do volante não é confirmada antes do cap. 32;
+- depois da ruptura, Henrique não monitora Lívia por terceiros;
+- qualquer canal pós-ruptura é direto e escolhido por Lívia;
+- DREAM_007 muda antes de Henrique saber que Lívia procurou Bia e alterou o próprio padrão de isolamento;
+- a presença de Henrique em São Paulo depois da ruptura só pode ocorrer por convite/pedido explícito de Lívia;
+- cap. 37 preserva crise grave e busca ativa por ajuda sem método, ato gráfico ou resgate unilateral;
+- reconciliação ocorre fora do pico da crise;
+- DREAM_008 confirma possibilidade, não garantia metafísica.
+
+## Forma narrativa
+
+- POV único: Henrique Almeida;
+- terceira pessoa limitada;
+- passado;
+- distância próxima, com variação controlada;
+- sonhos integrados aos capítulos no mesmo POV/pessoa/tempo;
+- sonhos recebem textura mais sensorial e associativa, sem se tornarem outro livro;
+- futura página preta é recurso editorial, não mecanismo narrativo.
+
+Detalhes em `story/NARRATIVE_FORM.md`, `editorial/DREAM_STYLE.md` e `editorial/STYLE_EXAMPLES.md`.
+
+## Intimidade e escala
 
 Consolidado em `editorial/INTIMACY_AND_SCALE.md`:
 
 - open door moderado;
-- cenas íntimas podem permanecer em página e ser claramente sexuais sem migrar para registro de erotica;
+- sexo em página pode ser inequívoco sem migrar para erotica;
 - foco em desejo, confiança, vulnerabilidade, familiaridade e função relacional;
-- sem número obrigatório de cenas sexuais;
-- média de trabalho de aproximadamente 3.800 palavras por capítulo;
+- média de referência de aproximadamente 3.800 palavras por capítulo;
 - faixa típica de 3.000 a 4.800 palavras, com exceções justificadas;
-- hipótese inicial de 38 a 42 capítulos, sem quota rígida;
-- expectativa aproximada de 145 a 160 mil palavras se a média se sustentar.
-
-### Revisão do outline macro
-
-`story/CURRENT_OUTLINE.md` e `story/FUTURE_CAUSAL_CHAIN.md` foram revisados por consistência antes da quebra em capítulos.
-
-Correções consolidadas:
-
-- distinção explícita entre **linha sombria possível** e **linha presente que começa a divergir**;
-- a crise suicida vista nos sonhos deixa de ser formulada como desfecho inevitável da linha presente;
-- ajustes físicos/profissionais do Ato 4 passam a ser reativos e mínimos, sem duplicar a escolha autônoma que antecede DREAM_007;
-- DREAM_007 preserva sua função como primeira divergência estrutural que Henrique não pode atribuir ao próprio controle;
-- depois da ruptura, a limitação de POV não pode ser burlada por monitoramento indireto de Lívia através de Tomás, Bia, Camila ou família;
-- informação sobre Lívia durante esse período precisa chegar por contato legítimo, material público, sonhos ou revelação posterior escolhida por ela;
-- as janelas protegidas de reconhecimento, revelação dos sonhos, beijo, relação assumida, quebra do pacto, verdade do volante e DREAM_007-008 permanecem inalteradas.
-
-A auditoria narrativa automática passou após as correções.
-
-## Forma narrativa
-
-- POV único de Henrique Almeida;
-- terceira pessoa limitada;
-- passado;
-- distância próxima, com variação controlada;
-- sem capítulos principais em POV de Lívia ou Tomás;
-- inferência de Henrique não equivale a canon;
-- ausência de POV de Lívia não reduz sua agência.
-
-Os sonhos permanecem no mesmo POV, pessoa e tempo verbal, com linguagem mais sensorial, próxima e associativa. Na futura diagramação terão tratamento visual de página preta, mas o texto não pode depender desse recurso para ser compreensível.
-
-Detalhes em `story/NARRATIVE_FORM.md`, `editorial/DREAM_STYLE.md` e `editorial/STYLE_EXAMPLES.md`.
+- 40 capítulos é a baseline atual, não obrigação imutável se a execução demonstrar necessidade estrutural real.
 
 ## Núcleo central
 
-- Henrique Almeida, 37 anos, médico de emergência experiente, irmão mais velho de Tomás;
-- Lívia Sampaio, 34 anos, professora de dança contemporânea/composição e coreógrafa freelancer, melhor amiga de Tomás desde a infância;
-- Tomás Almeida, 34 anos, arquiteto coordenador de projetos, irmão mais novo de Henrique e melhor amigo de Lívia.
+- **Henrique Almeida**, 37 anos, emergencista sênior em Belo Horizonte;
+- **Lívia Sampaio**, 34 anos, professora de dança contemporânea/composição e coreógrafa freelancer;
+- **Tomás Almeida**, 34 anos, arquiteto coordenador de projetos e melhor amigo de Lívia desde a infância.
 
-## Setting e cotidiano
+## Setting
 
-- cidade-base: Belo Horizonte, Minas Gerais;
-- residência coreográfica: São Paulo, São Paulo, por aproximadamente doze semanas;
+- Belo Horizonte é a cidade-base;
+- São Paulo recebe a residência de aproximadamente doze semanas;
 - Henrique trabalha no Hospital Metropolitano do Horizonte e mora no Santo Agostinho;
-- Lívia trabalha no Rastro - Espaço de Dança e Criação e mora em Santa Tereza;
-- a residência acontece no Centro Aresta de Artes do Movimento, pelo Programa Aresta de Criação Coreográfica;
+- Lívia trabalha no Rastro e mora em Santa Tereza;
+- residência no Centro Aresta de Artes do Movimento / Programa Aresta de Criação Coreográfica;
 - Tomás trabalha na Quadrante 27 Arquitetura e mora no Funcionários;
 - Camila Nogueira é a principal amizade profissional de Henrique;
 - Beatriz "Bia" Faria é a principal amizade adulta/profissional de Lívia fora do núcleo histórico.
 
-Detalhes em `canon/SETTING.md` e `canon/characters/`.
-
-## Acidente e revelação protegida
+## Acidente e revelação
 
 O acidente ocorreu seis anos antes.
 
 - Lívia dirigia rápido demais para a pista molhada e tinha responsabilidade real pelo risco;
-- Tomás, passageiro, entrou em pânico e agarrou o volante, tendo participação causal decisiva na perda de controle;
+- Tomás agarrou o volante em pânico e teve participação causal decisiva;
 - Lívia omitiu essa interferência;
-- Tomás depois permitiu que a versão incompleta persistisse;
-- Henrique passou seis anos acreditando que Lívia quase matou o irmão por culpa essencialmente dela;
-- enquanto Tomás estava incapaz de decidir, Henrique pressionou família/equipe para impedir a visita de Lívia.
-
-Henrique e leitor descobrem juntos a verdade do volante aproximadamente em 75-85%.
+- Tomás permitiu que a versão incompleta persistisse;
+- Henrique excluiu Lívia do hospital enquanto Tomás não podia decidir;
+- Henrique e leitor descobrem juntos a verdade completa no cap. 32.
 
 Detalhes em `canon/ACCIDENT.md` e `story/REVEAL_MAP.md`.
 
-## Sobrenatural e sonhos
+## Sobrenatural e cadeia causal
 
-Os sonhos mostram um futuro possível, não inevitável.
+Os sonhos mostram futuro possível, não inevitável.
 
-A candidatura de Lívia à residência torna a linha sombria causalmente alcançável e coincide com o início dos sonhos, mas a residência não é a causa única nem direta da crise.
+A candidatura ao Aresta torna a linha sombria alcançável e coincide com o início dos sonhos, mas a residência não causa sozinha a crise.
 
-Progressão funcional:
-
-`terror → intimidade → identidade → investigação → erro causal → profecia autorrealizável → divergência → possibilidade`
-
-Pontos protegidos:
-
-- DREAM_001 em 0-5%, com crise suicida claramente inferível sem método ou imagem gráfica explícita;
-- DREAM_002 em 10-15%, plantando fragmentos do gesto corporal;
-- DREAM_003 e reconhecimento de Lívia em 25-30%;
-- revelação dos sonhos para Lívia em 35-40%;
-- DREAM_004 em 35-45%;
-- DREAM_005 em 50-60%;
-- DREAM_006 e quebra do pacto em 65-75%;
-- verdade do volante em 75-85%;
-- DREAM_007 em 80-90%, depois da escolha autônoma de Lívia e antes de Henrique saber qual foi essa escolha;
-- DREAM_008 em 95-100%, com Lívia viva e mais velha em continuidade cotidiana.
-
-Detalhes em `canon/SUPERNATURAL_RULES.md`, `story/DREAM_MAP.md` e `story/REVEAL_MAP.md`.
-
-## Romance
-
-Marcos principais:
-
-- implicância pré-acidente sem paixão juvenil secreta;
-- sonhos produzem primeiro atenção, não desejo automático;
-- Lívia descobre os sonhos aproximadamente em 35-40%;
-- pacto explícito impede Henrique de usar terceiros para administrar as escolhas dela;
-- Henrique pede desculpas pelo hospital antes de conhecer a verdade completa do acidente;
-- primeiro beijo aproximadamente em 45-50%;
-- relação assumida aproximadamente em 50-60%, antes da residência física;
-- ruptura ocorre quando Henrique viola o pacto e envolve Tomás, que só então descobre os sonhos;
-- reparação começa com contenção e correção da narrativa familiar;
-- reconciliação exige Henrique sentir medo sem transformar medo em autoridade e Lívia aceitar apoio sem transformar autonomia em isolamento;
-- o sonho final não cria nem valida sozinho o casal.
-
-Detalhes em `story/ROMANCE_ARC.md`.
-
-## Cadeia causal do futuro sombrio
-
-A cadeia aprovada é:
+Cadeia aprovada:
 
 **medo de vulnerabilidade → ocultação → medo dele → controle/intervenção → mais ocultação → isolamento → sobrecarga → rupturas → crise.**
 
-A linha sombria chegaria à crise se os padrões permanecessem inalterados. A linha presente começa a divergir quando Lívia rompe o isolamento por iniciativa própria e, depois, Henrique demonstra sob pressão que consegue cuidar sem assumir autoridade.
+A linha presente diverge quando Lívia rompe o isolamento por iniciativa própria e Henrique aprende a suportar medo sem convertê-lo em autoridade.
 
-Detalhes em `story/FUTURE_CAUSAL_CHAIN.md` e `story/CURRENT_OUTLINE.md`.
+## Romance
 
-## O que continua aberto para o outline por capítulos
+- implicância histórica real sem paixão juvenil secreta;
+- atenção antecede atração assumida;
+- pacto de confiança no cap. 15;
+- desculpa pelo hospital no cap. 18 antes da verdade completa;
+- primeiro beijo no cap. 19;
+- relação assumida no cap. 22;
+- ruptura por violação do pacto no cap. 29;
+- reparação começa por contenção e correção da narrativa familiar;
+- reconciliação no cap. 39 depende de comportamento já demonstrado;
+- o vínculo sobrenatural não obriga o casal.
 
-- posição exata dos oito sonhos dentro dos capítulos;
+## Detalhes deliberadamente adaptáveis
+
+O outline oficial permite fechar durante briefs/prosa, sem reabrir a arquitetura:
+
+- mecanismo exato que leva Henrique ao Rastro;
+- episódio pré-acidente concreto de paternalismo;
 - distribuição fina das pistas entre DREAM_004 e DREAM_005;
-- cenas concretas de reclassificação mútua;
-- circunstância exata da revelação dos sonhos;
-- contexto do pedido de desculpas;
-- cena/local do primeiro beijo;
-- forma prática de definição da relação;
-- cenas íntimas específicas, se houver;
-- formulação concreta da ruptura e reconciliação;
-- intervalo entre crise, reparação e retomada;
-- forma de acesso legítimo de Henrique a informações sobre Lívia depois da ruptura;
-- execução da escolha de Lívia com Bia antes de DREAM_007;
-- situação grave final que testa a mudança de Henrique sem transformá-lo em salvador.
+- circunstância/local do primeiro beijo;
+- posição fina da primeira cena sexual dentro da faixa caps. 22-24;
+- diálogos exatos dos marcos;
+- logística do canal direto pós-ruptura;
+- gatilho imediato e logística segura da crise do cap. 37;
+- momento exato de eventual convite para Henrique ir a São Paulo;
+- local e intervalo exatos da reconciliação;
+- fala banal e detalhes visuais de DREAM_008;
+- geografia fina, colegas e cenografia sem impacto canônico.
 
 ## Próximo passo recomendado
 
-1. montar uma hipótese de aproximadamente 40 capítulos dentro da faixa aprovada de 38-42;
-2. definir para cada capítulo função dramática, cenas, estado emocional, conhecimento de Henrique e revelações permitidas;
-3. encaixar os oito sonhos sem criar padrão mecânico;
-4. conferir distribuição de cotidiano, trabalho, romance, acidente e residência para evitar capítulos puramente funcionais;
-5. validar o outline completo contra `story/REVEAL_MAP.md`, `story/DREAM_MAP.md`, `story/ROMANCE_ARC.md` e `editorial/INTIMACY_AND_SCALE.md`;
-6. somente então iniciar prosa definitiva.
+1. produzir **briefs de cena/capítulo**, começando pelo cap. 1 e avançando em ordem;
+2. em cada brief, registrar objetivo dramático, entrada/saída emocional, conhecimento permitido, revelações proibidas, cenas necessárias e continuidade física/temporal;
+3. validar cada brief contra `story/CHAPTER_OUTLINE.md`, `story/REVEAL_MAP.md`, `story/DREAM_MAP.md` e estilo;
+4. iniciar prosa definitiva somente quando o brief do capítulo correspondente estiver consistente;
+5. manter `STATUS.md` atualizado à medida que capítulos forem aprovados.
 
 ## Regra para retomada em outro chat
 
-Ao continuar este projeto, não recomece da premissa. Leia os arquivos essenciais indicados em `PROJECT.md`, identifique o próximo passo registrado aqui e avance a partir dele.
+Leia `PROJECT.md`, este `STATUS.md` e `story/CHAPTER_OUTLINE.md`. Não recomece da premissa nem refaça a arquitetura já consolidada sem nova decisão explícita.

@@ -6,28 +6,38 @@
 
 **Infraestrutura:** projeto consolidado no repositório `storytelling`. Este arquivo é o ponto de retomada entre chats.
 
-Nenhum capítulo definitivo deve ser escrito ainda. Premissa, acidente, cadeia causal do futuro sombrio, regras sobrenaturais, mapa estrutural dos sonhos, setting, personagens centrais, arco romântico, forma narrativa, mapa de revelações, motivos concretos líderes dos sonhos e **camada cotidiana necessária dos três personagens centrais** já possuem direção aprovada.
+Nenhum capítulo definitivo deve ser escrito ainda. Premissa, acidente, cadeia causal do futuro sombrio, regras sobrenaturais, mapa estrutural dos sonhos, setting, personagens centrais, arco romântico, forma narrativa, mapa de revelações, motivos concretos líderes dos sonhos, camada cotidiana necessária dos três personagens centrais e **calibração de voz/prosa** já possuem direção aprovada.
 
 ## Progresso da sessão mais recente
 
-Foi aprovada e consolidada a camada cotidiana de **Tomás Almeida**, encerrando a camada de rotina necessária dos três personagens centrais antes da calibração de voz.
+Foi aprovada e consolidada a **voz fina do romance** e criado `editorial/STYLE_EXAMPLES.md` como referência obrigatória de execução.
 
-### Tomás - trabalho, casa e vida social
+### Voz e cadência aprovadas
 
-- trabalha como arquiteto coordenador de projetos na **Quadrante 27 Arquitetura**, escritório fictício de porte médio em Belo Horizonte;
-- sua área principal combina **edifícios residenciais multifamiliares** e **retrofit/requalificação de edifícios existentes**;
-- coordena entregas, compatibilização, interlocução com engenheiros/consultores, reuniões com clientes e parte do acompanhamento de obra, sem ser sócio ou chefe máximo;
-- profissionalmente sabe confrontar problemas, dizer não e sustentar decisões, reforçando que seu evitamento é afetivo/relacional, não incapacidade geral;
-- a rotina é predominantemente diurna, com escritório, reuniões e visitas a obra, incluindo picos de entrega sem torná-lo permanentemente indisponível;
-- dor residual na perna pode reaparecer depois de esforço prolongado, sem defini-lo como vítima ou ser usada para culpar Lívia;
-- vive sozinho em apartamento próprio mais antigo no **Funcionários**, reformado gradualmente e usado como ponto frequente de convivência;
-- a casa funciona como espaço social porque Tomás é agregador, não porque esteja tentando produzir o romance de Henrique e Lívia;
-- já teve relacionamentos adultos e está solteiro no início, sem ex-parceira ou subtrama romântica estruturalmente importante definida;
-- não existe tensão romântica entre Tomás e Lívia;
-- colegas de arquitetura, amigos de faculdade e outras amizades podem surgir organicamente sem fichas antecipadas;
-- Tomás continua sem saber dos sonhos até Henrique quebrar o pacto no Ato 4.
+- terceira pessoa limitada muito próxima de Henrique, no passado, sem virar primeira pessoa disfarçada;
+- linguagem contemporânea, adulta, fluida e de alta legibilidade;
+- frases médias predominantes, com variação real de comprimento;
+- frases muito curtas e fragmentação funcionam como acento de ritmo, impacto, medo, desejo ou desorganização, não como cadência automática;
+- humor interno de Henrique é seco e nasce principalmente de racionalização, irritação, classificação e atrito entre competência profissional e vida pessoal;
+- banter deve ser rápido e específico sem transformar toda troca em competição de punchlines;
+- química romântica nasce de familiaridade, atenção excessiva, subtexto e mudança de percepção;
+- atração deve aparecer primeiro por competência, movimento, voz, hábitos e detalhes que Henrique não precisaria memorizar;
+- Lívia continua existindo como profissional e pessoa para além do olhar romântico de Henrique;
+- Tomás não deve funcionar como cupido, público interno ou comentarista consciente da dinâmica romântica.
 
-Detalhes em `canon/characters/brother.md` e `canon/SETTING.md`.
+### Sonhos - calibração de linguagem
+
+- permanecem no mesmo POV, pessoa e tempo verbal da vigília;
+- a textura fica mais próxima, sensorial, associativa e emocionalmente densa sem parecer outro livro;
+- a fragmentação pode aumentar, mas a ação e as pistas continuam legíveis;
+- no **DREAM_001**, a natureza suicida da crise deve ser claramente inferível pelo conjunto da cena;
+- DREAM_001 não mostra método, ato, instrução operacional ou imagem gráfica explícita;
+- o terror deve vir de intenção percebida, cansaço, intimidade impossível, impotência e luto antecipado;
+- a crise não é estetizada, romantizada nem enquadrada como prova de amor;
+- o despertar privilegia resíduo emocional/sensorial antes da interpretação racional;
+- DREAM_001 planta em Henrique a sensação compreensível de que ainda existe tempo para impedir o futuro, impulso que mais tarde pode alimentar seu padrão de transformar medo em intervenção.
+
+Detalhes em `editorial/STYLE_EXAMPLES.md`, `editorial/STYLE_TARGET.md` e `editorial/DREAM_STYLE.md`.
 
 ## Forma narrativa
 
@@ -74,28 +84,19 @@ Enquanto Tomás estava incapaz de decidir, Henrique pressionou família/equipe p
 
 Detalhes completos em `canon/ACCIDENT.md`.
 
-### Personagens
+### Personagens e cotidiano
 
-Henrique tende a converter medo em ação, plano e intervenção. Medicina de emergência e seu papel histórico de irmão mais velho reforçam capacidades reais de agir sob pressão, mas não lhe dão autoridade pessoal sobre outros adultos. Sua camada cotidiana necessária para cena já está consolidada.
+A camada cotidiana necessária dos três personagens centrais está fechada para esta fase.
 
-Lívia construiu carreira genuinamente valiosa em ensino/coreografia depois do acidente e quer consolidar-se como coreógrafa autoral. O tornozelo lesionado permite função ampla, mas carga acumulada pode produzir dor/limitação. Sua autonomia pode degenerar em ocultação e isolamento. Sua camada cotidiana necessária para cena já está consolidada.
+- Henrique trabalha no **Hospital Metropolitano do Horizonte**, é emergencista sênior com preceptoria, mora no Santo Agostinho, possui rotina adulta estabelecida e não é médico de Lívia;
+- Lívia trabalha no **Rastro**, mora em Santa Tereza, administra o tornozelo de modo competente no cotidiano e mantém Bia como amizade adulta/profissional importante;
+- Tomás trabalha na **Quadrante 27 Arquitetura** com residencial multifamiliar e retrofit/requalificação, mora no Funcionários e sua casa funciona como ponto de convivência por sua sociabilidade, não por matchmaking;
+- **Camila Nogueira**, 38 anos, é a principal amizade profissional de Henrique;
+- **Beatriz “Bia” Faria**, 35 anos, é produtora cultural e amizade importante de Lívia construída depois do acidente;
+- não existe tensão romântica entre Tomás e Lívia;
+- Tomás continua sem saber dos sonhos até Henrique quebrar o pacto no Ato 4.
 
-Tomás é profissionalmente competente; seu evitamento é especificamente emocional/relacional. Seu silêncio de seis anos se consolidou gradualmente e sua reparação exige aceitar consequências. Sua camada cotidiana necessária para cena já está consolidada.
-
-Rede aprovada:
-
-- os pais de Henrique e Tomás estão vivos e a família é funcional;
-- os pais de Lívia estão vivos; ela é filha única e mantém relação funcional/afetiva com eles;
-- Tomás é o principal agregador social do núcleo histórico;
-- **Beatriz “Bia” Faria**, 35 anos, é amizade importante de Lívia construída depois do acidente e produtora cultural ligada à dança/performance;
-- **Camila Nogueira**, 38 anos, é amizade profissional importante de Henrique na emergência;
-- Henrique vive sozinho no Santo Agostinho;
-- Lívia vive sozinha em apartamento alugado na região de Santa Tereza;
-- Tomás vive sozinho em apartamento próprio no Funcionários;
-- Lívia trabalha no Rastro e não é dona do espaço;
-- Tomás trabalha na Quadrante 27 e não é sócio.
-
-Detalhes em `canon/characters/`.
+Detalhes em `canon/characters/` e `canon/SETTING.md`.
 
 ### Sobrenatural
 
@@ -117,7 +118,7 @@ Existem oito sonhos estruturalmente relevantes com progressão:
 
 `terror → intimidade → identidade → investigação → erro causal → profecia autorrealizável → divergência → possibilidade`
 
-O reconhecimento de Lívia por movimento ocorre aproximadamente em 25–30%. O gesto, as três pistas principais da residência e as funções concretas de DREAM_006-008 estão aprovados em `story/DREAM_MAP.md`. DREAM_007 inclui divergência produzida também por agência própria de Lívia. DREAM_008 continua além do antigo ponto fatal e mostra Lívia viva e mais velha. O fio vermelho não aparece literalmente nos sonhos.
+O reconhecimento de Lívia por movimento ocorre aproximadamente em 25–30%. O gesto, as três pistas principais da residência e as funções concretas de DREAM_006-008 estão aprovados em `story/DREAM_MAP.md`.
 
 Motivos concretos aprovados:
 
@@ -127,7 +128,6 @@ Motivos concretos aprovados:
 - pistas do Centro Aresta: crachá com cordão amarelo e símbolo abstrato, marcação diagonal de fita no piso preto e som curto de três notas ligado ao prédio;
 - DREAM_006 tem como motivo líder a voz de Tomás, por telefone/mediação equivalente, pedindo que Lívia volte para Belo Horizonte;
 - antes de DREAM_007, Lívia procura Bia, admite sobrecarga e negocia por decisão própria redistribuição de participação física/carga, delegação e tratamento;
-- Bia pode apoiar operacionalmente essa reorganização, mas a decisão continua sendo de Lívia;
 - Henrique não sabe dessa escolha quando DREAM_007 muda;
 - DREAM_008 acontece em um estúdio depois de ensaio, anos mais tarde, com Lívia viva, mais velha e repetindo o mesmo gesto corporal.
 
@@ -195,8 +195,6 @@ Detalhes em `story/FUTURE_CAUSAL_CHAIN.md`, `story/CURRENT_OUTLINE.md`, `story/R
 
 ### Personagens/cotidiano
 
-A camada cotidiana necessária dos três personagens centrais está fechada para esta fase.
-
 Continuam deliberadamente abertos, salvo necessidade concreta do outline:
 
 - se Lívia dirige regularmente no presente;
@@ -219,20 +217,21 @@ Continuam deliberadamente abertos, salvo necessidade concreta do outline:
 
 ### Voz, design e manuscrito
 
-- voz fina/cadência definitiva da terceira pessoa próxima de Henrique;
+A voz fina/cadência e `editorial/STYLE_EXAMPLES.md` estão fechados para esta fase.
+
+Continuam abertos:
+
 - grau de explicitude sexual;
 - comprimento médio e número final de capítulos;
-- criação e aprovação de `editorial/STYLE_EXAMPLES.md`;
 - detalhes tipográficos das páginas pretas dos sonhos;
 - título definitivo.
 
 ## Próximo passo recomendado
 
-1. **calibrar amostras originais de estilo e criar/aprovar `editorial/STYLE_EXAMPLES.md`**;
-2. definir grau de explicitude sexual e comprimento médio aproximado dos capítulos quando a voz estiver calibrada;
-3. revisar o outline macro já com os detalhes de sonhos e cotidiano fechados;
-4. produzir outline por capítulos validando cada capítulo contra `story/REVEAL_MAP.md` e `story/DREAM_MAP.md`;
-5. somente então iniciar prosa definitiva.
+1. **definir grau de explicitude sexual e comprimento médio aproximado dos capítulos**;
+2. revisar o outline macro já com sonhos, cotidiano e voz calibrados;
+3. produzir outline por capítulos validando cada capítulo contra `story/REVEAL_MAP.md` e `story/DREAM_MAP.md`;
+4. somente então iniciar prosa definitiva.
 
 ## Regra para retomada em outro chat
 

@@ -26,6 +26,8 @@ Também estão aprovados em alto nível:
 
 Microexecução coreográfica, redação de falas, distribuição exata das pistas e detalhes visuais continuam ajustáveis no outline/prosa sem reabrir a função estrutural.
 
+A execução estilística de DREAM_001 também está calibrada: a natureza suicida da crise deve ser claramente inferível sem método, ato ou imagem gráfica explícita. A função permanece terror, intimidade impossível e impotência, não exposição operacional da crise.
+
 ### Personagens e setting
 
 - **Henrique Almeida**, 37 anos, irmão mais velho, médico de emergência em Belo Horizonte;
@@ -132,20 +134,31 @@ Decisões aprovadas:
 - a primeira divergência nasce também de uma ação de Lívia contra o isolamento, realizada por agência própria;
 - DREAM_008 confirma possibilidade alterável, não destino garantido.
 
-## Prioridade 1 - voz e prosa antes do manuscrito
+### Voz e prosa - calibrado
 
-Próxima camada a desenvolver:
+A voz está consolidada em `editorial/STYLE_TARGET.md`, `editorial/PROSE_STYLE.md`, `editorial/DIALOGUE_STYLE.md`, `editorial/DREAM_STYLE.md` e `editorial/STYLE_EXAMPLES.md`.
 
-- testar amostras originais em terceira pessoa próxima de Henrique;
-- calibrar diferença de textura entre vigília e sonho sem trocar POV/pessoa/tempo;
-- criar e aprovar `editorial/STYLE_EXAMPLES.md`;
+Estão aprovados para esta fase:
+
+- terceira pessoa próxima de Henrique com oralidade contemporânea e adulta;
+- frases médias predominantes e fragmentação seletiva;
+- humor interno seco baseado em racionalização, irritação e classificação;
+- banter rápido sem punchline contínua;
+- atração expressa primeiro como atenção excessiva, competência e movimento;
+- sonhos no mesmo registro-base, porém mais próximos, sensoriais e associativos;
+- DREAM_001 com crise suicida claramente inferível sem método ou imagem gráfica explícita.
+
+## Prioridade 1 - decisões editoriais restantes
+
+Próximas decisões a desenvolver:
+
 - definir grau de explicitude sexual;
 - definir comprimento médio aproximado dos capítulos;
 - validar como as quebras de página dos sonhos funcionam sem tornar sua chegada previsível.
 
 ## Prioridade 2 - outline por capítulos
 
-Depois da calibração de voz:
+Depois dessas decisões editoriais de escala:
 
 - revisar o outline macro;
 - transformar os atos em sequência de capítulos e cenas;

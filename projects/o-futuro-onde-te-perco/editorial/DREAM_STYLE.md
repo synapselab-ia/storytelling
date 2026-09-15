@@ -30,6 +30,9 @@ Os sonhos devem contrastar com a leveza relativa da vida desperta sem parecer pe
 - O terror deve vir da familiaridade e da impotência, não de imagens excessivamente gráficas.
 - A linguagem pode ficar mais condensada e associativa, mas continua clara o suficiente para o leitor rastrear pistas.
 - A transição precisa continuar compreensível pela prosa mesmo sem recursos gráficos.
+- Em **DREAM_001**, a natureza suicida da crise deve ser claramente inferível pelo conjunto da cena; não deve parecer igualmente provável que se trate apenas de acidente, doença súbita ou violência externa.
+- Essa legibilidade não autoriza mostrar método, ato, instrução operacional ou imagem gráfica. Intenção percebida, cansaço, mudança de comportamento, intimidade impossível e impotência devem carregar o sentido.
+- A crise não deve ser estetizada, romantizada nem tratada como prova de amor. Henrique pode sentir amor e terror antecipado, mas o romance não é causa, cura ou justificativa da crise.
 
 ## Tratamento visual futuro
 

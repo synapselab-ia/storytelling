@@ -46,7 +46,7 @@ Consolidado em `editorial/INTIMACY_AND_SCALE.md`:
 
 A arquitetura está consolidada em `story/CHAPTER_OUTLINE.md` com **40 capítulos**.
 
-Marcos protegidos:
+Marcos protegidos principais:
 
 - DREAM_001: cap. 1;
 - DREAM_002: cap. 4;
@@ -69,21 +69,38 @@ Marcos protegidos:
 - reconciliação: cap. 39;
 - DREAM_008: cap. 40.
 
-## Prioridade atual - briefs e execução
+### Brief do capítulo 1
 
-A arquitetura macro e por capítulos está encerrada para esta fase.
+Consolidado em `story/briefs/CHAPTER_01.md`.
 
-Próximos trabalhos:
+Decisões aprovadas:
 
-1. criar brief do capítulo 1;
-2. validar função, cenas, conhecimento permitido, revelações proibidas, estado emocional e continuidade;
-3. resolver apenas os detalhes adaptáveis necessários àquele capítulo;
-4. iniciar prosa definitiva do capítulo quando o brief estiver consistente;
-5. repetir o ciclo em ordem, auditando continuidade entre capítulos.
+1. Lívia não aparece acordada no capítulo 1;
+2. a mulher do sonho usa `Henrique` com familiaridade como detalhe de intimidade impossível;
+3. Henrique faz registro mínimo do primeiro sonho;
+4. o hospital ocupa a maior parte da vigília e demonstra calibração entre agir, observar e coletar dados;
+5. o caso clínico não envolve saúde mental/suicídio;
+6. o capítulo termina com sensação de futuro evitável, sem crença sobrenatural consciente.
+
+## Prioridade atual - execução do capítulo 1
+
+1. escolher e pesquisar um caso clínico simples, contemporâneo e tecnicamente correto para a cena hospitalar;
+2. escrever a prosa definitiva do capítulo 1 seguindo `story/briefs/CHAPTER_01.md`;
+3. revisar voz, sonho, POV, continuidade e revelações;
+4. auditar o capítulo antes de consolidá-lo no manuscrito;
+5. em seguida, produzir o brief do capítulo 2.
 
 ## Detalhes adaptáveis durante briefs/prosa
 
-### Sonhos
+### Capítulo 1
+
+- diagnóstico/caso clínico específico da cena hospitalar, desde que cumpra a função do brief e seja tecnicamente verificado;
+- redação exata das falas de DREAM_001;
+- paleta sensorial fina do sonho;
+- redação literal do hook final;
+- pequenas ações/transições que não introduzam pista estrutural nova.
+
+### Sonhos futuros
 
 - microexecução coreográfica do gesto;
 - desenho preciso do símbolo e fonte técnica do som de três notas;
@@ -92,7 +109,7 @@ Próximos trabalhos:
 - redação da conversa de Lívia com Bia;
 - fala cotidiana e detalhes visuais de DREAM_008.
 
-### Romance e cenas
+### Romance e cenas futuras
 
 - episódio pré-acidente concreto que dramatiza paternalismo;
 - mecanismo exato de ida de Henrique ao Rastro;

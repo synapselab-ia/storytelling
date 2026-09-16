@@ -1,7 +1,7 @@
-name: Auditoria narrativa
+name: Auditoria narrativa opcional
+
 on:
-  pull_request:
-    branches: [ main ]
+  workflow_dispatch:
 
 jobs:
   auditar:
@@ -18,7 +18,7 @@ jobs:
       - name: Instalar Google GenAI SDK
         run: pip install --disable-pip-version-check google-genai
 
-      - name: Rodar auditoria narrativa
+      - name: Rodar auditoria narrativa opcional
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python auditor.py
